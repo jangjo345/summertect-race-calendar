@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T19:06:49.687292",
+  "updated": "2026-03-15T19:59:54.815057",
   "total": 107,
   "races": [
     {
@@ -19,7 +19,13 @@
       "reg_start": "2026-01-02",
       "reg_end": "2026-03-15",
       "reg_verified": true,
-      "runable_matched": true
+      "runable_matched": true,
+      "weather": {
+        "icon": "⛅",
+        "desc": "구름 약간",
+        "tmax": 15,
+        "tmin": 0
+      }
     },
     {
       "date": "2026-03-22",
