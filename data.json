@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-21T07:01:27.714787",
-  "total": 111,
+  "updated": "2026-03-22T07:01:26.744458",
+  "total": 114,
   "races": [
     {
       "date": "2026-03-28",
@@ -38,7 +38,13 @@
       "reg_start": "2026-02-10",
       "reg_end": "2026-03-22",
       "reg_verified": true,
-      "runable_matched": true
+      "runable_matched": true,
+      "weather": {
+        "icon": "⛅",
+        "desc": "구름 약간",
+        "tmax": 14,
+        "tmin": 4
+      }
     },
     {
       "date": "2026-03-29",
@@ -57,7 +63,13 @@
       "reg_start": "2026-02-10",
       "reg_end": "2026-03-22",
       "reg_verified": true,
-      "runable_matched": true
+      "runable_matched": true,
+      "weather": {
+        "icon": "⛅",
+        "desc": "구름 약간",
+        "tmax": 14,
+        "tmin": 4
+      }
     },
     {
       "date": "2026-04-04",
@@ -568,7 +580,7 @@
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41104",
       "view_no": "41104",
       "reg_start": "2025-10-05",
-      "reg_end": "2026-03-30",
+      "reg_end": "2026-04-25",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -1555,48 +1567,10 @@
       "homepage": "http://ulmarathon.co.kr/",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41431",
       "view_no": "41431",
-      "reg_start": "",
-      "reg_end": "",
-      "reg_verified": false,
+      "reg_start": "2026-03-03",
+      "reg_end": "2026-04-30",
+      "reg_verified": true,
       "runable_matched": false
-    },
-    {
-      "date": "2026-06-14",
-      "date_display": "6/14(일)",
-      "month": 6,
-      "day": 14,
-      "weekday": "일",
-      "name": "당일 서울시 행사가 있어 변경합니다",
-      "course": "하프,10km,5km",
-      "place": "상암 월드컵공원 평화광장",
-      "org": "서울시 행사가있어 변경",
-      "tel": "02-000-0000",
-      "homepage": "http://kdjrun.",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41371",
-      "view_no": "41371",
-      "reg_start": "",
-      "reg_end": "",
-      "reg_verified": false,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-06-14",
-      "date_display": "6/14(일)",
-      "month": 6,
-      "day": 14,
-      "weekday": "일",
-      "name": "제22회 영덕해변전국마라톤",
-      "course": "하프,10km,5km",
-      "place": "고래불해수욕장",
-      "org": "영덕군",
-      "tel": "010-5944-2686",
-      "homepage": "http://www.runmp.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41136",
-      "view_no": "41136",
-      "reg_start": "",
-      "reg_end": "",
-      "reg_verified": false,
-      "runable_matched": true
     },
     {
       "date": "2026-06-20",
@@ -1612,9 +1586,9 @@
       "homepage": "http://hoperun.kr/",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41467",
       "view_no": "41467",
-      "reg_start": "",
-      "reg_end": "",
-      "reg_verified": false,
+      "reg_start": "2026-03-11",
+      "reg_end": "2026-06-11",
+      "reg_verified": true,
       "runable_matched": true
     },
     {
@@ -1631,9 +1605,9 @@
       "homepage": "http://www.irunman.kr",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41406",
       "view_no": "41406",
-      "reg_start": "",
-      "reg_end": "",
-      "reg_verified": false,
+      "reg_start": "2026-02-05",
+      "reg_end": "2026-05-22",
+      "reg_verified": true,
       "runable_matched": true
     },
     {
@@ -1650,9 +1624,9 @@
       "homepage": "http://cjapplemarathon.com/index.asp",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41383",
       "view_no": "41383",
-      "reg_start": "",
-      "reg_end": "",
-      "reg_verified": false,
+      "reg_start": "2026-03-02",
+      "reg_end": "2026-06-03",
+      "reg_verified": true,
       "runable_matched": true
     },
     {
@@ -1669,9 +1643,9 @@
       "homepage": "http://mara1080.com/event/cfa1bea4-b545-4df9-8ae1-5ce280ca0e3d",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41443",
       "view_no": "41443",
-      "reg_start": "",
-      "reg_end": "",
-      "reg_verified": false,
+      "reg_start": "2026-03-05",
+      "reg_end": "2026-06-01",
+      "reg_verified": true,
       "runable_matched": false
     },
     {
@@ -1688,9 +1662,9 @@
       "homepage": "http://realhappyrun.kr/",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41439",
       "view_no": "41439",
-      "reg_start": "",
-      "reg_end": "",
-      "reg_verified": false,
+      "reg_start": "2026-03-05",
+      "reg_end": "2026-06-14",
+      "reg_verified": true,
       "runable_matched": true
     },
     {
@@ -1707,9 +1681,9 @@
       "homepage": "http://bamseomrun.kr",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41391",
       "view_no": "41391",
-      "reg_start": "",
-      "reg_end": "",
-      "reg_verified": false,
+      "reg_start": "2026-02-10",
+      "reg_end": "2026-06-05",
+      "reg_verified": true,
       "runable_matched": true
     },
     {
@@ -1726,9 +1700,9 @@
       "homepage": "http://www.koreatrail.net/home/main.php?link=event&einc=eindex&opp=20250626115011&csno=20201120111538#baseline",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41218",
       "view_no": "41218",
-      "reg_start": "",
-      "reg_end": "",
-      "reg_verified": false,
+      "reg_start": "2025-12-01",
+      "reg_end": "2026-06-10",
+      "reg_verified": true,
       "runable_matched": false
     },
     {
@@ -1960,6 +1934,63 @@
       "runable_matched": false
     },
     {
+      "date": "2026-09-06",
+      "date_display": "9/6(일)",
+      "month": 9,
+      "day": 6,
+      "weekday": "일",
+      "name": "희망드림 제23회 새벽강변 국제마라톤",
+      "course": "하프,10km,5km,3km가족런",
+      "place": "(양천구)목동운동장",
+      "org": "(사)한국마라톤협회",
+      "tel": "02-2647-4488",
+      "homepage": "http://amarunsb.com/",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41032",
+      "view_no": "41032",
+      "reg_start": "",
+      "reg_end": "",
+      "reg_verified": false,
+      "runable_matched": true
+    },
+    {
+      "date": "2026-09-12",
+      "date_display": "9/12(토)",
+      "month": 9,
+      "day": 12,
+      "weekday": "토",
+      "name": "2026 양양 강변 전국 마라톤",
+      "course": "하프,10km,5km",
+      "place": "강원도 양양군 웰컴센터",
+      "org": "G1방송, 양양군",
+      "tel": "033-248-5019",
+      "homepage": "http://yrun.co.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41420",
+      "view_no": "41420",
+      "reg_start": "",
+      "reg_end": "",
+      "reg_verified": false,
+      "runable_matched": true
+    },
+    {
+      "date": "2026-09-12",
+      "date_display": "9/12(토)",
+      "month": 9,
+      "day": 12,
+      "weekday": "토",
+      "name": "빵트레일런 2026",
+      "course": "10km,30K,20K",
+      "place": "정선 하이원 리조트",
+      "org": "1986프로덕션",
+      "tel": "02-364-1986",
+      "homepage": "http://bbangtrailrun.co.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41354",
+      "view_no": "41354",
+      "reg_start": "",
+      "reg_end": "",
+      "reg_verified": false,
+      "runable_matched": false
+    },
+    {
       "date": "2026-09-13",
       "date_display": "9/13(일)",
       "month": 9,
@@ -1973,9 +2004,9 @@
       "homepage": "http://www.koreatrail.net/home/main.php?link=event&einc=eapp&opp=20250910133652&csno=20191227110239#baseline",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41192",
       "view_no": "41192",
-      "reg_start": "2025-11-13",
-      "reg_end": "2026-08-25",
-      "reg_verified": true,
+      "reg_start": "",
+      "reg_end": "",
+      "reg_verified": false,
       "runable_matched": false
     },
     {
@@ -1992,9 +2023,9 @@
       "homepage": "http://www.ujrun.kr",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41137",
       "view_no": "41137",
-      "reg_start": "2026-01-01",
-      "reg_end": "2026-05-31",
-      "reg_verified": true,
+      "reg_start": "",
+      "reg_end": "",
+      "reg_verified": false,
       "runable_matched": true
     },
     {
@@ -2011,10 +2042,29 @@
       "homepage": "http://rocknrun.kr",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41349",
       "view_no": "41349",
-      "reg_start": "2026-03-20",
-      "reg_end": "2026-06-10",
-      "reg_verified": true,
+      "reg_start": "",
+      "reg_end": "",
+      "reg_verified": false,
       "runable_matched": false
+    },
+    {
+      "date": "2026-09-20",
+      "date_display": "9/20(일)",
+      "month": 9,
+      "day": 20,
+      "weekday": "일",
+      "name": "제19회 가평자라섬 전국마라톤",
+      "course": "하프,10km,5km,5km가족런",
+      "place": "가평종합운동장(경기)",
+      "org": "가평군체육회, 세계일보",
+      "tel": "02-2647-4488",
+      "homepage": "http://gprun.com/",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41351",
+      "view_no": "41351",
+      "reg_start": "",
+      "reg_end": "",
+      "reg_verified": false,
+      "runable_matched": true
     },
     {
       "date": "2026-10-03",
@@ -2030,9 +2080,9 @@
       "homepage": "http://isunshintrail.com",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41316",
       "view_no": "41316",
-      "reg_start": "2026-02-01",
-      "reg_end": "2026-09-20",
-      "reg_verified": true,
+      "reg_start": "",
+      "reg_end": "",
+      "reg_verified": false,
       "runable_matched": false
     },
     {
@@ -2049,10 +2099,29 @@
       "homepage": "http://mara1080.com/event/fcaa0bc8-1489-47c3-8fec-8e5a5c17284e",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41491",
       "view_no": "41491",
-      "reg_start": "2026-03-20",
-      "reg_end": "2026-09-03",
-      "reg_verified": true,
+      "reg_start": "",
+      "reg_end": "",
+      "reg_verified": false,
       "runable_matched": false
+    },
+    {
+      "date": "2026-10-04",
+      "date_display": "10/4(일)",
+      "month": 10,
+      "day": 4,
+      "weekday": "일",
+      "name": "제20회 달서하프마라톤",
+      "course": "하프,10km,5km",
+      "place": "대구 달서구 호림강나루공원",
+      "org": "달서구체육회",
+      "tel": "053-635-8683",
+      "homepage": "http://www.달서하프마라톤.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41332",
+      "view_no": "41332",
+      "reg_start": "",
+      "reg_end": "",
+      "reg_verified": false,
+      "runable_matched": true
     },
     {
       "date": "2026-10-10",
