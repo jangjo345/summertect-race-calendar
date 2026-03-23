@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-23T07:01:20.277604",
-  "total": 112,
+  "updated": "2026-03-24T07:01:19.971203",
+  "total": 109,
   "races": [
     {
       "date": "2026-04-04",
@@ -438,25 +438,6 @@
       "reg_end": "2026-03-31",
       "reg_verified": true,
       "runable_matched": false
-    },
-    {
-      "date": "2026-04-26",
-      "date_display": "4/26(일)",
-      "month": 4,
-      "day": 26,
-      "weekday": "일",
-      "name": "제24회 통일기원 포항해변마라톤",
-      "course": "하프,10km,5km,장애인5km",
-      "place": "포항종합운동장",
-      "org": "포항시육상연맹",
-      "tel": "054-241-0855",
-      "homepage": "http://phrun.co.kr/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41206",
-      "view_no": "41206",
-      "reg_start": "2025-12-15",
-      "reg_end": "2026-03-31",
-      "reg_verified": true,
-      "runable_matched": true
     },
     {
       "date": "2026-04-26",
@@ -1058,7 +1039,7 @@
       "place": "여의도공원 문화의마당",
       "org": "사단법인 피스런",
       "tel": "070-8095-5768",
-      "homepage": "http://www.sixshop.com/z9run/index",
+      "homepage": "http://earthrun.kr/",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41417",
       "view_no": "41417",
       "reg_start": "2026-02-25",
@@ -1167,7 +1148,7 @@
       "month": 5,
       "day": 31,
       "weekday": "일",
-      "name": "제4회 밤섬 마라톤",
+      "name": "제4회 여의도 밤섬 마라톤",
       "course": "하프,10km,5km",
       "place": "여의도공원 문화의마당",
       "org": "(사)대한생활체육연맹",
@@ -1482,7 +1463,7 @@
       "reg_start": "2026-03-18",
       "reg_end": "2026-05-20",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": true
     },
     {
       "date": "2026-06-14",
@@ -1878,9 +1859,9 @@
       "homepage": "http://www.koreatrail.net/home/main.php?link=event&einc=eapp&opp=20250910133652&csno=20191227110239#baseline",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41192",
       "view_no": "41192",
-      "reg_start": "2025-11-13",
-      "reg_end": "2026-08-31",
-      "reg_verified": true,
+      "reg_start": "",
+      "reg_end": "",
+      "reg_verified": false,
       "runable_matched": false
     },
     {
@@ -1897,9 +1878,9 @@
       "homepage": "http://www.ujrun.kr",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41137",
       "view_no": "41137",
-      "reg_start": "2026-01-01",
-      "reg_end": "2026-05-31",
-      "reg_verified": true,
+      "reg_start": "",
+      "reg_end": "",
+      "reg_verified": false,
       "runable_matched": true
     },
     {
@@ -1916,9 +1897,9 @@
       "homepage": "http://rocknrun.kr",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41349",
       "view_no": "41349",
-      "reg_start": "2026-03-20",
-      "reg_end": "2026-06-10",
-      "reg_verified": true,
+      "reg_start": "",
+      "reg_end": "",
+      "reg_verified": false,
       "runable_matched": false
     },
     {
@@ -1976,7 +1957,7 @@
       "reg_start": "",
       "reg_end": "",
       "reg_verified": false,
-      "runable_matched": false
+      "runable_matched": true
     },
     {
       "date": "2026-10-04",
@@ -2060,25 +2041,6 @@
       "month": 10,
       "day": 11,
       "weekday": "일",
-      "name": "2026 MBN 전국 나주 마라톤대회",
-      "course": "풀,하프,10km,5km",
-      "place": "나주종합스포츠파크",
-      "org": "나주시, MBN, 매일경제",
-      "tel": "010-2426-1070",
-      "homepage": "http://najumbnmarathon.com/home/main.ubs",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41434",
-      "view_no": "41434",
-      "reg_start": "",
-      "reg_end": "",
-      "reg_verified": false,
-      "runable_matched": true
-    },
-    {
-      "date": "2026-10-11",
-      "date_display": "10/11(일)",
-      "month": 10,
-      "day": 11,
-      "weekday": "일",
       "name": "제10회 가을철 산불조심마라톤",
       "course": "풀,하프,10km,5km,31km",
       "place": "광평교운동장",
@@ -2087,29 +2049,10 @@
       "homepage": "http://www.koreatrail.net/home/main.php?link=event&einc=eindex&csno=20190605121808&opp=20260203121910#baseline",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41422",
       "view_no": "41422",
-      "reg_start": "",
-      "reg_end": "",
-      "reg_verified": false,
+      "reg_start": "2026-02-23",
+      "reg_end": "2026-09-15",
+      "reg_verified": true,
       "runable_matched": false
-    },
-    {
-      "date": "2026-10-17",
-      "date_display": "10/17(토)",
-      "month": 10,
-      "day": 17,
-      "weekday": "토",
-      "name": "제24회 청원생명쌀대청호마라톤",
-      "course": "풀,하프,10km,5km",
-      "place": "문의체육공원",
-      "org": "청주시체육회",
-      "tel": "043-279-8073",
-      "homepage": "http://race.cjsports.or.kr/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41255",
-      "view_no": "41255",
-      "reg_start": "",
-      "reg_end": "",
-      "reg_verified": false,
-      "runable_matched": true
     },
     {
       "date": "2026-10-25",
