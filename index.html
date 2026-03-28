@@ -221,8 +221,20 @@
   document.body.style.webkitUserSelect='none';
 })();
 </script>
+<div id="visit-counter" style="text-align:center;padding:24px 0 32px;font-size:12px;color:#444;letter-spacing:0.5px;border-top:1px solid #1a1a1a;max-width:960px;margin:0 auto;">
+  TODAY <span id="visit-count" style="color:#00e68a;font-weight:600;">—</span>
+</div>
 <noscript><p style="text-align:center;padding:40px;color:#999;">JavaScript를 활성화해주세요.</p></noscript>
 <script data-goatcounter="https://erulecorp.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
+<script>
+(function(){
+  var el=document.getElementById('visit-count');
+  fetch('https://erulecorp.goatcounter.com/counter/'+encodeURIComponent(location.pathname)+'.json')
+    .then(function(r){return r.json()})
+    .then(function(d){if(d&&d.count_unique)el.textContent=d.count_unique})
+    .catch(function(){});
+})();
+</script>
 </body>
 </html>
