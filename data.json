@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-28T21:28:28.156798",
+  "updated": "2026-03-28T21:34:37.639661",
   "total": 97,
   "races": [
     {
@@ -19,7 +19,13 @@
       "reg_start": "2026-03-09",
       "reg_end": "2026-03-30",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "🌧️",
+        "desc": "비",
+        "tmax": 13,
+        "tmin": 2
+      }
     },
     {
       "date": "2026-04-04",
@@ -38,7 +44,13 @@
       "reg_start": "2025-11-11",
       "reg_end": "2026-04-03",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 14,
+        "tmin": 4
+      }
     },
     {
       "date": "2026-04-11",
@@ -57,7 +69,13 @@
       "reg_start": "2026-02-12",
       "reg_end": "2026-04-02",
       "reg_verified": true,
-      "runable_matched": true
+      "runable_matched": true,
+      "weather": {
+        "icon": "🌧️",
+        "desc": "비",
+        "tmax": 13,
+        "tmin": 7
+      }
     },
     {
       "date": "2026-04-11",
@@ -76,7 +94,13 @@
       "reg_start": "2026-02-12",
       "reg_end": "2026-04-02",
       "reg_verified": true,
-      "runable_matched": true
+      "runable_matched": true,
+      "weather": {
+        "icon": "🌧️",
+        "desc": "비",
+        "tmax": 13,
+        "tmin": 7
+      }
     },
     {
       "date": "2026-04-11",
@@ -95,7 +119,13 @@
       "reg_start": "2026-01-27",
       "reg_end": "2026-03-30",
       "reg_verified": true,
-      "runable_matched": true
+      "runable_matched": true,
+      "weather": {
+        "icon": "🌧️",
+        "desc": "비",
+        "tmax": 13,
+        "tmin": 7
+      }
     },
     {
       "date": "2026-04-12",

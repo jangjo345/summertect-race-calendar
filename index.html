@@ -197,7 +197,7 @@
       if(seen[key])return;seen[key]=true;
       var slot=card.querySelector('.weather-slot');
       if(!slot)return;
-      var url='https://api.open-meteo.com/v1/forecast?latitude='+lat+'&longitude='+lon+'&daily=weathercode,temperature_2m_max,temperature_2m_min&timezone=Asia%2FSeoul&forecast_days=16&start_date='+dt+'&end_date='+dt;
+      var url='https://api.open-meteo.com/v1/forecast?latitude='+lat+'&longitude='+lon+'&daily=weathercode,temperature_2m_max,temperature_2m_min&timezone=Asia%2FSeoul&start_date='+dt+'&end_date='+dt;
       fetch(url).then(function(r){return r.json()}).then(function(d){
         if(d.daily&&d.daily.weathercode&&d.daily.weathercode.length>0){
           var code=d.daily.weathercode[0];
