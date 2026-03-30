@@ -228,24 +228,15 @@
   TODAY <span id="visit-count" style="color:#00e68a;font-weight:600;">—</span>
 </div>
 <noscript><p style="text-align:center;padding:40px;color:#999;">JavaScript를 활성화해주세요.</p></noscript>
-<script>
-window.goatcounter = {
-  endpoint: 'https://erulecorp.goatcounter.com/count',
-  no_onload: false
-};
-</script>
-<script async src="//gc.zgo.at/count.js"></script>
+<script data-goatcounter="https://erulecorp.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 <script>
 (function(){
   var el=document.getElementById('visit-count');
-  function tryCount(){
-    if(window.goatcounter && window.goatcounter.visit_count){
-      window.goatcounter.visit_count({append:'#visit-count',type:'html',no_branding:true,path:'/'});
-    } else {
-      setTimeout(tryCount, 500);
-    }
-  }
-  setTimeout(tryCount, 1000);
+  fetch('https://erulecorp.goatcounter.com/counter/%2F.json')
+    .then(function(r){return r.json()})
+    .then(function(d){if(d&&d.count)el.textContent=d.count})
+    .catch(function(){});
 })();
 </script>
 </body>
