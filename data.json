@@ -1,32 +1,7 @@
 {
-  "updated": "2026-03-30T07:01:24.707454",
-  "total": 102,
+  "updated": "2026-03-31T07:01:22.473333",
+  "total": 107,
   "races": [
-    {
-      "date": "2026-04-04",
-      "date_display": "4/4(토)",
-      "month": 4,
-      "day": 4,
-      "weekday": "토",
-      "name": "오크밸리 힐스 나이트 레이스",
-      "course": "10km",
-      "place": "오크밸리 리조트",
-      "org": "오크밸리 리조트",
-      "tel": "010-8566-8705",
-      "homepage": "http://cltoo.com/ko/product/115",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41455",
-      "view_no": "41455",
-      "reg_start": "2026-03-09",
-      "reg_end": "2026-03-30",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "🌧️",
-        "desc": "비",
-        "tmax": 11,
-        "tmin": 4
-      }
-    },
     {
       "date": "2026-04-04",
       "date_display": "4/4(토)",
@@ -48,8 +23,8 @@
       "weather": {
         "icon": "🌧️",
         "desc": "비",
-        "tmax": 11,
-        "tmin": 7
+        "tmax": 16,
+        "tmin": 9
       }
     },
     {
@@ -71,10 +46,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 19,
-        "tmin": 14
+        "icon": "☀️",
+        "desc": "맑음",
+        "tmax": 17,
+        "tmin": 8
       }
     },
     {
@@ -96,35 +71,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 19,
-        "tmin": 14
-      }
-    },
-    {
-      "date": "2026-04-11",
-      "date_display": "4/11(토)",
-      "month": 4,
-      "day": 11,
-      "weekday": "토",
-      "name": "2026 서울클린뷰티런",
-      "course": "10km,5km",
-      "place": "여의도공원 문화의마당",
-      "org": "서울클린뷰티런 운영사무국",
-      "tel": "070-8098-1833",
-      "homepage": "http://2026seoulcleanbeautyrun.sixshop.site/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41339",
-      "view_no": "41339",
-      "reg_start": "2026-01-27",
-      "reg_end": "2026-03-30",
-      "reg_verified": true,
-      "runable_matched": true,
-      "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 19,
-        "tmin": 14
+        "icon": "☀️",
+        "desc": "맑음",
+        "tmax": 17,
+        "tmin": 8
       }
     },
     {
@@ -146,10 +96,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 21,
-        "tmin": 12
+        "icon": "☀️",
+        "desc": "맑음",
+        "tmax": 20,
+        "tmin": 10
       }
     },
     {
@@ -171,10 +121,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 18,
-        "tmin": 5
+        "icon": "☀️",
+        "desc": "맑음",
+        "tmax": 17,
+        "tmin": 4
       }
     },
     {
@@ -707,7 +657,7 @@
       "reg_start": "2026-03-27",
       "reg_end": "2026-04-05",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": true
     },
     {
       "date": "2026-05-16",
@@ -862,6 +812,25 @@
       "runable_matched": true
     },
     {
+      "date": "2026-05-23",
+      "date_display": "5/23(토)",
+      "month": 5,
+      "day": 23,
+      "weekday": "토",
+      "name": "2026 GOLD RUSH RACE",
+      "course": "10km,08:00,11:00",
+      "place": "미사경정공원",
+      "org": "러너블",
+      "tel": "02-000-0000",
+      "homepage": "http://runable.me/comp/3735",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41502",
+      "view_no": "41502",
+      "reg_start": "2026-03-23",
+      "reg_end": "2026-03-31",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
       "date": "2026-05-24",
       "date_display": "5/24(일)",
       "month": 5,
@@ -1010,6 +979,25 @@
       "view_no": "41325",
       "reg_start": "2026-01-06",
       "reg_end": "2026-03-31",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-05-30",
+      "date_display": "5/30(토)",
+      "month": 5,
+      "day": 30,
+      "weekday": "토",
+      "name": "서울유아차레이스 with 신한 20+ 뛰어요",
+      "course": "5km,걷기,달리기",
+      "place": "서울어린이대공원",
+      "org": "러너블",
+      "tel": "02-0000-0000",
+      "homepage": "http://seoulstrollerrace.imweb.me/",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41501",
+      "view_no": "41501",
+      "reg_start": "2026-02-19",
+      "reg_end": "2026-04-30",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -1256,7 +1244,7 @@
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41404",
       "view_no": "41404",
       "reg_start": "2026-03-03",
-      "reg_end": "2026-03-31",
+      "reg_end": "2026-04-08",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -1562,7 +1550,7 @@
       "reg_start": "2026-03-27",
       "reg_end": "2026-06-30",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": true
     },
     {
       "date": "2026-07-05",
@@ -1641,6 +1629,25 @@
       "runable_matched": false
     },
     {
+      "date": "2026-08-01",
+      "date_display": "8/1(토)",
+      "month": 8,
+      "day": 1,
+      "weekday": "토",
+      "name": "2026 인사이더런 S",
+      "course": "10km",
+      "place": "일산 킨텍스 제2전시장 7,8",
+      "org": "러너블",
+      "tel": "02-2031-1935",
+      "homepage": "http://insiderun.me",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41504",
+      "view_no": "41504",
+      "reg_start": "2026-03-26",
+      "reg_end": "2026-07-30",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
       "date": "2026-08-15",
       "date_display": "8/15(토)",
       "month": 8,
@@ -1676,7 +1683,7 @@
       "reg_start": "2025-12-23",
       "reg_end": "2026-06-23",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": true
     },
     {
       "date": "2026-08-30",
@@ -1791,6 +1798,25 @@
       "reg_end": "2026-04-15",
       "reg_verified": true,
       "runable_matched": true
+    },
+    {
+      "date": "2026-09-12",
+      "date_display": "9/12(토)",
+      "month": 9,
+      "day": 12,
+      "weekday": "토",
+      "name": "빵트레일런 2026",
+      "course": "10km,30K,20K",
+      "place": "정선 하이원 리조트",
+      "org": "1986프로덕션",
+      "tel": "02-364-1986",
+      "homepage": "http://bbangtrailrun.co.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41354",
+      "view_no": "41354",
+      "reg_start": "2026-03-31",
+      "reg_end": "2026-09-12",
+      "reg_verified": true,
+      "runable_matched": false
     },
     {
       "date": "2026-09-13",
@@ -1920,9 +1946,28 @@
       "homepage": "http://www.chultra.kr/",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41236",
       "view_no": "41236",
-      "reg_start": "2026-02-01",
-      "reg_end": "2026-09-30",
-      "reg_verified": true,
+      "reg_start": "",
+      "reg_end": "",
+      "reg_verified": false,
+      "runable_matched": true
+    },
+    {
+      "date": "2026-10-11",
+      "date_display": "10/11(일)",
+      "month": 10,
+      "day": 11,
+      "weekday": "일",
+      "name": "2026 MBN 전국 나주 마라톤대회",
+      "course": "풀,하프,10km,5km",
+      "place": "나주종합스포츠파크",
+      "org": "나주시, MBN, 매일경제",
+      "tel": "010-2426-1070",
+      "homepage": "http://najumbnmarathon.com/home/main.ubs",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41434",
+      "view_no": "41434",
+      "reg_start": "",
+      "reg_end": "",
+      "reg_verified": false,
       "runable_matched": true
     },
     {
@@ -1939,10 +1984,48 @@
       "homepage": "http://www.koreatrail.net/home/main.php?link=event&einc=eindex&csno=20190605121808&opp=20260203121910#baseline",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41422",
       "view_no": "41422",
-      "reg_start": "2026-02-23",
-      "reg_end": "2026-09-15",
-      "reg_verified": true,
+      "reg_start": "",
+      "reg_end": "",
+      "reg_verified": false,
       "runable_matched": false
+    },
+    {
+      "date": "2026-10-17",
+      "date_display": "10/17(토)",
+      "month": 10,
+      "day": 17,
+      "weekday": "토",
+      "name": "제24회 청원생명쌀대청호마라톤",
+      "course": "풀,하프,10km,5km",
+      "place": "문의체육공원",
+      "org": "청주시체육회",
+      "tel": "043-279-8073",
+      "homepage": "http://race.cjsports.or.kr/",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41255",
+      "view_no": "41255",
+      "reg_start": "",
+      "reg_end": "",
+      "reg_verified": false,
+      "runable_matched": true
+    },
+    {
+      "date": "2026-10-18",
+      "date_display": "10/18(일)",
+      "month": 10,
+      "day": 18,
+      "weekday": "일",
+      "name": "2026 아시아 오픈 마라톤",
+      "course": "하프,10km,엘리트선수10km",
+      "place": "광화문 광장(예정)",
+      "org": "아시아투데이",
+      "tel": "02-2647-4488",
+      "homepage": "http://asiarun.kr/",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41303",
+      "view_no": "41303",
+      "reg_start": "",
+      "reg_end": "",
+      "reg_verified": false,
+      "runable_matched": true
     },
     {
       "date": "2026-10-25",
@@ -1958,9 +2041,9 @@
       "homepage": "http://csmarathon.co.kr/csmarathon/",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41477",
       "view_no": "41477",
-      "reg_start": "2026-03-16",
-      "reg_end": "2026-08-30",
-      "reg_verified": true,
+      "reg_start": "",
+      "reg_end": "",
+      "reg_verified": false,
       "runable_matched": false
     },
     {
