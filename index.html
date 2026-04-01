@@ -233,7 +233,8 @@
 <script>
 (function(){
   var el=document.getElementById('visit-count');
-  fetch('https://erulecorp.goatcounter.com/counter/%2F.json')
+  var today=new Date().toISOString().split('T')[0];
+  fetch('https://erulecorp.goatcounter.com/counter/%2F.json?start='+today)
     .then(function(r){return r.json()})
     .then(function(d){if(d&&d.count)el.textContent=d.count})
     .catch(function(){});
