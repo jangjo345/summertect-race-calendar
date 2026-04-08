@@ -1,32 +1,7 @@
 {
-  "updated": "2026-04-08T07:01:17.226094",
-  "total": 88,
+  "updated": "2026-04-09T07:01:16.071717",
+  "total": 86,
   "races": [
-    {
-      "date": "2026-04-18",
-      "date_display": "4/18(토)",
-      "month": 4,
-      "day": 18,
-      "weekday": "토",
-      "name": "제23회 춘천호반마라톤",
-      "course": "하프,10km,5km",
-      "place": "춘천 송암스포츠타운 종합경기장",
-      "org": "강원일보사",
-      "tel": "033-264-1365",
-      "homepage": "http://kw-marathon.com/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41367",
-      "view_no": "41367",
-      "reg_start": "2026-02-04",
-      "reg_end": "2026-04-08",
-      "reg_verified": true,
-      "runable_matched": true,
-      "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
-        "tmax": 23,
-        "tmin": 12
-      }
-    },
     {
       "date": "2026-04-18",
       "date_display": "4/18(토)",
@@ -48,8 +23,8 @@
       "weather": {
         "icon": "☁️",
         "desc": "흐림",
-        "tmax": 22,
-        "tmin": 13
+        "tmax": 26,
+        "tmin": 14
       }
     },
     {
@@ -71,10 +46,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌧️",
-        "desc": "비",
-        "tmax": 19,
-        "tmin": 12
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 25,
+        "tmin": 18
       }
     },
     {
@@ -909,7 +884,7 @@
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41404",
       "view_no": "41404",
       "reg_start": "2026-03-03",
-      "reg_end": "2026-04-08",
+      "reg_end": "2026-04-13",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -1007,25 +982,6 @@
       "reg_end": "2026-05-31",
       "reg_verified": true,
       "runable_matched": false
-    },
-    {
-      "date": "2026-06-14",
-      "date_display": "6/14(일)",
-      "month": 6,
-      "day": 14,
-      "weekday": "일",
-      "name": "2026 김해숲길마라톤",
-      "course": "하프,10km,5km",
-      "place": "김해종합운동장 및 숲길 일원",
-      "org": "김해시육상연맹",
-      "tel": "055-762-1793",
-      "homepage": "http://www.supgil.com",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41480",
-      "view_no": "41480",
-      "reg_start": "2026-03-18",
-      "reg_end": "2026-05-20",
-      "reg_verified": true,
-      "runable_matched": true
     },
     {
       "date": "2026-06-14",
