@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-11T07:01:16.544786",
-  "total": 84,
+  "updated": "2026-04-12T07:01:19.185758",
+  "total": 86,
   "races": [
     {
       "date": "2026-04-18",
@@ -21,10 +21,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 23,
-        "tmin": 12
+        "icon": "🌤️",
+        "desc": "대체로 맑음",
+        "tmax": 22,
+        "tmin": 11
       }
     },
     {
@@ -44,7 +44,13 @@
       "reg_start": "2026-02-25",
       "reg_end": "2026-04-20",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 17,
+        "tmin": 13
+      }
     },
     {
       "date": "2026-04-26",
@@ -63,7 +69,13 @@
       "reg_start": "2025-10-05",
       "reg_end": "2026-04-25",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 19,
+        "tmin": 8
+      }
     },
     {
       "date": "2026-05-02",
@@ -784,6 +796,25 @@
       "view_no": "41160",
       "reg_start": "2025-10-25",
       "reg_end": "2026-05-25",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-06-07",
+      "date_display": "6/7(일)",
+      "month": 6,
+      "day": 7,
+      "weekday": "일",
+      "name": "2026 마인드 마라톤",
+      "course": "하프,10km,5km",
+      "place": "서울광장",
+      "org": "한국수력원자력",
+      "tel": "02-2031-1935",
+      "homepage": "http://mindmarathon.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41529",
+      "view_no": "41529",
+      "reg_start": "2026-04-09",
+      "reg_end": "2026-04-30",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -1601,6 +1632,25 @@
       "view_no": "41422",
       "reg_start": "2026-02-23",
       "reg_end": "2026-09-15",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-10-25",
+      "date_display": "10/25(일)",
+      "month": 10,
+      "day": 25,
+      "weekday": "일",
+      "name": "2026 청송사과트레일런",
+      "course": "하프,10km,5km",
+      "place": "청송군민운동장",
+      "org": "청송군, 매일신문",
+      "tel": "031-575-7243",
+      "homepage": "http://csmarathon.co.kr/csmarathon/",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41477",
+      "view_no": "41477",
+      "reg_start": "2026-03-16",
+      "reg_end": "2026-08-30",
       "reg_verified": true,
       "runable_matched": false
     }
