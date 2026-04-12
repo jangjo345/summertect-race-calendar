@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12T07:01:19.185758",
+  "updated": "2026-04-13T07:01:15.513465",
   "total": 86,
   "races": [
     {
@@ -21,10 +21,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌤️",
-        "desc": "대체로 맑음",
+        "icon": "☁️",
+        "desc": "흐림",
         "tmax": 22,
-        "tmin": 11
+        "tmin": 12
       }
     },
     {
@@ -48,7 +48,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "흐림",
-        "tmax": 17,
+        "tmax": 15,
         "tmin": 13
       }
     },
@@ -73,28 +73,9 @@
       "weather": {
         "icon": "☁️",
         "desc": "흐림",
-        "tmax": 19,
-        "tmin": 8
+        "tmax": 15,
+        "tmin": 7
       }
-    },
-    {
-      "date": "2026-05-02",
-      "date_display": "5/2(토)",
-      "month": 5,
-      "day": 2,
-      "weekday": "토",
-      "name": "2026 JUST RUN10 남양주",
-      "course": "10km,5km",
-      "place": "다산 도농체육공원 일원",
-      "org": "(주)러닝브레이커, 전국러닝협회",
-      "tel": "042-710-2058",
-      "homepage": "http://runten.co.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41450",
-      "view_no": "41450",
-      "reg_start": "2026-03-05",
-      "reg_end": "2026-04-12",
-      "reg_verified": true,
-      "runable_matched": false
     },
     {
       "date": "2026-05-02",
@@ -247,25 +228,6 @@
       "reg_end": "2026-04-15",
       "reg_verified": true,
       "runable_matched": false
-    },
-    {
-      "date": "2026-05-10",
-      "date_display": "5/10(일)",
-      "month": 5,
-      "day": 10,
-      "weekday": "일",
-      "name": "2026 가정의달 하하호호마라톤",
-      "course": "10km,5km",
-      "place": "신정교하부육상트랙구장",
-      "org": "(사)대한생활체육마라톤협회",
-      "tel": "00-1644-4219",
-      "homepage": "http://www.xn--o39a84ke5dgxc710an6as16b.kr/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41357",
-      "view_no": "41357",
-      "reg_start": "2026-02-02",
-      "reg_end": "2026-04-12",
-      "reg_verified": true,
-      "runable_matched": true
     },
     {
       "date": "2026-05-16",
@@ -1579,6 +1541,25 @@
       "runable_matched": true
     },
     {
+      "date": "2026-10-04",
+      "date_display": "10/4(일)",
+      "month": 10,
+      "day": 4,
+      "weekday": "일",
+      "name": "2026 안동마라톤",
+      "course": "풀,하프,10km,5km",
+      "place": "안동시민운동장",
+      "org": "안동시, 매일신문사",
+      "tel": "031-575-7243",
+      "homepage": "http://www.admarathon.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41516",
+      "view_no": "41516",
+      "reg_start": "2026-04-13",
+      "reg_end": "2026-05-31",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
       "date": "2026-10-09",
       "date_display": "10/9(금)",
       "month": 10,
@@ -1651,6 +1632,25 @@
       "view_no": "41477",
       "reg_start": "2026-03-16",
       "reg_end": "2026-08-30",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-11-15",
+      "date_display": "11/15(일)",
+      "month": 11,
+      "day": 15,
+      "weekday": "일",
+      "name": "제24회 대모산,구룡산 트레일런",
+      "course": "10km",
+      "place": "수서역 7번출구광장",
+      "org": "(사)한국산악마라톤연맹",
+      "tel": "02-424-2195",
+      "homepage": "http://koreatrail.net",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41522",
+      "view_no": "41522",
+      "reg_start": "2026-04-01",
+      "reg_end": "2026-10-30",
       "reg_verified": true,
       "runable_matched": false
     }
