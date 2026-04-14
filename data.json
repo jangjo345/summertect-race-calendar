@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T07:01:16.902657",
+  "updated": "2026-04-15T07:01:16.786771",
   "total": 88,
   "races": [
     {
@@ -21,9 +21,9 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌧️",
-        "desc": "비",
-        "tmax": 19,
+        "icon": "🌦️",
+        "desc": "소나기",
+        "tmax": 17,
         "tmin": 14
       }
     },
@@ -46,10 +46,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
-        "tmax": 11,
-        "tmin": 8
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 16,
+        "tmin": 11
       }
     },
     {
@@ -71,10 +71,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
-        "tmax": 8,
-        "tmin": 3
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 19,
+        "tmin": 4
       }
     },
     {
@@ -767,16 +767,16 @@
       "month": 6,
       "day": 7,
       "weekday": "일",
-      "name": "2026 im뱅크 코리아 오픈 마라톤",
+      "name": "2026 iM뱅크 코리아 오픈 마라톤",
       "course": "하프,10km,5km",
       "place": "여의도공원 문화의마당",
-      "org": "런코리아/im뱅크",
+      "org": "런코리아/iM뱅크",
       "tel": "00-1566-1936",
       "homepage": "http://www.imrun.kr",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41460",
       "view_no": "41460",
       "reg_start": "2026-04-14",
-      "reg_end": "2026-05-10",
+      "reg_end": "2026-05-03",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -1631,7 +1631,7 @@
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41422",
       "view_no": "41422",
       "reg_start": "2026-02-23",
-      "reg_end": "2026-09-15",
+      "reg_end": "2026-09-10",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -1684,7 +1684,7 @@
       "place": "수서역 7번출구광장",
       "org": "(사)한국산악마라톤연맹",
       "tel": "02-424-2195",
-      "homepage": "http://koreatrail.net",
+      "homepage": "http://www.koreatrail.net/home/main.php?link=event&einc=eapp&opp=20241014202801&csno=20200702232740#baseline",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41522",
       "view_no": "41522",
       "reg_start": "2026-04-01",
