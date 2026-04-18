@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-18T07:01:19.143084",
-  "total": 89,
+  "updated": "2026-04-19T07:01:21.001825",
+  "total": 90,
   "races": [
     {
       "date": "2026-04-26",
@@ -21,10 +21,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 19,
-        "tmin": 13
+        "icon": "🌫️",
+        "desc": "안개",
+        "tmax": 17,
+        "tmin": 9
       }
     },
     {
@@ -48,8 +48,8 @@
       "weather": {
         "icon": "☁️",
         "desc": "흐림",
-        "tmax": 23,
-        "tmin": 7
+        "tmax": 22,
+        "tmin": 5
       }
     },
     {
@@ -73,7 +73,7 @@
       "weather": {
         "icon": "🌦️",
         "desc": "이슬비",
-        "tmax": 23,
+        "tmax": 17,
         "tmin": 14
       }
     },
@@ -113,7 +113,13 @@
       "reg_start": "2026-03-23",
       "reg_end": "2026-04-23",
       "reg_verified": true,
-      "runable_matched": true
+      "runable_matched": true,
+      "weather": {
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 21,
+        "tmin": 14
+      }
     },
     {
       "date": "2026-05-03",
@@ -132,7 +138,13 @@
       "reg_start": "2025-10-05",
       "reg_end": "2026-04-25",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 26,
+        "tmin": 14
+      }
     },
     {
       "date": "2026-05-03",
@@ -151,7 +163,13 @@
       "reg_start": "2025-11-11",
       "reg_end": "2026-05-02",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 18,
+        "tmin": 11
+      }
     },
     {
       "date": "2026-05-09",
@@ -1708,6 +1726,25 @@
       "view_no": "41477",
       "reg_start": "2026-03-16",
       "reg_end": "2026-08-30",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-11-15",
+      "date_display": "11/15(일)",
+      "month": 11,
+      "day": 15,
+      "weekday": "일",
+      "name": "제24회 대모산,구룡산 트레일런",
+      "course": "10km",
+      "place": "수서역 7번출구광장",
+      "org": "(사)한국산악마라톤연맹",
+      "tel": "02-424-2195",
+      "homepage": "http://www.koreatrail.net/home/main.php?link=event&einc=eapp&opp=20241014202801&csno=20200702232740#baseline",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41522",
+      "view_no": "41522",
+      "reg_start": "2026-04-01",
+      "reg_end": "2026-10-30",
       "reg_verified": true,
       "runable_matched": false
     }
