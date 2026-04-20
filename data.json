@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-20T07:01:16.715692",
-  "total": 94,
+  "updated": "2026-04-21T07:01:18.473089",
+  "total": 95,
   "races": [
     {
       "date": "2026-04-26",
@@ -17,14 +17,14 @@
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41423",
       "view_no": "41423",
       "reg_start": "2026-02-25",
-      "reg_end": "2026-04-20",
+      "reg_end": "2026-04-24",
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌦️",
-        "desc": "소나기",
-        "tmax": 20,
-        "tmin": 10
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 21,
+        "tmin": 8
       }
     },
     {
@@ -48,8 +48,8 @@
       "weather": {
         "icon": "☁️",
         "desc": "흐림",
-        "tmax": 22,
-        "tmin": 6
+        "tmax": 20,
+        "tmin": 7
       }
     },
     {
@@ -71,10 +71,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 25,
-        "tmin": 15
+        "icon": "🌤️",
+        "desc": "대체로 맑음",
+        "tmax": 20,
+        "tmin": 10
       }
     },
     {
@@ -96,10 +96,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
+        "icon": "☁️",
+        "desc": "흐림",
         "tmax": 22,
-        "tmin": 13
+        "tmin": 12
       }
     },
     {
@@ -123,8 +123,8 @@
       "weather": {
         "icon": "☁️",
         "desc": "흐림",
-        "tmax": 22,
-        "tmin": 15
+        "tmax": 23,
+        "tmin": 12
       }
     },
     {
@@ -148,8 +148,8 @@
       "weather": {
         "icon": "☁️",
         "desc": "흐림",
-        "tmax": 14,
-        "tmin": 11
+        "tmax": 18,
+        "tmin": 10
       }
     },
     {
@@ -189,6 +189,25 @@
       "reg_end": "2026-04-26",
       "reg_verified": true,
       "runable_matched": true
+    },
+    {
+      "date": "2026-05-10",
+      "date_display": "5/10(일)",
+      "month": 5,
+      "day": 10,
+      "weekday": "일",
+      "name": "제22회 3대하천마라톤",
+      "course": "하프,10km,5km,가족코스(5km)",
+      "place": "대전엑스포시민광장",
+      "org": "대전일보/대전광역시체육회",
+      "tel": "042-251-3801",
+      "homepage": "http://www.tjrace.net",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41515",
+      "view_no": "41515",
+      "reg_start": "2026-04-06",
+      "reg_end": "2026-04-22",
+      "reg_verified": true,
+      "runable_matched": false
     },
     {
       "date": "2026-05-10",
@@ -319,7 +338,7 @@
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41424",
       "view_no": "41424",
       "reg_start": "2026-02-23",
-      "reg_end": "2026-04-20",
+      "reg_end": "2026-05-06",
       "reg_verified": true,
       "runable_matched": true
     },
@@ -419,21 +438,21 @@
       "runable_matched": false
     },
     {
-      "date": "2026-05-30",
-      "date_display": "5/30(토)",
+      "date": "2026-05-23",
+      "date_display": "5/23(토)",
       "month": 5,
-      "day": 30,
+      "day": 23,
       "weekday": "토",
-      "name": "2026 야반도주 in Busan",
-      "course": "10km",
-      "place": "북항 친수공원 잔디마당",
-      "org": "부산일보",
-      "tel": "031-821-9949",
-      "homepage": "http://nightrun.busan.com",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41526",
-      "view_no": "41526",
-      "reg_start": "2026-04-09",
-      "reg_end": "2026-04-20",
+      "name": "2026 분노의질주런 용인스피드웨이",
+      "course": "10km,5km",
+      "place": "에버랜드 스피드웨이",
+      "org": "블루모라",
+      "tel": "031-778-6960",
+      "homepage": "http://thefast.co.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41525",
+      "view_no": "41525",
+      "reg_start": "2026-04-21",
+      "reg_end": "2026-04-23",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -939,7 +958,7 @@
       "weekday": "일",
       "name": "2026 제21회 울릉도전국마라톤",
       "course": "풀,하프,10km,5km",
-      "place": "사동항 여객터미널 주차장",
+      "place": "울릉예술문화체험장",
       "org": "세계일보",
       "tel": "00-1644-4219",
       "homepage": "http://ulmarathon.co.kr/",
