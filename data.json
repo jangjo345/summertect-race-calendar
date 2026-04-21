@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-21T07:01:18.473089",
-  "total": 95,
+  "updated": "2026-04-22T07:01:20.103926",
+  "total": 96,
   "races": [
     {
       "date": "2026-04-26",
@@ -23,7 +23,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "흐림",
-        "tmax": 21,
+        "tmax": 22,
         "tmin": 8
       }
     },
@@ -48,7 +48,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "흐림",
-        "tmax": 20,
+        "tmax": 22,
         "tmin": 7
       }
     },
@@ -71,10 +71,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "🌤️",
-        "desc": "대체로 맑음",
-        "tmax": 20,
-        "tmin": 10
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 21,
+        "tmin": 12
       }
     },
     {
@@ -96,10 +96,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 22,
-        "tmin": 12
+        "icon": "🌧️",
+        "desc": "비",
+        "tmax": 18,
+        "tmin": 13
       }
     },
     {
@@ -123,8 +123,8 @@
       "weather": {
         "icon": "☁️",
         "desc": "흐림",
-        "tmax": 23,
-        "tmin": 12
+        "tmax": 24,
+        "tmin": 14
       }
     },
     {
@@ -148,8 +148,8 @@
       "weather": {
         "icon": "☁️",
         "desc": "흐림",
-        "tmax": 18,
-        "tmin": 10
+        "tmax": 17,
+        "tmin": 12
       }
     },
     {
@@ -453,6 +453,25 @@
       "view_no": "41525",
       "reg_start": "2026-04-21",
       "reg_end": "2026-04-23",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-05-30",
+      "date_display": "5/30(토)",
+      "month": 5,
+      "day": 30,
+      "weekday": "토",
+      "name": "2026 야반도주 in Busan",
+      "course": "10km",
+      "place": "북항 친수공원 잔디마당",
+      "org": "부산일보",
+      "tel": "031-821-9949",
+      "homepage": "http://nightrun.busan.com",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41526",
+      "view_no": "41526",
+      "reg_start": "2026-04-09",
+      "reg_end": "2026-04-30",
       "reg_verified": true,
       "runable_matched": false
     },
