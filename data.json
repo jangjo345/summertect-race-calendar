@@ -1,32 +1,7 @@
 {
-  "updated": "2026-04-25T07:01:19.039590",
-  "total": 89,
+  "updated": "2026-04-27T07:01:10.501628",
+  "total": 86,
   "races": [
-    {
-      "date": "2026-04-26",
-      "date_display": "4/26(일)",
-      "month": 4,
-      "day": 26,
-      "weekday": "일",
-      "name": "속리산 문장대Trail running",
-      "course": "12km",
-      "place": "세조길제2주차징",
-      "org": "(사)한국산악마라톤연맹",
-      "tel": "02-424-2195",
-      "homepage": "http://www.koreatrail.net/home/main.php?link=event&einc=eapp&opp=20250626115011&csno=20201120111538#baseline",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41104",
-      "view_no": "41104",
-      "reg_start": "2025-10-05",
-      "reg_end": "2026-04-25",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "🌤️",
-        "desc": "대체로 맑음",
-        "tmax": 20,
-        "tmin": 8
-      }
-    },
     {
       "date": "2026-05-02",
       "date_display": "5/2(토)",
@@ -49,32 +24,7 @@
         "icon": "☁️",
         "desc": "흐림",
         "tmax": 22,
-        "tmin": 11
-      }
-    },
-    {
-      "date": "2026-05-03",
-      "date_display": "5/3(일)",
-      "month": 5,
-      "day": 3,
-      "weekday": "일",
-      "name": "제24회 불.수.사.도.북 UTMB",
-      "course": "풀,13km",
-      "place": "공릉동백세문",
-      "org": "(사)한국산악마라톤연맹",
-      "tel": "02-424-2195",
-      "homepage": "http://www.koreatrail.net/home/main.php?link=event&einc=eapp&opp=20250511195054&csno=20170613133750#baseline",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41105",
-      "view_no": "41105",
-      "reg_start": "2025-10-05",
-      "reg_end": "2026-04-25",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 25,
-        "tmin": 12
+        "tmin": 10
       }
     },
     {
@@ -98,7 +48,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "흐림",
-        "tmax": 22,
+        "tmax": 21,
         "tmin": 10
       }
     },
@@ -121,34 +71,9 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "🌤️",
-        "desc": "대체로 맑음",
+        "icon": "☁️",
+        "desc": "흐림",
         "tmax": 28,
-        "tmin": 13
-      }
-    },
-    {
-      "date": "2026-05-09",
-      "date_display": "5/9(토)",
-      "month": 5,
-      "day": 9,
-      "weekday": "토",
-      "name": "제19회 대전 한밭울트라마라톤",
-      "course": "100km,50km",
-      "place": "대전 서구 둔산대로 169",
-      "org": "대전 한밭울트라마라톤 조직위원",
-      "tel": "010-7353-8966",
-      "homepage": "http://dhultra.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41234",
-      "view_no": "41234",
-      "reg_start": "2025-12-25",
-      "reg_end": "2026-04-26",
-      "reg_verified": true,
-      "runable_matched": true,
-      "weather": {
-        "icon": "🌤️",
-        "desc": "대체로 맑음",
-        "tmax": 29,
         "tmin": 14
       }
     },
@@ -300,7 +225,7 @@
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41530",
       "view_no": "41530",
       "reg_start": "2026-03-25",
-      "reg_end": "2026-04-25",
+      "reg_end": "2026-04-29",
       "reg_verified": true,
       "runable_matched": false
     },
