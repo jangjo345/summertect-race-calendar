@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-27T07:01:10.501628",
-  "total": 86,
+  "updated": "2026-04-28T07:01:11.473943",
+  "total": 88,
   "races": [
     {
       "date": "2026-05-02",
@@ -23,8 +23,8 @@
       "weather": {
         "icon": "☁️",
         "desc": "흐림",
-        "tmax": 22,
-        "tmin": 10
+        "tmax": 21,
+        "tmin": 11
       }
     },
     {
@@ -46,10 +46,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 21,
-        "tmin": 10
+        "icon": "🌦️",
+        "desc": "이슬비",
+        "tmax": 19,
+        "tmin": 11
       }
     },
     {
@@ -73,8 +73,8 @@
       "weather": {
         "icon": "☁️",
         "desc": "흐림",
-        "tmax": 28,
-        "tmin": 14
+        "tmax": 26,
+        "tmin": 8
       }
     },
     {
@@ -226,6 +226,25 @@
       "view_no": "41530",
       "reg_start": "2026-03-25",
       "reg_end": "2026-04-29",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-05-30",
+      "date_display": "5/30(토)",
+      "month": 5,
+      "day": 30,
+      "weekday": "토",
+      "name": "제1회 광주대학교 수직마라톤",
+      "course": "2.1km+21floors",
+      "place": "광주대학교 운동장",
+      "org": "광주대학교, RISE사업단",
+      "tel": "062-670-2902",
+      "homepage": "http://forms.gle/g4tCvGWSMtg7CSZF8",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41550",
+      "view_no": "41550",
+      "reg_start": "2026-04-23",
+      "reg_end": "2026-05-20",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -387,7 +406,7 @@
       "month": 5,
       "day": 31,
       "weekday": "일",
-      "name": "제22회 영등포구연맹회장배 육상대회",
+      "name": "제22회 영등포구연맹회장배 육상대회 (마감)",
       "course": "10km,5km",
       "place": "신정교하부육상트랙구장",
       "org": "서울특별시영등포구체육회",
@@ -748,25 +767,6 @@
       "month": 6,
       "day": 14,
       "weekday": "일",
-      "name": "전마협창단25주년 2026 대전월드런마라톤축제",
-      "course": "하프,10km,5km",
-      "place": "대전엑스포시민광장",
-      "org": "전국마라톤협회, 월드런",
-      "tel": "042-638-1080",
-      "homepage": "http://mara1080.com/event/cc73d8d1-a3d1-410c-9246-5d2eb76dd95e",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41481",
-      "view_no": "41481",
-      "reg_start": "2026-03-17",
-      "reg_end": "2026-05-31",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-06-14",
-      "date_display": "6/14(일)",
-      "month": 6,
-      "day": 14,
-      "weekday": "일",
       "name": "2026 제21회 울릉도전국마라톤",
       "course": "풀,하프,10km,5km",
       "place": "울릉예술문화체험장",
@@ -1047,25 +1047,6 @@
       "runable_matched": true
     },
     {
-      "date": "2026-07-04",
-      "date_display": "7/4(토)",
-      "month": 7,
-      "day": 4,
-      "weekday": "토",
-      "name": "2026 전마협 하계 무료 훈련 마라톤",
-      "course": "10km,5km",
-      "place": "금산인삼엑스포주차장",
-      "org": "전국마라톤협회",
-      "tel": "042-638-1080",
-      "homepage": "http://mara1080.com/event/3c31740e-986e-4cb8-a7e5-850a80d2a5fd",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41498",
-      "view_no": "41498",
-      "reg_start": "2026-03-27",
-      "reg_end": "2026-06-30",
-      "reg_verified": true,
-      "runable_matched": true
-    },
-    {
       "date": "2026-07-05",
       "date_display": "7/5(일)",
       "month": 7,
@@ -1138,6 +1119,25 @@
       "view_no": "41521",
       "reg_start": "2026-04-15",
       "reg_end": "2026-06-14",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-07-19",
+      "date_display": "7/19(일)",
+      "month": 7,
+      "day": 19,
+      "weekday": "일",
+      "name": "2026 쿨밸리트레일레이스",
+      "course": "18K",
+      "place": "장수종합경기장, 방화동휴양림",
+      "org": "(주)락앤런",
+      "tel": "063-353-2025",
+      "homepage": "http://rocknrun.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41554",
+      "view_no": "41554",
+      "reg_start": "2026-04-27",
+      "reg_end": "2026-05-31",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -1356,6 +1356,25 @@
       "month": 9,
       "day": 12,
       "weekday": "토",
+      "name": "제2회 화이트런 생리대 기부마라톤",
+      "course": "10km,5km,걷기",
+      "place": "영등포구 신정교하부 육상트랙구",
+      "org": "청년일보, (주)소풍",
+      "tel": "02-556-8879",
+      "homepage": "http://whiterun.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41549",
+      "view_no": "41549",
+      "reg_start": "2026-04-27",
+      "reg_end": "2026-08-14",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-09-12",
+      "date_display": "9/12(토)",
+      "month": 9,
+      "day": 12,
+      "weekday": "토",
       "name": "제2회 초록우산 런웨이 마라톤",
       "course": "하프,10km,5km,3km 걷기,3km 걷기(어린이)",
       "place": "대전엑스포시민광장",
@@ -1556,6 +1575,25 @@
       "view_no": "41516",
       "reg_start": "2026-04-13",
       "reg_end": "2026-05-31",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-10-05",
+      "date_display": "10/5(월)",
+      "month": 10,
+      "day": 5,
+      "weekday": "월",
+      "name": "2026서울오픈마라톤",
+      "course": "하프,10km",
+      "place": "광화문광장(예정)",
+      "org": "(사)한국체육개발원 등",
+      "tel": "070-7766-1238",
+      "homepage": "http://seoulopen.or.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41551",
+      "view_no": "41551",
+      "reg_start": "2026-04-24",
+      "reg_end": "2026-05-10",
       "reg_verified": true,
       "runable_matched": false
     },
