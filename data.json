@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-02T07:01:13.091934",
-  "total": 72,
+  "updated": "2026-05-04T07:01:10.329027",
+  "total": 73,
   "races": [
     {
       "date": "2026-05-09",
@@ -21,10 +21,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "⛅",
-        "desc": "구름 약간",
+        "icon": "☀️",
+        "desc": "맑음",
         "tmax": 21,
-        "tmin": 11
+        "tmin": 9
       }
     },
     {
@@ -68,7 +68,7 @@
         "icon": "🌧️",
         "desc": "비",
         "tmax": 25,
-        "tmin": 16
+        "tmin": 18
       }
     },
     {
@@ -90,10 +90,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
-        "tmax": 21,
-        "tmin": 15
+        "icon": "🌧️",
+        "desc": "비",
+        "tmax": 23,
+        "tmin": 20
       }
     },
     {
@@ -387,25 +387,6 @@
       "month": 6,
       "day": 7,
       "weekday": "일",
-      "name": "2026 iM뱅크 코리아 오픈 마라톤",
-      "course": "하프,10km,5km",
-      "place": "여의도공원 문화의마당",
-      "org": "iM뱅크/런코리아",
-      "tel": "00-1566-1936",
-      "homepage": "http://www.imrun.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41460",
-      "view_no": "41460",
-      "reg_start": "2026-04-14",
-      "reg_end": "2026-05-03",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-06-07",
-      "date_display": "6/7(일)",
-      "month": 6,
-      "day": 7,
-      "weekday": "일",
       "name": "제11회 너릿재마라톤",
       "course": "8km,16km,24km",
       "place": "화순 셀레브 카페 입구",
@@ -682,6 +663,25 @@
       "view_no": "41527",
       "reg_start": "2026-04-20",
       "reg_end": "2026-05-15",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-06-28",
+      "date_display": "6/28(일)",
+      "month": 6,
+      "day": 28,
+      "weekday": "일",
+      "name": "제1회 리프레시런",
+      "course": "10km,5km",
+      "place": "하남 미사경정공원",
+      "org": "시사저널",
+      "tel": "02-3141-7745",
+      "homepage": "http://refreshrun.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41555",
+      "view_no": "41555",
+      "reg_start": "2026-04-29",
+      "reg_end": "2026-06-20",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -1330,6 +1330,25 @@
       "reg_end": "2026-09-10",
       "reg_verified": true,
       "runable_matched": false
+    },
+    {
+      "date": "2026-10-17",
+      "date_display": "10/17(토)",
+      "month": 10,
+      "day": 17,
+      "weekday": "토",
+      "name": "제24회 청원생명쌀대청호마라톤",
+      "course": "풀,하프,10km,5km",
+      "place": "문의체육공원",
+      "org": "청주시체육회",
+      "tel": "043-279-8073",
+      "homepage": "http://race.cjsports.or.kr/",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41255",
+      "view_no": "41255",
+      "reg_start": "2026-05-04",
+      "reg_end": "2026-06-12",
+      "reg_verified": true,
+      "runable_matched": true
     },
     {
       "date": "2026-10-18",
