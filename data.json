@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-04T07:01:10.329027",
-  "total": 73,
+  "updated": "2026-05-05T07:01:09.370682",
+  "total": 72,
   "races": [
     {
       "date": "2026-05-09",
@@ -23,7 +23,7 @@
       "weather": {
         "icon": "☀️",
         "desc": "맑음",
-        "tmax": 21,
+        "tmax": 24,
         "tmin": 9
       }
     },
@@ -65,9 +65,9 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌧️",
-        "desc": "비",
-        "tmax": 25,
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 30,
         "tmin": 18
       }
     },
@@ -90,10 +90,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "🌧️",
-        "desc": "비",
-        "tmax": 23,
-        "tmin": 20
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 24,
+        "tmin": 15
       }
     },
     {
@@ -283,25 +283,6 @@
       "view_no": "41543",
       "reg_start": "2026-04-20",
       "reg_end": "2026-05-22",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-06-06",
-      "date_display": "6/6(토)",
-      "month": 6,
-      "day": 6,
-      "weekday": "토",
-      "name": "제28회 양평이봉주마라톤",
-      "course": "하프,10km,4km,10km 커플런",
-      "place": "양평강상체육공원",
-      "org": "경인일",
-      "tel": "00-1600-3962",
-      "homepage": "http://www.hangangmarathon.net",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41517",
-      "view_no": "41517",
-      "reg_start": "2026-04-10",
-      "reg_end": "2026-05-04",
       "reg_verified": true,
       "runable_matched": false
     },
