@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-07T07:01:09.025829",
-  "total": 73,
+  "updated": "2026-05-08T07:01:07.866804",
+  "total": 72,
   "races": [
     {
       "date": "2026-05-09",
@@ -21,10 +21,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "☀️",
-        "desc": "맑음",
-        "tmax": 22,
-        "tmin": 14
+        "icon": "🌤️",
+        "desc": "대체로 맑음",
+        "tmax": 23,
+        "tmin": 13
       }
     },
     {
@@ -65,10 +65,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌤️",
-        "desc": "대체로 맑음",
-        "tmax": 28,
-        "tmin": 11
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 27,
+        "tmin": 10
       }
     },
     {
@@ -87,25 +87,6 @@
       "view_no": "40317",
       "reg_start": "2026-03-11",
       "reg_end": "2026-05-16",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-05-23",
-      "date_display": "5/23(토)",
-      "month": 5,
-      "day": 23,
-      "weekday": "토",
-      "name": "2026 한화생명 시그니처 63 RUN",
-      "course": "63빌딩",
-      "place": "63빌딩",
-      "org": "한화생명",
-      "tel": "070-5154-0390",
-      "homepage": "http://www.ticketlink.co.kr/product/62816",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41547",
-      "view_no": "41547",
-      "reg_start": "2026-05-06",
-      "reg_end": "2026-05-07",
       "reg_verified": true,
       "runable_matched": false
     },
