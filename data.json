@@ -1,32 +1,7 @@
 {
-  "updated": "2026-05-08T07:01:07.866804",
-  "total": 72,
+  "updated": "2026-05-09T07:01:06.625238",
+  "total": 70,
   "races": [
-    {
-      "date": "2026-05-09",
-      "date_display": "5/9(토)",
-      "month": 5,
-      "day": 9,
-      "weekday": "토",
-      "name": "커피 빵빵런2026",
-      "course": "10km,5km",
-      "place": "강릉 경포호수광장",
-      "org": "(주)1986프로덕션",
-      "tel": "02-0000-0000",
-      "homepage": "http://coffeebbangrun.com/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41389",
-      "view_no": "41389",
-      "reg_start": "2026-02-10",
-      "reg_end": "2026-05-08",
-      "reg_verified": true,
-      "runable_matched": true,
-      "weather": {
-        "icon": "🌤️",
-        "desc": "대체로 맑음",
-        "tmax": 23,
-        "tmin": 13
-      }
-    },
     {
       "date": "2026-05-10",
       "date_display": "5/10(일)",
@@ -45,31 +20,6 @@
       "reg_end": "2026-05-10",
       "reg_verified": true,
       "runable_matched": false
-    },
-    {
-      "date": "2026-05-16",
-      "date_display": "5/16(토)",
-      "month": 5,
-      "day": 16,
-      "weekday": "토",
-      "name": "시골스런 - 양주 꿀런",
-      "course": "5km,3km",
-      "place": "경기도 양주 나리농원",
-      "org": "스파인더",
-      "tel": "070-8637-6173",
-      "homepage": "http://www.sfinder.co.kr/contest/contest_info/390",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41540",
-      "view_no": "41540",
-      "reg_start": "2026-04-02",
-      "reg_end": "2026-05-08",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 27,
-        "tmin": 10
-      }
     },
     {
       "date": "2026-05-17",
@@ -107,7 +57,13 @@
       "reg_start": "2026-02-20",
       "reg_end": "2026-05-14",
       "reg_verified": true,
-      "runable_matched": true
+      "runable_matched": true,
+      "weather": {
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 26,
+        "tmin": 14
+      }
     },
     {
       "date": "2026-05-30",
@@ -1302,7 +1258,7 @@
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41303",
       "view_no": "41303",
       "reg_start": "2026-04-14",
-      "reg_end": "2026-05-18",
+      "reg_end": "2026-05-19",
       "reg_verified": true,
       "runable_matched": true
     },
