@@ -1,26 +1,7 @@
 {
-  "updated": "2026-05-09T07:01:06.625238",
-  "total": 70,
+  "updated": "2026-05-12T07:01:03.045526",
+  "total": 69,
   "races": [
-    {
-      "date": "2026-05-10",
-      "date_display": "5/10(일)",
-      "month": 5,
-      "day": 10,
-      "weekday": "일",
-      "name": "윙스 포 라이프 월드런 2026",
-      "course": "기부 마라톤,추격 레이스",
-      "place": "부천종합운동장",
-      "org": "레드불",
-      "tel": "02-3670-7000",
-      "homepage": "http://www.redbull.com/kr-ko/events/wings-for-life-world-run-2026",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41537",
-      "view_no": "41537",
-      "reg_start": "2026-01-01",
-      "reg_end": "2026-05-10",
-      "reg_verified": true,
-      "runable_matched": false
-    },
     {
       "date": "2026-05-17",
       "date_display": "5/17(일)",
@@ -59,10 +40,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
+        "icon": "🌧️",
+        "desc": "비",
         "tmax": 26,
-        "tmin": 14
+        "tmin": 15
       }
     },
     {
@@ -83,25 +64,6 @@
       "reg_end": "2026-05-20",
       "reg_verified": true,
       "runable_matched": false
-    },
-    {
-      "date": "2026-05-30",
-      "date_display": "5/30(토)",
-      "month": 5,
-      "day": 30,
-      "weekday": "토",
-      "name": "제18회 여명국제마라톤",
-      "course": "하프,10km,5km,마니아",
-      "place": "서울 뚝섬한강공원 수변광장",
-      "org": "(주)스포테인",
-      "tel": "02-3210-1666",
-      "homepage": "http://www.dawnmarathon.com",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41358",
-      "view_no": "41358",
-      "reg_start": "2026-01-27",
-      "reg_end": "2026-05-11",
-      "reg_verified": true,
-      "runable_matched": true
     },
     {
       "date": "2026-05-30",
@@ -482,6 +444,25 @@
       "reg_end": "2026-06-18",
       "reg_verified": true,
       "runable_matched": true
+    },
+    {
+      "date": "2026-06-28",
+      "date_display": "6/28(일)",
+      "month": 6,
+      "day": 28,
+      "weekday": "일",
+      "name": "2026 울산남구청장배 육상대회",
+      "course": "10km,5km",
+      "place": "태화강둔치 (태화다리 밑)",
+      "org": "울산광역시 남구체육회",
+      "tel": "010-9360-0113",
+      "homepage": "http://modern-infinity-9e6.notion.site/2026-359918810cc280958531fd2261f990d6",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41569",
+      "view_no": "41569",
+      "reg_start": "2026-05-11",
+      "reg_end": "2026-05-20",
+      "reg_verified": true,
+      "runable_matched": false
     },
     {
       "date": "2026-06-28",
@@ -1054,25 +1035,6 @@
       "runable_matched": false
     },
     {
-      "date": "2026-09-19",
-      "date_display": "9/19(토)",
-      "month": 9,
-      "day": 19,
-      "weekday": "토",
-      "name": "2026 장수트레일레이스 Fall",
-      "course": "100km,100Miles,38K-J",
-      "place": "장수종합경기장",
-      "org": "(주)락앤런",
-      "tel": "063-352-2025",
-      "homepage": "http://rocknrun.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41349",
-      "view_no": "41349",
-      "reg_start": "2026-03-20",
-      "reg_end": "2026-06-10",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
       "date": "2026-09-20",
       "date_display": "9/20(일)",
       "month": 9,
@@ -1168,21 +1130,21 @@
       "runable_matched": false
     },
     {
-      "date": "2026-10-05",
-      "date_display": "10/5(월)",
+      "date": "2026-10-10",
+      "date_display": "10/10(토)",
       "month": 10,
-      "day": 5,
-      "weekday": "월",
-      "name": "2026서울오픈마라톤",
-      "course": "하프,10km",
-      "place": "광화문광장(예정)",
-      "org": "(사)한국체육개발원 등",
-      "tel": "070-7766-1238",
-      "homepage": "http://seoulopen.or.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41551",
-      "view_no": "41551",
-      "reg_start": "2026-04-24",
-      "reg_end": "2026-05-10",
+      "day": 10,
+      "weekday": "토",
+      "name": "제9회 거제시장배 섬꽃 전국 마라톤",
+      "course": "하프,10km,4km",
+      "place": "거제스포츠파크",
+      "org": "거제시, 거제시체육회",
+      "tel": "042-638-1080",
+      "homepage": "http://mara1080.com/event/b43655f0-60be-4c97-ad62-d377f6586ae0",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41567",
+      "view_no": "41567",
+      "reg_start": "2026-05-08",
+      "reg_end": "2026-09-10",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -1204,6 +1166,25 @@
       "reg_end": "2026-09-30",
       "reg_verified": true,
       "runable_matched": true
+    },
+    {
+      "date": "2026-10-11",
+      "date_display": "10/11(일)",
+      "month": 10,
+      "day": 11,
+      "weekday": "일",
+      "name": "2026 서울레이스",
+      "course": "하프,10km",
+      "place": "서울광장",
+      "org": "동아일보",
+      "tel": "02-312-1998",
+      "homepage": "http://www.seoul-race.co.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41546",
+      "view_no": "41546",
+      "reg_start": "2026-05-11",
+      "reg_end": "2026-05-27",
+      "reg_verified": true,
+      "runable_matched": false
     },
     {
       "date": "2026-10-11",
