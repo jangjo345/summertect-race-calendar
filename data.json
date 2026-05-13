@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-12T07:01:03.045526",
-  "total": 69,
+  "updated": "2026-05-14T07:01:03.338083",
+  "total": 68,
   "races": [
     {
       "date": "2026-05-17",
@@ -40,10 +40,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "🌧️",
-        "desc": "비",
-        "tmax": 26,
-        "tmin": 15
+        "icon": "🌤️",
+        "desc": "대체로 맑음",
+        "tmax": 24,
+        "tmin": 13
       }
     },
     {
@@ -199,6 +199,25 @@
       "runable_matched": false
     },
     {
+      "date": "2026-06-07",
+      "date_display": "6/7(일)",
+      "month": 6,
+      "day": 7,
+      "weekday": "일",
+      "name": "2026 iM뱅크 코리아 오픈 마라톤",
+      "course": "하프,10km,5km",
+      "place": "여의도공원 문화의마당",
+      "org": "iM뱅크/런코리아",
+      "tel": "00-1566-1936",
+      "homepage": "http://www.imrun.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41460",
+      "view_no": "41460",
+      "reg_start": "2026-04-14",
+      "reg_end": "2026-05-22",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
       "date": "2026-06-13",
       "date_display": "6/13(토)",
       "month": 6,
@@ -214,25 +233,6 @@
       "view_no": "41520",
       "reg_start": "2026-05-01",
       "reg_end": "2026-06-05",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-06-13",
-      "date_display": "6/13(토)",
-      "month": 6,
-      "day": 13,
-      "weekday": "토",
-      "name": "2026 제23회 빛고을 울트라마라톤",
-      "course": "100km,50km",
-      "place": "광주 광역시청 야외광장",
-      "org": "빛고을울트라조직위원회",
-      "tel": "010-8837-4931",
-      "homepage": "http://gj100k.org",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41288",
-      "view_no": "41288",
-      "reg_start": "2026-01-01",
-      "reg_end": "2026-05-12",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -834,7 +834,7 @@
       "name": "2026 샌드런 IN 영덕",
       "course": "4km, 8km",
       "place": "영덕 대진해수욕장",
-      "org": "(주)메이드인피플, LG HelloVision",
+      "org": "(주)메이드인피플",
       "tel": "010-2584-0474",
       "homepage": "http://sandrun.co.kr",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41402",
@@ -1041,7 +1041,7 @@
       "day": 20,
       "weekday": "일",
       "name": "제19회 가평자라섬 전국마라톤",
-      "course": "하프,10km,5km,10Km커플런,4.2Km 패미리런",
+      "course": "하프,10km,5km,10Km커플런,4.2Km 가족런",
       "place": "가평종합운동장(경기)",
       "org": "가평군체육회, 세계일보",
       "tel": "02-2647-4488",
@@ -1221,25 +1221,6 @@
       "view_no": "41255",
       "reg_start": "2026-05-04",
       "reg_end": "2026-06-12",
-      "reg_verified": true,
-      "runable_matched": true
-    },
-    {
-      "date": "2026-10-18",
-      "date_display": "10/18(일)",
-      "month": 10,
-      "day": 18,
-      "weekday": "일",
-      "name": "2026 아시아 오픈 마라톤",
-      "course": "하프,10km",
-      "place": "광화문 광장(예정)",
-      "org": "아시아투데이",
-      "tel": "02-2647-4488",
-      "homepage": "http://asiarun.kr/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41303",
-      "view_no": "41303",
-      "reg_start": "2026-04-14",
-      "reg_end": "2026-05-19",
       "reg_verified": true,
       "runable_matched": true
     },
