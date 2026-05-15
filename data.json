@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-15T07:01:05.941529",
-  "total": 77,
+  "updated": "2026-05-16T07:01:11.043802",
+  "total": 76,
   "races": [
     {
       "date": "2026-05-17",
@@ -57,7 +57,13 @@
       "reg_start": "2026-04-23",
       "reg_end": "2026-05-20",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 26,
+        "tmin": 13
+      }
     },
     {
       "date": "2026-05-30",
@@ -76,7 +82,13 @@
       "reg_start": "2026-03-13",
       "reg_end": "2026-05-29",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 23,
+        "tmin": 18
+      }
     },
     {
       "date": "2026-05-31",
@@ -350,25 +362,6 @@
       "month": 6,
       "day": 21,
       "weekday": "일",
-      "name": "THE PACER SERIES",
-      "course": "10km,5km",
-      "place": "대전 대덕구 미호동 57-1",
-      "org": "런코드 코리아",
-      "tel": "010-7734-1481",
-      "homepage": "http://thepacerseries.com",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41561",
-      "view_no": "41561",
-      "reg_start": "2026-05-04",
-      "reg_end": "2026-06-07",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-06-21",
-      "date_display": "6/21(일)",
-      "month": 6,
-      "day": 21,
-      "weekday": "일",
       "name": "2026 보은 속리산 말티재 힐링 알몸 마라톤",
       "course": "10km,5km",
       "place": "보은군 속리산 말티고개",
@@ -521,6 +514,25 @@
       "month": 6,
       "day": 28,
       "weekday": "일",
+      "name": "THE PACER SERIES",
+      "course": "10km,5km",
+      "place": "충청북도 청주시 상당구 문의면 청남대길 646",
+      "org": "런코드 코리아",
+      "tel": "010-7734-1481",
+      "homepage": "http://thepacerseries.com",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41561",
+      "view_no": "41561",
+      "reg_start": "2026-05-04",
+      "reg_end": "2026-06-07",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-06-28",
+      "date_display": "6/28(일)",
+      "month": 6,
+      "day": 28,
+      "weekday": "일",
       "name": "제20회 강북구청장배 마라톤",
       "course": "10km,5km",
       "place": "강북구 도봉로 102길21",
@@ -531,25 +543,6 @@
       "view_no": "41542",
       "reg_start": "2026-04-20",
       "reg_end": "2026-05-31",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-06-28",
-      "date_display": "6/28(일)",
-      "month": 6,
-      "day": 28,
-      "weekday": "일",
-      "name": "송도 이봉주 마라톤",
-      "course": "10km,5km",
-      "place": "인천대학교 송도캠퍼스",
-      "org": "인천광역시육상연맹",
-      "tel": "00-1866-1718",
-      "homepage": "http://runsongdo.co.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41527",
-      "view_no": "41527",
-      "reg_start": "2026-04-20",
-      "reg_end": "2026-05-15",
       "reg_verified": true,
       "runable_matched": false
     },
