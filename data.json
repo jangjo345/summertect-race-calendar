@@ -1,26 +1,7 @@
 {
-  "updated": "2026-05-16T07:01:11.043802",
-  "total": 76,
+  "updated": "2026-05-17T07:01:07.366734",
+  "total": 75,
   "races": [
-    {
-      "date": "2026-05-17",
-      "date_display": "5/17(일)",
-      "month": 5,
-      "day": 17,
-      "weekday": "일",
-      "name": "밀양아리랑트레일런",
-      "course": "20km,10km",
-      "place": "밀양보트장",
-      "org": "명품트레일",
-      "tel": "010-3526-9120",
-      "homepage": "http://www.mtrailrun.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=40317",
-      "view_no": "40317",
-      "reg_start": "2026-03-11",
-      "reg_end": "2026-05-16",
-      "reg_verified": true,
-      "runable_matched": false
-    },
     {
       "date": "2026-05-30",
       "date_display": "5/30(토)",
@@ -59,10 +40,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 26,
-        "tmin": 13
+        "icon": "⛅",
+        "desc": "구름 약간",
+        "tmax": 28,
+        "tmin": 15
       }
     },
     {
@@ -84,30 +65,11 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 23,
-        "tmin": 18
+        "icon": "☀️",
+        "desc": "맑음",
+        "tmax": 22,
+        "tmin": 16
       }
-    },
-    {
-      "date": "2026-05-31",
-      "date_display": "5/31(일)",
-      "month": 5,
-      "day": 31,
-      "weekday": "일",
-      "name": "제22회 영등포구연맹회장배 육상대회 (마감)",
-      "course": "10km,5km",
-      "place": "신정교하부육상트랙구장",
-      "org": "서울특별시영등포구체육회",
-      "tel": "010-3794-7297",
-      "homepage": "http://cafe.naver.com/ydprun1/614",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41490",
-      "view_no": "41490",
-      "reg_start": "2026-03-20",
-      "reg_end": "2026-05-16",
-      "reg_verified": true,
-      "runable_matched": false
     },
     {
       "date": "2026-06-06",
@@ -258,6 +220,25 @@
       "view_no": "41520",
       "reg_start": "2026-05-01",
       "reg_end": "2026-06-05",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-06-13",
+      "date_display": "6/13(토)",
+      "month": 6,
+      "day": 13,
+      "weekday": "토",
+      "name": "부산 송도해안트레일런",
+      "course": "13km",
+      "place": "남항대교 수변야외공연장",
+      "org": "명품트레일",
+      "tel": "010-3526-9120",
+      "homepage": "http://www.mtrailrun.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=40317",
+      "view_no": "40317",
+      "reg_start": "2026-03-11",
+      "reg_end": "2026-06-12",
       "reg_verified": true,
       "runable_matched": false
     },
