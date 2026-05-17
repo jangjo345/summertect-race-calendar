@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-17T07:01:07.366734",
-  "total": 75,
+  "updated": "2026-05-18T07:01:04.868011",
+  "total": 78,
   "races": [
     {
       "date": "2026-05-30",
@@ -40,10 +40,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "⛅",
-        "desc": "구름 약간",
-        "tmax": 28,
-        "tmin": 15
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 27,
+        "tmin": 14
       }
     },
     {
@@ -67,8 +67,8 @@
       "weather": {
         "icon": "☀️",
         "desc": "맑음",
-        "tmax": 22,
-        "tmin": 16
+        "tmax": 26,
+        "tmin": 20
       }
     },
     {
@@ -343,6 +343,25 @@
       "month": 6,
       "day": 21,
       "weekday": "일",
+      "name": "월리를 찾아라런 in 서울 2026",
+      "course": "10km,5km",
+      "place": "여의도공원 문화의마당",
+      "org": "베니카",
+      "tel": "00-1644-2525",
+      "homepage": "http://wallyrun.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41578",
+      "view_no": "41578",
+      "reg_start": "2026-05-18",
+      "reg_end": "2026-05-27",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-06-21",
+      "date_display": "6/21(일)",
+      "month": 6,
+      "day": 21,
+      "weekday": "일",
       "name": "2026 보은 속리산 말티재 힐링 알몸 마라톤",
       "course": "10km,5km",
       "place": "보은군 속리산 말티고개",
@@ -401,7 +420,7 @@
       "day": 21,
       "weekday": "일",
       "name": "소백산 죽령TrailRunnig",
-      "course": "28km,10km",
+      "course": "22km",
       "place": "죽령휴게소",
       "org": "(사)한국산악마라톤연맹",
       "tel": "02-424-2195",
@@ -409,7 +428,7 @@
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41218",
       "view_no": "41218",
       "reg_start": "2025-12-01",
-      "reg_end": "2026-06-10",
+      "reg_end": "2026-06-17",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -1248,6 +1267,44 @@
       "reg_end": "2026-09-10",
       "reg_verified": true,
       "runable_matched": false
+    },
+    {
+      "date": "2026-10-10",
+      "date_display": "10/10(토)",
+      "month": 10,
+      "day": 10,
+      "weekday": "토",
+      "name": "제5회 무등산지오마라톤",
+      "course": "하프,10km,5km,30km",
+      "place": "화순 금호스파리조트",
+      "org": "광주,전라남도,담양군,화순군",
+      "tel": "061-375-1201",
+      "homepage": "http://georun.kr/ko/",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41510",
+      "view_no": "41510",
+      "reg_start": "2026-05-18",
+      "reg_end": "2026-06-18",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-10-10",
+      "date_display": "10/10(토)",
+      "month": 10,
+      "day": 10,
+      "weekday": "토",
+      "name": "2026 경포마라톤",
+      "course": "하프,10km,5km",
+      "place": "강원특별자치도 강릉시",
+      "org": "(주)강원도민일보",
+      "tel": "033-651-0112",
+      "homepage": "http://www.경포마라톤.com",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41300",
+      "view_no": "41300",
+      "reg_start": "2026-05-18",
+      "reg_end": "2026-06-23",
+      "reg_verified": true,
+      "runable_matched": true
     },
     {
       "date": "2026-10-10",
