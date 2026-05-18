@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T07:01:04.868011",
+  "updated": "2026-05-19T07:01:06.795384",
   "total": 78,
   "races": [
     {
@@ -40,10 +40,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 27,
-        "tmin": 14
+        "icon": "🌦️",
+        "desc": "이슬비",
+        "tmax": 24,
+        "tmin": 12
       }
     },
     {
@@ -65,10 +65,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "☀️",
-        "desc": "맑음",
-        "tmax": 26,
-        "tmin": 20
+        "icon": "🌤️",
+        "desc": "대체로 맑음",
+        "tmax": 21,
+        "tmin": 15
       }
     },
     {
@@ -314,7 +314,7 @@
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41406",
       "view_no": "41406",
       "reg_start": "2026-02-05",
-      "reg_end": "2026-05-22",
+      "reg_end": "2026-06-03",
       "reg_verified": true,
       "runable_matched": true
     },
@@ -1250,6 +1250,25 @@
       "runable_matched": false
     },
     {
+      "date": "2026-10-04",
+      "date_display": "10/4(일)",
+      "month": 10,
+      "day": 4,
+      "weekday": "일",
+      "name": "2026 홍천사랑마라톤",
+      "course": "하프,10km,5km",
+      "place": "홍천종합운동장",
+      "org": "홍천시체육회, 홍천육상연맹",
+      "tel": "00-1866-1718",
+      "homepage": "http://www.hongcheonrun.net/",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41571",
+      "view_no": "41571",
+      "reg_start": "2026-05-19",
+      "reg_end": "2026-08-31",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
       "date": "2026-10-10",
       "date_display": "10/10(토)",
       "month": 10,
@@ -1398,25 +1417,6 @@
       "view_no": "41255",
       "reg_start": "2026-05-04",
       "reg_end": "2026-06-12",
-      "reg_verified": true,
-      "runable_matched": true
-    },
-    {
-      "date": "2026-10-18",
-      "date_display": "10/18(일)",
-      "month": 10,
-      "day": 18,
-      "weekday": "일",
-      "name": "2026 아시아 오픈 마라톤",
-      "course": "하프,10km",
-      "place": "광화문 광장(예정)",
-      "org": "아시아투데이",
-      "tel": "02-2647-4488",
-      "homepage": "http://asiarun.kr/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41303",
-      "view_no": "41303",
-      "reg_start": "2026-04-14",
-      "reg_end": "2026-05-18",
       "reg_verified": true,
       "runable_matched": true
     },
