@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-19T07:01:06.795384",
-  "total": 78,
+  "updated": "2026-05-20T07:01:04.646454",
+  "total": 80,
   "races": [
     {
       "date": "2026-05-30",
@@ -40,10 +40,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
-        "tmax": 24,
-        "tmin": 12
+        "icon": "☀️",
+        "desc": "맑음",
+        "tmax": 22,
+        "tmin": 13
       }
     },
     {
@@ -65,10 +65,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌤️",
-        "desc": "대체로 맑음",
+        "icon": "☀️",
+        "desc": "맑음",
         "tmax": 21,
-        "tmin": 15
+        "tmin": 16
       }
     },
     {
@@ -1179,6 +1179,25 @@
       "month": 10,
       "day": 3,
       "weekday": "토",
+      "name": "제25회 김제새만금 지평선 전국마라톤",
+      "course": "하프,10km,5km",
+      "place": "김제시민운동장 일원",
+      "org": "김제스포츠클럽",
+      "tel": "063-548-0095",
+      "homepage": "http://gimjesm.co.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41574",
+      "view_no": "41574",
+      "reg_start": "2026-05-20",
+      "reg_end": "2026-06-20",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-10-03",
+      "date_display": "10/3(토)",
+      "month": 10,
+      "day": 3,
+      "weekday": "토",
       "name": "제 2회 아산이순신 트레일",
       "course": "60km,46km",
       "place": "아산 신정호 이순신장군 동상앞",
@@ -1248,6 +1267,25 @@
       "reg_end": "2026-05-31",
       "reg_verified": true,
       "runable_matched": false
+    },
+    {
+      "date": "2026-10-04",
+      "date_display": "10/4(일)",
+      "month": 10,
+      "day": 4,
+      "weekday": "일",
+      "name": "제20회 달서하프마라톤",
+      "course": "하프,10km,5km",
+      "place": "대구 달서구 호림강나루공원",
+      "org": "달서구체육회",
+      "tel": "053-635-8683",
+      "homepage": "http://www.달서하프마라톤.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41332",
+      "view_no": "41332",
+      "reg_start": "2026-05-20",
+      "reg_end": "2026-06-30",
+      "reg_verified": true,
+      "runable_matched": true
     },
     {
       "date": "2026-10-04",
