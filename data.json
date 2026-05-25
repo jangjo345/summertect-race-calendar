@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-24T07:01:11.389076",
-  "total": 75,
+  "updated": "2026-05-26T07:01:10.665936",
+  "total": 77,
   "races": [
     {
       "date": "2026-05-30",
@@ -40,10 +40,35 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "☀️",
-        "desc": "맑음",
-        "tmax": 25,
-        "tmin": 18
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 24,
+        "tmin": 19
+      }
+    },
+    {
+      "date": "2026-06-06",
+      "date_display": "6/6(토)",
+      "month": 6,
+      "day": 6,
+      "weekday": "토",
+      "name": "2026 명품-FAAB 한강 브릿지런",
+      "course": "60km",
+      "place": "구리 한강 시민공원",
+      "org": "파브코리아",
+      "tel": "070-4507-4474",
+      "homepage": "http://www.mtrailrun.kr/",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41573",
+      "view_no": "41573",
+      "reg_start": "2026-05-11",
+      "reg_end": "2026-06-05",
+      "reg_verified": true,
+      "runable_matched": false,
+      "weather": {
+        "icon": "🌦️",
+        "desc": "이슬비",
+        "tmax": 21,
+        "tmin": 15
       }
     },
     {
@@ -67,7 +92,7 @@
       "weather": {
         "icon": "🌦️",
         "desc": "이슬비",
-        "tmax": 21,
+        "tmax": 19,
         "tmin": 13
       }
     },
@@ -90,35 +115,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "🌤️",
-        "desc": "대체로 맑음",
-        "tmax": 25,
-        "tmin": 16
-      }
-    },
-    {
-      "date": "2026-06-06",
-      "date_display": "6/6(토)",
-      "month": 6,
-      "day": 6,
-      "weekday": "토",
-      "name": "제9회남한산성TRAILRUNNING",
-      "course": "15km,8km",
-      "place": "마천역 1번출구",
-      "org": "(사)한국산악마라톤연맹",
-      "tel": "02-424-2195",
-      "homepage": "http://www.koreatrail.net/home/main.php?link=event&einc=eapp&opp=20250911090719&csno=20220731195207#baseline",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41160",
-      "view_no": "41160",
-      "reg_start": "2025-10-25",
-      "reg_end": "2026-05-25",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "⛅",
-        "desc": "구름 약간",
-        "tmax": 25,
-        "tmin": 14
+        "icon": "🌦️",
+        "desc": "이슬비",
+        "tmax": 22,
+        "tmin": 15
       }
     },
     {
@@ -811,6 +811,25 @@
       "month": 9,
       "day": 5,
       "weekday": "토",
+      "name": "제2회 2026 Vrun",
+      "course": "10km,5km",
+      "place": "신정교하부육상트랙구장",
+      "org": "(사)대한생활체육마라톤협회",
+      "tel": "00-1644-4219",
+      "homepage": "http://vrun.kr/index.asp",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41595",
+      "view_no": "41595",
+      "reg_start": "2026-05-26",
+      "reg_end": "2026-08-12",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-09-05",
+      "date_display": "9/5(토)",
+      "month": 9,
+      "day": 5,
+      "weekday": "토",
       "name": "제20회 순천만울트라마라톤대회",
       "course": "100km",
       "place": "순천동천천변공원",
@@ -1355,6 +1374,25 @@
       "reg_end": "2026-09-10",
       "reg_verified": true,
       "runable_matched": false
+    },
+    {
+      "date": "2026-10-17",
+      "date_display": "10/17(토)",
+      "month": 10,
+      "day": 17,
+      "weekday": "토",
+      "name": "2026 경주마라톤",
+      "course": "풀,하프,10km",
+      "place": "경주시민운동장",
+      "org": "동아일보,경북도,KAAF",
+      "tel": "02-361-1425",
+      "homepage": "http://www.gyeongjumarathon.com/home",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41587",
+      "view_no": "41587",
+      "reg_start": "2026-05-26",
+      "reg_end": "2026-05-28",
+      "reg_verified": true,
+      "runable_matched": true
     },
     {
       "date": "2026-10-17",
