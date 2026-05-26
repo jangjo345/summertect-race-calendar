@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-26T07:01:10.665936",
-  "total": 77,
+  "updated": "2026-05-27T07:01:05.772711",
+  "total": 75,
   "races": [
     {
       "date": "2026-05-30",
@@ -43,7 +43,7 @@
         "icon": "☁️",
         "desc": "흐림",
         "tmax": 24,
-        "tmin": 19
+        "tmin": 16
       }
     },
     {
@@ -65,10 +65,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
-        "tmax": 21,
-        "tmin": 15
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 30,
+        "tmin": 20
       }
     },
     {
@@ -92,8 +92,8 @@
       "weather": {
         "icon": "🌦️",
         "desc": "이슬비",
-        "tmax": 19,
-        "tmin": 13
+        "tmax": 23,
+        "tmin": 15
       }
     },
     {
@@ -115,10 +115,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
-        "tmax": 22,
-        "tmin": 15
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 30,
+        "tmin": 21
       }
     },
     {
@@ -481,25 +481,6 @@
       "reg_end": "2026-06-17",
       "reg_verified": true,
       "runable_matched": true
-    },
-    {
-      "date": "2026-06-28",
-      "date_display": "6/28(일)",
-      "month": 6,
-      "day": 28,
-      "weekday": "일",
-      "name": "2026 전국블루베리마라톤축제",
-      "course": "10km,5km,5km가족부(2인1조),10km 단체전(3인1조)",
-      "place": "정읍 대흥무지개센터",
-      "org": "대흥리마을공동체, 정읍시육상연",
-      "tel": "010-4654-0495",
-      "homepage": "http://dhrun.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41523",
-      "view_no": "41523",
-      "reg_start": "2026-04-10",
-      "reg_end": "2026-06-10",
-      "reg_verified": true,
-      "runable_matched": false
     },
     {
       "date": "2026-07-04",
@@ -1220,25 +1201,6 @@
       "view_no": "41571",
       "reg_start": "2026-05-19",
       "reg_end": "2026-08-31",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-10-05",
-      "date_display": "10/5(월)",
-      "month": 10,
-      "day": 5,
-      "weekday": "월",
-      "name": "2026 서울오픈마라톤",
-      "course": "하프,10km",
-      "place": "광화문광장(예정)",
-      "org": "(사)한국체육개발원 등",
-      "tel": "070-7766-1238",
-      "homepage": "http://seoulopen.or.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41551",
-      "view_no": "41551",
-      "reg_start": "2026-04-26",
-      "reg_end": "2026-05-26",
       "reg_verified": true,
       "runable_matched": false
     },
