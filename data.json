@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-27T07:01:05.772711",
-  "total": 75,
+  "updated": "2026-05-28T07:01:08.398592",
+  "total": 74,
   "races": [
     {
       "date": "2026-05-30",
@@ -40,9 +40,9 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 24,
+        "icon": "⛅",
+        "desc": "구름 약간",
+        "tmax": 23,
         "tmin": 16
       }
     },
@@ -65,10 +65,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 30,
-        "tmin": 20
+        "icon": "🌦️",
+        "desc": "이슬비",
+        "tmax": 22,
+        "tmin": 18
       }
     },
     {
@@ -90,10 +90,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
-        "tmax": 23,
-        "tmin": 15
+        "icon": "🌧️",
+        "desc": "비",
+        "tmax": 22,
+        "tmin": 16
       }
     },
     {
@@ -115,10 +115,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 30,
-        "tmin": 21
+        "icon": "🌧️",
+        "desc": "비",
+        "tmax": 22,
+        "tmin": 18
       }
     },
     {
@@ -260,16 +260,16 @@
       "month": 6,
       "day": 21,
       "weekday": "일",
-      "name": "월리를 찾아라런 in 서울 2026",
-      "course": "10km,5km",
-      "place": "여의도공원 문화의마당",
-      "org": "베니카",
-      "tel": "00-1644-2525",
-      "homepage": "http://wallyrun.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41578",
-      "view_no": "41578",
-      "reg_start": "2026-05-18",
-      "reg_end": "2026-05-27",
+      "name": "SPINDLE TRAIL RUN 2026",
+      "course": "12K,20K",
+      "place": "삼양라운드힐",
+      "org": "스핀들, 프립",
+      "tel": "02-512-3662",
+      "homepage": "http://sqnc.global/spindle-trail-run",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41597",
+      "view_no": "41597",
+      "reg_start": "2026-05-15",
+      "reg_end": "2026-06-05",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -1279,25 +1279,6 @@
       "reg_end": "2026-09-30",
       "reg_verified": true,
       "runable_matched": true
-    },
-    {
-      "date": "2026-10-11",
-      "date_display": "10/11(일)",
-      "month": 10,
-      "day": 11,
-      "weekday": "일",
-      "name": "2026 서울레이스",
-      "course": "하프,10km",
-      "place": "서울광장",
-      "org": "동아일보",
-      "tel": "02-312-1998",
-      "homepage": "http://www.seoul-race.co.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41546",
-      "view_no": "41546",
-      "reg_start": "2026-05-11",
-      "reg_end": "2026-05-27",
-      "reg_verified": true,
-      "runable_matched": false
     },
     {
       "date": "2026-10-11",
