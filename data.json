@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-28T07:01:08.398592",
-  "total": 74,
+  "updated": "2026-05-29T07:01:08.005830",
+  "total": 72,
   "races": [
     {
       "date": "2026-05-30",
@@ -40,10 +40,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "⛅",
-        "desc": "구름 약간",
-        "tmax": 23,
-        "tmin": 16
+        "icon": "🌤️",
+        "desc": "대체로 맑음",
+        "tmax": 26,
+        "tmin": 18
       }
     },
     {
@@ -65,10 +65,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
-        "tmax": 22,
-        "tmin": 18
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 25,
+        "tmin": 17
       }
     },
     {
@@ -92,33 +92,8 @@
       "weather": {
         "icon": "🌧️",
         "desc": "비",
-        "tmax": 22,
-        "tmin": 16
-      }
-    },
-    {
-      "date": "2026-06-06",
-      "date_display": "6/6(토)",
-      "month": 6,
-      "day": 6,
-      "weekday": "토",
-      "name": "2026 푸른하늘런",
-      "course": "하프,10km,5km",
-      "place": "상암 월드컵공원 평화광장",
-      "org": "(사)대한이에스지협회",
-      "tel": "02-2606-8187",
-      "homepage": "http://blueskyrun.kr/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41438",
-      "view_no": "41438",
-      "reg_start": "2026-03-05",
-      "reg_end": "2026-05-28",
-      "reg_verified": true,
-      "runable_matched": true,
-      "weather": {
-        "icon": "🌧️",
-        "desc": "비",
-        "tmax": 22,
-        "tmin": 18
+        "tmax": 23,
+        "tmin": 15
       }
     },
     {
@@ -1317,25 +1292,6 @@
       "reg_end": "2026-09-10",
       "reg_verified": true,
       "runable_matched": false
-    },
-    {
-      "date": "2026-10-17",
-      "date_display": "10/17(토)",
-      "month": 10,
-      "day": 17,
-      "weekday": "토",
-      "name": "2026 경주마라톤",
-      "course": "풀,하프,10km",
-      "place": "경주시민운동장",
-      "org": "동아일보,경북도,KAAF",
-      "tel": "02-361-1425",
-      "homepage": "http://www.gyeongjumarathon.com/home",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41587",
-      "view_no": "41587",
-      "reg_start": "2026-05-26",
-      "reg_end": "2026-05-28",
-      "reg_verified": true,
-      "runable_matched": true
     },
     {
       "date": "2026-10-17",
