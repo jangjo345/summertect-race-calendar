@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-29T07:01:08.005830",
-  "total": 72,
+  "updated": "2026-05-30T07:01:05.006560",
+  "total": 70,
   "races": [
     {
       "date": "2026-05-30",
@@ -22,31 +22,6 @@
       "runable_matched": false
     },
     {
-      "date": "2026-05-30",
-      "date_display": "5/30(토)",
-      "month": 5,
-      "day": 30,
-      "weekday": "토",
-      "name": "제주 김녕 빵빵런 2026",
-      "course": "10km,5km",
-      "place": "제주 구좌체육공원",
-      "org": "1986 프로덕션",
-      "tel": "02-364-1986",
-      "homepage": "http://jejubbangrun.com/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41471",
-      "view_no": "41471",
-      "reg_start": "2026-03-13",
-      "reg_end": "2026-05-29",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "🌤️",
-        "desc": "대체로 맑음",
-        "tmax": 26,
-        "tmin": 18
-      }
-    },
-    {
       "date": "2026-06-06",
       "date_display": "6/6(토)",
       "month": 6,
@@ -65,10 +40,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 25,
-        "tmin": 17
+        "icon": "🌦️",
+        "desc": "이슬비",
+        "tmax": 30,
+        "tmin": 21
       }
     },
     {
@@ -90,10 +65,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌧️",
-        "desc": "비",
-        "tmax": 23,
-        "tmin": 15
+        "icon": "🌦️",
+        "desc": "이슬비",
+        "tmax": 21,
+        "tmin": 16
       }
     },
     {
@@ -113,26 +88,13 @@
       "reg_start": "2026-05-01",
       "reg_end": "2026-06-05",
       "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-06-14",
-      "date_display": "6/14(일)",
-      "month": 6,
-      "day": 14,
-      "weekday": "일",
-      "name": "제21회 광진구연맹회장배 육상대회",
-      "course": "10km,5km",
-      "place": "중곡동 중랑천 물놀이장 옆",
-      "org": "광진구체육회(광진구육상연맹)",
-      "tel": "02-457-0121",
-      "homepage": "http://ksgaaf.co.kr/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41518",
-      "view_no": "41518",
-      "reg_start": "2026-04-06",
-      "reg_end": "2026-05-29",
-      "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 35,
+        "tmin": 20
+      }
     },
     {
       "date": "2026-06-14",
