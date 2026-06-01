@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-01T07:00:55.371608",
-  "total": 58,
+  "updated": "2026-06-02T07:00:56.393710",
+  "total": 55,
   "races": [
     {
       "date": "2026-06-06",
@@ -21,10 +21,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "☀️",
-        "desc": "맑음",
-        "tmax": 24,
-        "tmin": 16
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 30,
+        "tmin": 18
       }
     },
     {
@@ -48,8 +48,8 @@
       "weather": {
         "icon": "☁️",
         "desc": "흐림",
-        "tmax": 29,
-        "tmin": 17
+        "tmax": 30,
+        "tmin": 18
       }
     },
     {
@@ -125,25 +125,6 @@
       "view_no": "41597",
       "reg_start": "2026-05-15",
       "reg_end": "2026-06-05",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-06-21",
-      "date_display": "6/21(일)",
-      "month": 6,
-      "day": 21,
-      "weekday": "일",
-      "name": "2026 보은 속리산 말티재 힐링 알몸 마라톤",
-      "course": "10km,5km",
-      "place": "보은군 속리산 말티고개",
-      "org": "전국마라톤협회",
-      "tel": "042-638-1080",
-      "homepage": "http://mara1080.com/event/cfa1bea4-b545-4df9-8ae1-5ce280ca0e3d",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41443",
-      "view_no": "41443",
-      "reg_start": "2026-03-05",
-      "reg_end": "2026-06-01",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -334,6 +315,25 @@
       "view_no": "41191",
       "reg_start": "2025-11-13",
       "reg_end": "2026-06-27",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-07-18",
+      "date_display": "7/18(토)",
+      "month": 7,
+      "day": 18,
+      "weekday": "토",
+      "name": "제2회 울릉나이트런",
+      "course": "10km",
+      "place": "울릉군 현포항",
+      "org": "대저투어",
+      "tel": "00-1899-4607",
+      "homepage": "http://forms.gle/wZenaiNwaS7MtRYa6",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41607",
+      "view_no": "41607",
+      "reg_start": "2026-05-18",
+      "reg_end": "2026-06-21",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -799,25 +799,6 @@
       "month": 10,
       "day": 3,
       "weekday": "토",
-      "name": "제25회 김제새만금 지평선 전국마라톤",
-      "course": "하프,10km,5km",
-      "place": "김제시민운동장 일원",
-      "org": "김제스포츠클럽",
-      "tel": "063-548-0095",
-      "homepage": "http://gimjesm.co.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41574",
-      "view_no": "41574",
-      "reg_start": "2026-05-20",
-      "reg_end": "2026-06-20",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-10-03",
-      "date_display": "10/3(토)",
-      "month": 10,
-      "day": 3,
-      "weekday": "토",
       "name": "제 2회 아산이순신 트레일",
       "course": "60km,46km",
       "place": "아산 신정호 이순신장군 동상앞",
@@ -904,6 +885,25 @@
       "view_no": "41571",
       "reg_start": "2026-05-19",
       "reg_end": "2026-08-31",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-10-10",
+      "date_display": "10/10(토)",
+      "month": 10,
+      "day": 10,
+      "weekday": "토",
+      "name": "제5회 구미시장배 금오산트레일 레이스",
+      "course": "10km,18k, 23k",
+      "place": "금오산 공영 대주차장",
+      "org": "구미시산악연맹, 구미트레일런",
+      "tel": "010-3504-1206",
+      "homepage": "http://cafe.naver.com/gumitrailrunnerclub",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41601",
+      "view_no": "41601",
+      "reg_start": "2026-06-01",
+      "reg_end": "2026-07-31",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -1056,63 +1056,6 @@
       "view_no": "41477",
       "reg_start": "2026-03-16",
       "reg_end": "2026-08-30",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-11-15",
-      "date_display": "11/15(일)",
-      "month": 11,
-      "day": 15,
-      "weekday": "일",
-      "name": "제24회 상주 곶감 마라톤 대회",
-      "course": "풀,하프,10km,4.4km",
-      "place": "상주시민운동장",
-      "org": "전국마라톤협회",
-      "tel": "042-638-1080",
-      "homepage": "http://www.mara1080.com/event/c8dc2c22-a83a-4743-9e34-c884e9809dbb",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41563",
-      "view_no": "41563",
-      "reg_start": "2026-05-06",
-      "reg_end": "2026-10-15",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-11-15",
-      "date_display": "11/15(일)",
-      "month": 11,
-      "day": 15,
-      "weekday": "일",
-      "name": "제3회 무등산더블하트국제트레일런대회",
-      "course": "16km/36km,51.8km",
-      "place": "조선대학교",
-      "org": "한국백혈병소아암협회/시유케이컴",
-      "tel": "00-1899-8610",
-      "homepage": "http://www.cuk-sports.com/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41558",
-      "view_no": "41558",
-      "reg_start": "2026-05-04",
-      "reg_end": "2026-10-15",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-11-15",
-      "date_display": "11/15(일)",
-      "month": 11,
-      "day": 15,
-      "weekday": "일",
-      "name": "제24회 대모산,구룡산 트레일런",
-      "course": "10km",
-      "place": "수서역 7번출구광장",
-      "org": "(사)한국산악마라톤연맹",
-      "tel": "02-424-2195",
-      "homepage": "http://www.koreatrail.net/home/main.php?link=event&einc=eapp&opp=20241014202801&csno=20200702232740#baseline",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41522",
-      "view_no": "41522",
-      "reg_start": "2026-04-01",
-      "reg_end": "2026-10-30",
       "reg_verified": true,
       "runable_matched": false
     }
