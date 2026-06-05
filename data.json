@@ -1,57 +1,7 @@
 {
-  "updated": "2026-06-05T07:00:55.874883",
-  "total": 58,
+  "updated": "2026-06-06T07:00:55.805559",
+  "total": 55,
   "races": [
-    {
-      "date": "2026-06-06",
-      "date_display": "6/6(토)",
-      "month": 6,
-      "day": 6,
-      "weekday": "토",
-      "name": "2026 명품-FAAB 한강 브릿지런",
-      "course": "60km",
-      "place": "구리 한강 시민공원",
-      "org": "파브코리아",
-      "tel": "070-4507-4474",
-      "homepage": "http://www.mtrailrun.kr/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41573",
-      "view_no": "41573",
-      "reg_start": "2026-05-11",
-      "reg_end": "2026-06-05",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 29,
-        "tmin": 15
-      }
-    },
-    {
-      "date": "2026-06-13",
-      "date_display": "6/13(토)",
-      "month": 6,
-      "day": 13,
-      "weekday": "토",
-      "name": "2026 지중해마을 마라톤",
-      "course": "5km",
-      "place": "아산시 지중해 마을 광장",
-      "org": "주식회사 오소컴퍼니",
-      "tel": "010-7604-5878",
-      "homepage": "http://bluecrystalmarathon.imweb.me",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41520",
-      "view_no": "41520",
-      "reg_start": "2026-05-01",
-      "reg_end": "2026-06-05",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "⛅",
-        "desc": "구름 약간",
-        "tmax": 31,
-        "tmin": 18
-      }
-    },
     {
       "date": "2026-06-20",
       "date_display": "6/20(토)",
@@ -69,7 +19,13 @@
       "reg_start": "2026-03-11",
       "reg_end": "2026-06-11",
       "reg_verified": true,
-      "runable_matched": true
+      "runable_matched": true,
+      "weather": {
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 33,
+        "tmin": 21
+      }
     },
     {
       "date": "2026-06-20",
@@ -88,26 +44,13 @@
       "reg_start": "2026-03-11",
       "reg_end": "2026-06-19",
       "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-06-21",
-      "date_display": "6/21(일)",
-      "month": 6,
-      "day": 21,
-      "weekday": "일",
-      "name": "SPINDLE TRAIL RUN 2026",
-      "course": "12K,20K",
-      "place": "삼양라운드힐",
-      "org": "스핀들, 프립",
-      "tel": "02-512-3662",
-      "homepage": "http://sqnc.global/spindle-trail-run",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41597",
-      "view_no": "41597",
-      "reg_start": "2026-05-15",
-      "reg_end": "2026-06-05",
-      "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "🌧️",
+        "desc": "비",
+        "tmax": 31,
+        "tmin": 20
+      }
     },
     {
       "date": "2026-06-21",
@@ -125,25 +68,6 @@
       "view_no": "41439",
       "reg_start": "2026-03-05",
       "reg_end": "2026-06-14",
-      "reg_verified": true,
-      "runable_matched": true
-    },
-    {
-      "date": "2026-06-21",
-      "date_display": "6/21(일)",
-      "month": 6,
-      "day": 21,
-      "weekday": "일",
-      "name": "2026 람사르습지 밤섬런",
-      "course": "10km,5km",
-      "place": "여의도 한강공원 물빛무대",
-      "org": "마포공동체라디오",
-      "tel": "02-332-3247",
-      "homepage": "http://bamseomrun.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41391",
-      "view_no": "41391",
-      "reg_start": "2026-02-10",
-      "reg_end": "2026-06-05",
       "reg_verified": true,
       "runable_matched": true
     },
@@ -429,6 +353,25 @@
       "view_no": "41584",
       "reg_start": "2026-06-01",
       "reg_end": "2026-06-30",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-08-15",
+      "date_display": "8/15(토)",
+      "month": 8,
+      "day": 15,
+      "weekday": "토",
+      "name": "2026 안양천 달빛 나이트런",
+      "course": "10km,5km",
+      "place": "신정교 하부 영롱이 억새구장",
+      "org": "(사)대한이에스지협회",
+      "tel": "02-2606-8187",
+      "homepage": "http://moonnightrun.kr/",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41617",
+      "view_no": "41617",
+      "reg_start": "2026-06-05",
+      "reg_end": "2026-08-06",
       "reg_verified": true,
       "runable_matched": false
     },
