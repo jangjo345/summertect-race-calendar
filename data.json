@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-06T07:00:55.805559",
-  "total": 55,
+  "updated": "2026-06-07T07:00:55.003674",
+  "total": 54,
   "races": [
     {
       "date": "2026-06-20",
@@ -21,10 +21,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
+        "icon": "☀️",
+        "desc": "맑음",
         "tmax": 33,
-        "tmin": 21
+        "tmin": 20
       }
     },
     {
@@ -46,10 +46,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌧️",
-        "desc": "비",
-        "tmax": 31,
-        "tmin": 20
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 33,
+        "tmin": 19
       }
     },
     {
@@ -69,7 +69,13 @@
       "reg_start": "2026-03-05",
       "reg_end": "2026-06-14",
       "reg_verified": true,
-      "runable_matched": true
+      "runable_matched": true,
+      "weather": {
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 33,
+        "tmin": 22
+      }
     },
     {
       "date": "2026-06-21",
@@ -88,7 +94,13 @@
       "reg_start": "2025-12-01",
       "reg_end": "2026-06-17",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 23,
+        "tmin": 16
+      }
     },
     {
       "date": "2026-06-27",
@@ -752,25 +764,6 @@
       "view_no": "41541",
       "reg_start": "2026-04-17",
       "reg_end": "2026-08-19",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-10-03",
-      "date_display": "10/3(토)",
-      "month": 10,
-      "day": 3,
-      "weekday": "토",
-      "name": "2026 천사데이기념 동두천천사마라톤",
-      "course": "10km,5km,걷기 2Km",
-      "place": "경기도 동두천시 캠프보산",
-      "org": "(사)희망지킴이 천사운동본부",
-      "tel": "031-861-1004",
-      "homepage": "http://hope1004.org",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41608",
-      "view_no": "41608",
-      "reg_start": "2026-06-04",
-      "reg_end": "2026-09-30",
       "reg_verified": true,
       "runable_matched": false
     },
