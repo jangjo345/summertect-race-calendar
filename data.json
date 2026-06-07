@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-07T07:00:55.003674",
-  "total": 54,
+  "updated": "2026-06-08T07:01:10.238504",
+  "total": 56,
   "races": [
     {
       "date": "2026-06-20",
@@ -21,8 +21,8 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "☀️",
-        "desc": "맑음",
+        "icon": "🌦️",
+        "desc": "이슬비",
         "tmax": 33,
         "tmin": 20
       }
@@ -46,10 +46,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 33,
-        "tmin": 19
+        "icon": "🌦️",
+        "desc": "이슬비",
+        "tmax": 30,
+        "tmin": 20
       }
     },
     {
@@ -71,10 +71,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 33,
-        "tmin": 22
+        "icon": "🌤️",
+        "desc": "대체로 맑음",
+        "tmax": 31,
+        "tmin": 21
       }
     },
     {
@@ -96,10 +96,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 23,
-        "tmin": 16
+        "icon": "🌦️",
+        "desc": "이슬비",
+        "tmax": 28,
+        "tmin": 17
       }
     },
     {
@@ -184,25 +184,6 @@
       "month": 6,
       "day": 28,
       "weekday": "일",
-      "name": "THE PACER SERIES",
-      "course": "10km,5km",
-      "place": "충청북도 청주시 상당구 문의면 청남대길 646",
-      "org": "런코드 코리아",
-      "tel": "010-7734-1481",
-      "homepage": "http://thepacerseries.com",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41561",
-      "view_no": "41561",
-      "reg_start": "2026-05-04",
-      "reg_end": "2026-06-07",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-06-28",
-      "date_display": "6/28(일)",
-      "month": 6,
-      "day": 28,
-      "weekday": "일",
       "name": "제1회 리프레시런",
       "course": "10km,5km",
       "place": "하남 미사경정공원",
@@ -270,6 +251,25 @@
       "view_no": "41612",
       "reg_start": "2026-06-02",
       "reg_end": "2026-06-30",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-07-12",
+      "date_display": "7/12(일)",
+      "month": 7,
+      "day": 12,
+      "weekday": "일",
+      "name": "2026 광제산 트레일 런",
+      "course": "하프,10km,5km",
+      "place": "홍지소류지(진주 명석면 계원리",
+      "org": "진주시육상연맹",
+      "tel": "070-4443-4392",
+      "homepage": "http://www.trailrun.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41619",
+      "view_no": "41619",
+      "reg_start": "2026-06-08",
+      "reg_end": "2026-06-25",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -716,6 +716,25 @@
       "month": 9,
       "day": 13,
       "weekday": "일",
+      "name": "제26회 강화해변마라톤대회",
+      "course": "하프,10km,5km",
+      "place": "강화함상공원",
+      "org": "인천일보,(사)인천마라톤조직위",
+      "tel": "00-1866-1718",
+      "homepage": "http://www.ganghwamarathon.co.kr/",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41606",
+      "view_no": "41606",
+      "reg_start": "2026-06-08",
+      "reg_end": "2026-07-31",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-09-13",
+      "date_display": "9/13(일)",
+      "month": 9,
+      "day": 13,
+      "weekday": "일",
       "name": "제14회설악산공룡능선UTMB",
       "course": "27km,22km",
       "place": "설익산한계령휴계소",
@@ -764,6 +783,25 @@
       "view_no": "41541",
       "reg_start": "2026-04-17",
       "reg_end": "2026-08-19",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-09-20",
+      "date_display": "9/20(일)",
+      "month": 9,
+      "day": 20,
+      "weekday": "일",
+      "name": "2026(20회) 선사마라톤 축제",
+      "course": "하프,10km,5km,5km 걷기",
+      "place": "서울 암사동 유적앞 특설무대",
+      "org": "강동구 육상연맹",
+      "tel": "02-476-7330",
+      "homepage": "http://www.gomarathon.co.kr/",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41594",
+      "view_no": "41594",
+      "reg_start": "2026-06-08",
+      "reg_end": "2026-06-11",
       "reg_verified": true,
       "runable_matched": false
     },
