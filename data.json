@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-12T07:00:55.416509",
-  "total": 59,
+  "updated": "2026-06-13T07:00:57.473339",
+  "total": 60,
   "races": [
     {
       "date": "2026-06-20",
@@ -21,9 +21,9 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
-        "tmax": 31,
+        "icon": "🌧️",
+        "desc": "비",
+        "tmax": 26,
         "tmin": 21
       }
     },
@@ -46,10 +46,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "⛅",
-        "desc": "구름 약간",
+        "icon": "☁️",
+        "desc": "흐림",
         "tmax": 33,
-        "tmin": 21
+        "tmin": 23
       }
     },
     {
@@ -73,8 +73,8 @@
       "weather": {
         "icon": "🌦️",
         "desc": "이슬비",
-        "tmax": 29,
-        "tmin": 17
+        "tmax": 23,
+        "tmin": 16
       }
     },
     {
@@ -94,7 +94,13 @@
       "reg_start": "2026-05-13",
       "reg_end": "2026-06-17",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "🌦️",
+        "desc": "이슬비",
+        "tmax": 28,
+        "tmin": 22
+      }
     },
     {
       "date": "2026-06-27",
@@ -113,7 +119,13 @@
       "reg_start": "2026-05-13",
       "reg_end": "2026-06-13",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "🌦️",
+        "desc": "이슬비",
+        "tmax": 26,
+        "tmin": 21
+      }
     },
     {
       "date": "2026-06-27",
@@ -132,7 +144,13 @@
       "reg_start": "2026-03-05",
       "reg_end": "2026-06-18",
       "reg_verified": true,
-      "runable_matched": true
+      "runable_matched": true,
+      "weather": {
+        "icon": "🌧️",
+        "desc": "비",
+        "tmax": 28,
+        "tmin": 22
+      }
     },
     {
       "date": "2026-06-27",
@@ -986,6 +1004,25 @@
       "view_no": "41560",
       "reg_start": "2026-05-04",
       "reg_end": "2026-08-10",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-10-04",
+      "date_display": "10/4(일)",
+      "month": 10,
+      "day": 4,
+      "weekday": "일",
+      "name": "2026 안동마라톤",
+      "course": "풀,하프,10km,5km",
+      "place": "안동시민운동장",
+      "org": "안동시, 매일신문사",
+      "tel": "031-575-7243",
+      "homepage": "http://www.admarathon.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41516",
+      "view_no": "41516",
+      "reg_start": "2026-04-13",
+      "reg_end": "2026-07-31",
       "reg_verified": true,
       "runable_matched": false
     },
