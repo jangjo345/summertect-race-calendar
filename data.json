@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-13T07:00:57.473339",
-  "total": 60,
+  "updated": "2026-06-14T07:00:57.383109",
+  "total": 59,
   "races": [
     {
       "date": "2026-06-20",
@@ -21,9 +21,9 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌧️",
-        "desc": "비",
-        "tmax": 26,
+        "icon": "🌤️",
+        "desc": "대체로 맑음",
+        "tmax": 34,
         "tmin": 21
       }
     },
@@ -46,10 +46,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 33,
-        "tmin": 23
+        "icon": "⛈️",
+        "desc": "뇌우",
+        "tmax": 35,
+        "tmin": 24
       }
     },
     {
@@ -73,8 +73,8 @@
       "weather": {
         "icon": "🌦️",
         "desc": "이슬비",
-        "tmax": 23,
-        "tmin": 16
+        "tmax": 33,
+        "tmin": 19
       }
     },
     {
@@ -96,35 +96,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
-        "tmax": 28,
-        "tmin": 22
-      }
-    },
-    {
-      "date": "2026-06-27",
-      "date_display": "6/27(토)",
-      "month": 6,
-      "day": 27,
-      "weekday": "토",
-      "name": "2026 전마협 10km 연대별 최강전",
-      "course": "10km,5km",
-      "place": "금산인삼엑스포주차장",
-      "org": "전국마라톤협회",
-      "tel": "042-638-1080",
-      "homepage": "http://mara1080.com/event/5baeed50-d91c-4453-bf68-48ab19911d58",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41580",
-      "view_no": "41580",
-      "reg_start": "2026-05-13",
-      "reg_end": "2026-06-13",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
+        "icon": "🌧️",
+        "desc": "비",
         "tmax": 26,
-        "tmin": 21
+        "tmin": 22
       }
     },
     {
@@ -146,10 +121,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "🌧️",
-        "desc": "비",
-        "tmax": 28,
-        "tmin": 22
+        "icon": "🌦️",
+        "desc": "이슬비",
+        "tmax": 24,
+        "tmin": 20
       }
     },
     {
@@ -188,7 +163,13 @@
       "reg_start": "2026-05-04",
       "reg_end": "2026-06-14",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "🌦️",
+        "desc": "이슬비",
+        "tmax": 27,
+        "tmin": 20
+      }
     },
     {
       "date": "2026-06-28",
@@ -226,7 +207,13 @@
       "reg_start": "2026-03-18",
       "reg_end": "2026-06-17",
       "reg_verified": true,
-      "runable_matched": true
+      "runable_matched": true,
+      "weather": {
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 28,
+        "tmin": 21
+      }
     },
     {
       "date": "2026-07-05",
@@ -463,8 +450,8 @@
       "day": 15,
       "weekday": "토",
       "name": "영남알프스9봉 트레일 레이스",
-      "course": "9봉 85k,5봉 43k",
-      "place": "울주군 등억알프스온천호텔(복합센터부근)",
+      "course": "9봉 87k,5봉 45k",
+      "place": "청운산장",
       "org": "JYD자연을달린다",
       "tel": "010-4539-6887",
       "homepage": "http://jyd.creatorlink.net",
