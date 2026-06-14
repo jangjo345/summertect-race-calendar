@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-14T07:00:57.383109",
-  "total": 59,
+  "updated": "2026-06-15T07:00:51.491609",
+  "total": 57,
   "races": [
     {
       "date": "2026-06-20",
@@ -21,35 +21,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌤️",
-        "desc": "대체로 맑음",
-        "tmax": 34,
+        "icon": "🌦️",
+        "desc": "이슬비",
+        "tmax": 30,
         "tmin": 21
-      }
-    },
-    {
-      "date": "2026-06-21",
-      "date_display": "6/21(일)",
-      "month": 6,
-      "day": 21,
-      "weekday": "일",
-      "name": "2026 참행복나눔 마라톤",
-      "course": "하프,10km,5km",
-      "place": "상암 월드컵공원 평화광장",
-      "org": "(사)참행복나눔운동",
-      "tel": "02-3285-5556",
-      "homepage": "http://realhappyrun.kr/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41439",
-      "view_no": "41439",
-      "reg_start": "2026-03-05",
-      "reg_end": "2026-06-14",
-      "reg_verified": true,
-      "runable_matched": true,
-      "weather": {
-        "icon": "⛈️",
-        "desc": "뇌우",
-        "tmax": 35,
-        "tmin": 24
       }
     },
     {
@@ -73,8 +48,8 @@
       "weather": {
         "icon": "🌦️",
         "desc": "이슬비",
-        "tmax": 33,
-        "tmin": 19
+        "tmax": 28,
+        "tmin": 16
       }
     },
     {
@@ -96,10 +71,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌧️",
-        "desc": "비",
-        "tmax": 26,
-        "tmin": 22
+        "icon": "🌦️",
+        "desc": "이슬비",
+        "tmax": 29,
+        "tmin": 20
       }
     },
     {
@@ -121,10 +96,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
-        "tmax": 24,
-        "tmin": 20
+        "icon": "🌤️",
+        "desc": "대체로 맑음",
+        "tmax": 30,
+        "tmin": 18
       }
     },
     {
@@ -145,31 +120,6 @@
       "reg_end": "2026-06-19",
       "reg_verified": true,
       "runable_matched": false
-    },
-    {
-      "date": "2026-06-28",
-      "date_display": "6/28(일)",
-      "month": 6,
-      "day": 28,
-      "weekday": "일",
-      "name": "THE PACER SERIES",
-      "course": "10km,5km",
-      "place": "충청북도 청주시 상당구 문의면 청남대길 646",
-      "org": "런코드 코리아",
-      "tel": "010-7734-1481",
-      "homepage": "http://thepacerseries.com",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41561",
-      "view_no": "41561",
-      "reg_start": "2026-05-04",
-      "reg_end": "2026-06-14",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
-        "tmax": 27,
-        "tmin": 20
-      }
     },
     {
       "date": "2026-06-28",
@@ -209,10 +159,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 28,
-        "tmin": 21
+        "icon": "🌦️",
+        "desc": "이슬비",
+        "tmax": 31,
+        "tmin": 20
       }
     },
     {
@@ -288,25 +238,6 @@
       "view_no": "41607",
       "reg_start": "2026-05-18",
       "reg_end": "2026-06-21",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-07-19",
-      "date_display": "7/19(일)",
-      "month": 7,
-      "day": 19,
-      "weekday": "일",
-      "name": "제16회 태종대혹서기전국마라톤",
-      "course": "하프,10km,7km",
-      "place": "태종대공원",
-      "org": "(사)부산아마추어마라톤클럽연맹",
-      "tel": "010-6710-2023",
-      "homepage": "http://www.bsama.co.kr/index.asp",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41521",
-      "view_no": "41521",
-      "reg_start": "2026-04-15",
-      "reg_end": "2026-06-14",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -1048,6 +979,25 @@
       "view_no": "41571",
       "reg_start": "2026-05-19",
       "reg_end": "2026-08-31",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-10-10",
+      "date_display": "10/10(토)",
+      "month": 10,
+      "day": 10,
+      "weekday": "토",
+      "name": "제5회 구미시장배 금오산트레일 레이스",
+      "course": "10km,18k, 23k",
+      "place": "금오산 공영 대주차장",
+      "org": "구미시산악연맹, 구미트레일런",
+      "tel": "010-3504-1206",
+      "homepage": "http://cafe.naver.com/gumitrailrunnerclub",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41601",
+      "view_no": "41601",
+      "reg_start": "2026-06-15",
+      "reg_end": "2026-07-31",
       "reg_verified": true,
       "runable_matched": false
     },
