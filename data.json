@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T07:00:51.491609",
+  "updated": "2026-06-16T07:00:51.401063",
   "total": 57,
   "races": [
     {
@@ -22,9 +22,9 @@
       "runable_matched": false,
       "weather": {
         "icon": "🌦️",
-        "desc": "이슬비",
-        "tmax": 30,
-        "tmin": 21
+        "desc": "소나기",
+        "tmax": 24,
+        "tmin": 22
       }
     },
     {
@@ -46,10 +46,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
-        "tmax": 28,
-        "tmin": 16
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 25,
+        "tmin": 15
       }
     },
     {
@@ -71,10 +71,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
-        "tmax": 29,
-        "tmin": 20
+        "icon": "⛈️",
+        "desc": "뇌우",
+        "tmax": 23,
+        "tmin": 22
       }
     },
     {
@@ -96,10 +96,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "🌤️",
-        "desc": "대체로 맑음",
-        "tmax": 30,
-        "tmin": 18
+        "icon": "🌧️",
+        "desc": "소나기",
+        "tmax": 27,
+        "tmin": 20
       }
     },
     {
@@ -159,10 +159,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
-        "tmax": 31,
-        "tmin": 20
+        "icon": "⛈️",
+        "desc": "뇌우",
+        "tmax": 23,
+        "tmin": 18
       }
     },
     {
