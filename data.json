@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-16T07:00:51.401063",
-  "total": 57,
+  "updated": "2026-06-17T07:00:51.207717",
+  "total": 59,
   "races": [
     {
       "date": "2026-06-20",
@@ -21,10 +21,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌦️",
-        "desc": "소나기",
-        "tmax": 24,
-        "tmin": 22
+        "icon": "⛈️",
+        "desc": "뇌우",
+        "tmax": 26,
+        "tmin": 21
       }
     },
     {
@@ -49,7 +49,7 @@
         "icon": "☁️",
         "desc": "흐림",
         "tmax": 25,
-        "tmin": 15
+        "tmin": 16
       }
     },
     {
@@ -71,10 +71,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "⛈️",
-        "desc": "뇌우",
-        "tmax": 23,
-        "tmin": 22
+        "icon": "🌦️",
+        "desc": "이슬비",
+        "tmax": 25,
+        "tmin": 19
       }
     },
     {
@@ -96,10 +96,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "🌧️",
-        "desc": "소나기",
-        "tmax": 27,
-        "tmin": 20
+        "icon": "🌦️",
+        "desc": "이슬비",
+        "tmax": 29,
+        "tmin": 24
       }
     },
     {
@@ -120,6 +120,31 @@
       "reg_end": "2026-06-19",
       "reg_verified": true,
       "runable_matched": false
+    },
+    {
+      "date": "2026-06-28",
+      "date_display": "6/28(일)",
+      "month": 6,
+      "day": 28,
+      "weekday": "일",
+      "name": "THE PACER SERIES",
+      "course": "10km,5km",
+      "place": "충청북도 청주시 상당구 문의면 청남대길 646",
+      "org": "런코드 코리아",
+      "tel": "010-7734-1481",
+      "homepage": "http://thepacerseries.com",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41561",
+      "view_no": "41561",
+      "reg_start": "2026-05-04",
+      "reg_end": "2026-06-27",
+      "reg_verified": true,
+      "runable_matched": false,
+      "weather": {
+        "icon": "🌧️",
+        "desc": "소나기",
+        "tmax": 23,
+        "tmin": 18
+      }
     },
     {
       "date": "2026-06-28",
@@ -159,10 +184,10 @@
       "reg_verified": true,
       "runable_matched": true,
       "weather": {
-        "icon": "⛈️",
-        "desc": "뇌우",
-        "tmax": 23,
-        "tmin": 18
+        "icon": "🌧️",
+        "desc": "소나기",
+        "tmax": 24,
+        "tmin": 19
       }
     },
     {
@@ -810,6 +835,25 @@
       "reg_end": "2026-06-30",
       "reg_verified": true,
       "runable_matched": true
+    },
+    {
+      "date": "2026-09-19",
+      "date_display": "9/19(토)",
+      "month": 9,
+      "day": 19,
+      "weekday": "토",
+      "name": "제18회 사이버 영토 수호 마라톤",
+      "course": "하프,10km,5km,걷기3km",
+      "place": "여의도 물빛무대 앞 광",
+      "org": "(사)21세기경제사회연구원",
+      "tel": "070-7706-1011",
+      "homepage": "http://www.cyber-run.com",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41629",
+      "view_no": "41629",
+      "reg_start": "2026-06-17",
+      "reg_end": "2026-08-12",
+      "reg_verified": true,
+      "runable_matched": false
     },
     {
       "date": "2026-09-19",
