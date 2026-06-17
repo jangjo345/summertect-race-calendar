@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-17T07:00:51.207717",
-  "total": 59,
+  "updated": "2026-06-18T07:00:48.137123",
+  "total": 56,
   "races": [
     {
       "date": "2026-06-20",
@@ -21,60 +21,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "⛈️",
-        "desc": "뇌우",
-        "tmax": 26,
-        "tmin": 21
-      }
-    },
-    {
-      "date": "2026-06-21",
-      "date_display": "6/21(일)",
-      "month": 6,
-      "day": 21,
-      "weekday": "일",
-      "name": "소백산 죽령TrailRunnig",
-      "course": "22km",
-      "place": "죽령휴게소",
-      "org": "(사)한국산악마라톤연맹",
-      "tel": "02-424-2195",
-      "homepage": "http://www.koreatrail.net/home/main.php?link=event&einc=eindex&opp=20250626115011&csno=20201120111538#baseline",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41218",
-      "view_no": "41218",
-      "reg_start": "2025-12-01",
-      "reg_end": "2026-06-17",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 25,
-        "tmin": 16
-      }
-    },
-    {
-      "date": "2026-06-27",
-      "date_display": "6/27(토)",
-      "month": 6,
-      "day": 27,
-      "weekday": "토",
-      "name": "2026 순천 치유 미식 트레일런",
-      "course": "14km,7km",
-      "place": "순천 선암사",
-      "org": "프로젝트 런트립",
-      "tel": "070-5088-1180",
-      "homepage": "http://projectruntrip.com",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41583",
-      "view_no": "41583",
-      "reg_start": "2026-05-13",
-      "reg_end": "2026-06-17",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
-        "tmax": 25,
-        "tmin": 19
+        "icon": "🌧️",
+        "desc": "비",
+        "tmax": 30,
+        "tmin": 20
       }
     },
     {
@@ -98,8 +48,8 @@
       "weather": {
         "icon": "🌦️",
         "desc": "이슬비",
-        "tmax": 29,
-        "tmin": 24
+        "tmax": 27,
+        "tmin": 19
       }
     },
     {
@@ -140,10 +90,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌧️",
-        "desc": "소나기",
-        "tmax": 23,
-        "tmin": 18
+        "icon": "🌦️",
+        "desc": "이슬비",
+        "tmax": 25,
+        "tmin": 21
       }
     },
     {
@@ -164,31 +114,6 @@
       "reg_end": "2026-06-20",
       "reg_verified": true,
       "runable_matched": false
-    },
-    {
-      "date": "2026-06-28",
-      "date_display": "6/28(일)",
-      "month": 6,
-      "day": 28,
-      "weekday": "일",
-      "name": "2026 서울런",
-      "course": "하프,10km,5km",
-      "place": "여의도공원 문화의마당",
-      "org": "서울런(주)",
-      "tel": "02-2636-6543",
-      "homepage": "http://seoulrun.kr/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41487",
-      "view_no": "41487",
-      "reg_start": "2026-03-18",
-      "reg_end": "2026-06-17",
-      "reg_verified": true,
-      "runable_matched": true,
-      "weather": {
-        "icon": "🌧️",
-        "desc": "소나기",
-        "tmax": 24,
-        "tmin": 19
-      }
     },
     {
       "date": "2026-07-05",
@@ -424,6 +349,25 @@
       "month": 8,
       "day": 15,
       "weekday": "토",
+      "name": "2026 전마협 광복절 무료 초청 마라톤",
+      "course": "10km,5km",
+      "place": "대전엑스포다리 밑",
+      "org": "전국마라톤협회",
+      "tel": "042-638-1080",
+      "homepage": "http://mara1080.com/event/9e568eef-64ff-4548-881f-3a420689dece",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41641",
+      "view_no": "41641",
+      "reg_start": "2026-06-15",
+      "reg_end": "2026-07-31",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-08-15",
+      "date_display": "8/15(토)",
+      "month": 8,
+      "day": 15,
+      "weekday": "토",
       "name": "제38회 지리산화대종주 UTMB",
       "course": "48km,40km,34km,21km",
       "place": "화엄사주차장",
@@ -434,6 +378,25 @@
       "view_no": "41223",
       "reg_start": "2025-12-05",
       "reg_end": "2026-07-31",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-08-22",
+      "date_display": "8/22(토)",
+      "month": 8,
+      "day": 22,
+      "weekday": "토",
+      "name": "제2회 한양도성길 트레일런",
+      "course": "20km",
+      "place": "낙산공원중앙광장(낙산길54)",
+      "org": "파브코리아",
+      "tel": "070-4507-4474",
+      "homepage": "http://www.mtrailrun.kr/",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41642",
+      "view_no": "41642",
+      "reg_start": "2026-06-15",
+      "reg_end": "2026-08-20",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -1120,44 +1083,6 @@
       "reg_end": "2026-09-30",
       "reg_verified": true,
       "runable_matched": true
-    },
-    {
-      "date": "2026-10-11",
-      "date_display": "10/11(일)",
-      "month": 10,
-      "day": 11,
-      "weekday": "일",
-      "name": "2026 MBN 전국 나주 마라톤대회",
-      "course": "풀,하프,10km,5km",
-      "place": "나주종합스포츠파크",
-      "org": "나주시, MBN, 매일경제",
-      "tel": "031-821-9949",
-      "homepage": "http://najumarathon.com",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41434",
-      "view_no": "41434",
-      "reg_start": "2026-05-15",
-      "reg_end": "2026-07-19",
-      "reg_verified": true,
-      "runable_matched": true
-    },
-    {
-      "date": "2026-10-11",
-      "date_display": "10/11(일)",
-      "month": 10,
-      "day": 11,
-      "weekday": "일",
-      "name": "제10회 가을철 산불조심마라톤",
-      "course": "풀,하프,10km,5km,31km",
-      "place": "광평교운동장",
-      "org": "한국트레일러너연맹",
-      "tel": "02-424-2195",
-      "homepage": "http://www.koreatrail.net/home/main.php?link=event&einc=eindex&csno=20190605121808&opp=20260203121910#baseline",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41422",
-      "view_no": "41422",
-      "reg_start": "2026-02-23",
-      "reg_end": "2026-09-10",
-      "reg_verified": true,
-      "runable_matched": false
     }
   ]
 }
