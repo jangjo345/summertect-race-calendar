@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-18T07:00:48.137123",
-  "total": 56,
+  "updated": "2026-06-19T07:00:46.438690",
+  "total": 54,
   "races": [
     {
       "date": "2026-06-20",
@@ -22,34 +22,9 @@
       "runable_matched": false,
       "weather": {
         "icon": "🌧️",
-        "desc": "비",
+        "desc": "강한 비",
         "tmax": 30,
-        "tmin": 20
-      }
-    },
-    {
-      "date": "2026-06-27",
-      "date_display": "6/27(토)",
-      "month": 6,
-      "day": 27,
-      "weekday": "토",
-      "name": "2026 큰별 하프 마라톤",
-      "course": "하프,10km,5km",
-      "place": "상암 월드컵공원 평화광장",
-      "org": "(사)큰별나눔봉사회",
-      "tel": "02-336-1588",
-      "homepage": "http://bigstarrun.kr/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41440",
-      "view_no": "41440",
-      "reg_start": "2026-03-05",
-      "reg_end": "2026-06-18",
-      "reg_verified": true,
-      "runable_matched": true,
-      "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
-        "tmax": 27,
-        "tmin": 19
+        "tmin": 21
       }
     },
     {
@@ -90,10 +65,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
-        "tmax": 25,
-        "tmin": 21
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 29,
+        "tmin": 19
       }
     },
     {
@@ -577,25 +552,6 @@
       "month": 9,
       "day": 6,
       "weekday": "일",
-      "name": "제9회 인천 서구청장배 단축마라톤",
-      "course": "10km,4.3km",
-      "place": "청라호수공원 멀티프라자 트랙",
-      "org": "인천광역시 체육회",
-      "tel": "010-2082-0138",
-      "homepage": "http://www.sgicaaf.co.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41628",
-      "view_no": "41628",
-      "reg_start": "2026-06-10",
-      "reg_end": "2026-08-10",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-09-06",
-      "date_display": "9/6(일)",
-      "month": 9,
-      "day": 6,
-      "weekday": "일",
       "name": "제11회 김대중 평화 마라톤 대회",
       "course": "하프,10km,5km",
       "place": "뚝섬 한강공원 수변무대",
@@ -625,6 +581,25 @@
       "view_no": "41402",
       "reg_start": "2026-03-16",
       "reg_end": "2026-07-06",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-09-06",
+      "date_display": "9/6(일)",
+      "month": 9,
+      "day": 6,
+      "weekday": "일",
+      "name": "2026 YTN 서울투어마라톤",
+      "course": "하프,10km",
+      "place": "서울광장",
+      "org": "YTN",
+      "tel": "070-7725-6258",
+      "homepage": "http://run.ytn.co.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41556",
+      "view_no": "41556",
+      "reg_start": "2026-06-17",
+      "reg_end": "2026-07-15",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -1024,25 +999,6 @@
       "view_no": "41567",
       "reg_start": "2026-05-08",
       "reg_end": "2026-09-10",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-10-10",
-      "date_display": "10/10(토)",
-      "month": 10,
-      "day": 10,
-      "weekday": "토",
-      "name": "제5회 무등산지오마라톤",
-      "course": "하프,10km,5km,30km",
-      "place": "화순 금호스파리조트",
-      "org": "광주,전라남도,담양군,화순군",
-      "tel": "061-375-1201",
-      "homepage": "http://georun.kr/ko/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41510",
-      "view_no": "41510",
-      "reg_start": "2026-05-18",
-      "reg_end": "2026-06-18",
       "reg_verified": true,
       "runable_matched": false
     },
