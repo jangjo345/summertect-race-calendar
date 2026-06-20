@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-20T07:00:44.616637",
-  "total": 49,
+  "updated": "2026-06-21T07:00:44.487382",
+  "total": 48,
   "races": [
     {
       "date": "2026-06-28",
@@ -21,30 +21,11 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 29,
-        "tmin": 18
+        "icon": "🌦️",
+        "desc": "이슬비",
+        "tmax": 30,
+        "tmin": 19
       }
-    },
-    {
-      "date": "2026-06-28",
-      "date_display": "6/28(일)",
-      "month": 6,
-      "day": 28,
-      "weekday": "일",
-      "name": "제1회 리프레시런",
-      "course": "10km,5km",
-      "place": "하남 미사경정공원",
-      "org": "시사저널",
-      "tel": "02-3141-7745",
-      "homepage": "http://refreshrun.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41555",
-      "view_no": "41555",
-      "reg_start": "2026-04-29",
-      "reg_end": "2026-06-20",
-      "reg_verified": true,
-      "runable_matched": false
     },
     {
       "date": "2026-07-05",
@@ -63,7 +44,13 @@
       "reg_start": "2025-11-13",
       "reg_end": "2026-06-27",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "🌧️",
+        "desc": "비",
+        "tmax": 29,
+        "tmin": 22
+      }
     },
     {
       "date": "2026-07-12",
