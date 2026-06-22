@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T07:00:43.504609",
+  "updated": "2026-06-23T07:00:42.130300",
   "total": 47,
   "races": [
     {
@@ -21,10 +21,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
-        "tmax": 30,
-        "tmin": 19
+        "icon": "☀️",
+        "desc": "맑음",
+        "tmax": 32,
+        "tmin": 18
       }
     },
     {
@@ -46,10 +46,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
-        "tmax": 29,
-        "tmin": 24
+        "icon": "⛅",
+        "desc": "구름 약간",
+        "tmax": 30,
+        "tmin": 22
       }
     },
     {
@@ -362,7 +362,7 @@
       "month": 9,
       "day": 5,
       "weekday": "토",
-      "name": "2026 JUST RUN10 하반기 세종",
+      "name": "2026 하반기 JUST RUN10 세종",
       "course": "10km,5km",
       "place": "세종마루공원 밑 금강변",
       "org": "(주)러닝브레이커, 전국러닝협회",
@@ -724,10 +724,10 @@
       "day": 3,
       "weekday": "토",
       "name": "2026 완주트레일런",
-      "course": "36K,22K",
+      "course": "36K,22K,7K",
       "place": "완주군 고산자연휴양림",
       "org": "완주군",
-      "tel": "010-2116-0148",
+      "tel": "010-7469-1526",
       "homepage": "http://samsamis.com",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41649",
       "view_no": "41649",
