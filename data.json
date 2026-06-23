@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-23T07:00:42.130300",
-  "total": 47,
+  "updated": "2026-06-24T07:00:40.899942",
+  "total": 45,
   "races": [
     {
       "date": "2026-06-28",
@@ -21,10 +21,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "☀️",
-        "desc": "맑음",
-        "tmax": 32,
-        "tmin": 18
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 30,
+        "tmin": 17
       }
     },
     {
@@ -46,10 +46,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "⛅",
-        "desc": "구름 약간",
-        "tmax": 30,
-        "tmin": 22
+        "icon": "🌦️",
+        "desc": "이슬비",
+        "tmax": 26,
+        "tmin": 21
       }
     },
     {
@@ -252,7 +252,7 @@
       "course": "20km",
       "place": "낙산공원중앙광장(낙산길54)",
       "org": "파브코리아",
-      "tel": "070-4507-4474",
+      "tel": "010-3526-9120",
       "homepage": "http://www.mtrailrun.kr/",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41642",
       "view_no": "41642",
@@ -260,25 +260,6 @@
       "reg_end": "2026-08-20",
       "reg_verified": true,
       "runable_matched": false
-    },
-    {
-      "date": "2026-08-23",
-      "date_display": "8/23(일)",
-      "month": 8,
-      "day": 23,
-      "weekday": "일",
-      "name": "2026대구세계마스터즈 10km대회",
-      "course": "10km, 35세이상일반인,3000명",
-      "place": "대구스타디움 일원",
-      "org": "대구광역시,세계마스터즈육상연맹",
-      "tel": "053-803-1834",
-      "homepage": "http://www.wmac2026.com",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41500",
-      "view_no": "41500",
-      "reg_start": "2025-12-23",
-      "reg_end": "2026-06-23",
-      "reg_verified": true,
-      "runable_matched": true
     },
     {
       "date": "2026-08-29",
@@ -336,25 +317,6 @@
       "reg_end": "2026-07-31",
       "reg_verified": true,
       "runable_matched": false
-    },
-    {
-      "date": "2026-08-30",
-      "date_display": "8/30(일)",
-      "month": 8,
-      "day": 30,
-      "weekday": "일",
-      "name": "2026대구세계마스터즈 하프마라톤대회",
-      "course": "하프,35세이상일반인,5000명",
-      "place": "신천동로 일원",
-      "org": "대구광역시, 세계마스터즈육상연맹(WMA)",
-      "tel": "053-803-1834",
-      "homepage": "http://www.wmac2026.com",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41353",
-      "view_no": "41353",
-      "reg_start": "2025-12-23",
-      "reg_end": "2026-06-23",
-      "reg_verified": true,
-      "runable_matched": true
     },
     {
       "date": "2026-09-05",
@@ -686,7 +648,7 @@
       "day": 19,
       "weekday": "토",
       "name": "2026 장수트레일레이스 Fall",
-      "course": "100km,100Miles,38K-J",
+      "course": "100km,JTR Miler,JTR 40J",
       "place": "장수종합경기장",
       "org": "(주)락앤런",
       "tel": "063-352-2025",
