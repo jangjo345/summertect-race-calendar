@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-24T07:00:40.899942",
-  "total": 45,
+  "updated": "2026-06-25T07:00:41.682134",
+  "total": 44,
   "races": [
     {
       "date": "2026-06-28",
@@ -23,8 +23,8 @@
       "weather": {
         "icon": "☁️",
         "desc": "흐림",
-        "tmax": 30,
-        "tmin": 17
+        "tmax": 32,
+        "tmin": 19
       }
     },
     {
@@ -48,8 +48,8 @@
       "weather": {
         "icon": "🌦️",
         "desc": "이슬비",
-        "tmax": 26,
-        "tmin": 21
+        "tmax": 32,
+        "tmin": 23
       }
     },
     {
@@ -439,7 +439,7 @@
       "day": 6,
       "weekday": "일",
       "name": "2026 YTN 서울투어마라톤",
-      "course": "하프,10km",
+      "course": "하프,11km",
       "place": "서울광장",
       "org": "YTN",
       "tel": "070-7725-6258",
@@ -666,6 +666,25 @@
       "month": 9,
       "day": 20,
       "weekday": "일",
+      "name": "제2회 마포구청장배 마라톤 대회",
+      "course": "10km,5km",
+      "place": "평화의 공원 평화광장",
+      "org": "마포구체육회",
+      "tel": "042-638-1080",
+      "homepage": "http://mara1080.com/event/53b338c6-d38a-47b3-9479-080b00c6113a",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41657",
+      "view_no": "41657",
+      "reg_start": "2026-06-23",
+      "reg_end": "2026-08-20",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-09-20",
+      "date_display": "9/20(일)",
+      "month": 9,
+      "day": 20,
+      "weekday": "일",
       "name": "2026 동대문마라톤",
       "course": "하프,10km,5km",
       "place": "중랑천 제1수변공원",
@@ -828,44 +847,6 @@
       "view_no": "41571",
       "reg_start": "2026-05-19",
       "reg_end": "2026-08-31",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-10-10",
-      "date_display": "10/10(토)",
-      "month": 10,
-      "day": 10,
-      "weekday": "토",
-      "name": "제5회 구미시장배 금오산트레일 레이스",
-      "course": "10km,18k, 23k",
-      "place": "금오산 공영 대주차장",
-      "org": "구미시산악연맹, 구미트레일런",
-      "tel": "010-3504-1206",
-      "homepage": "http://cafe.naver.com/gumitrailrunnerclub",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41601",
-      "view_no": "41601",
-      "reg_start": "2026-06-15",
-      "reg_end": "2026-07-31",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-10-10",
-      "date_display": "10/10(토)",
-      "month": 10,
-      "day": 10,
-      "weekday": "토",
-      "name": "제9회 거제시장배 섬꽃 전국 마라톤",
-      "course": "하프,10km,4km",
-      "place": "거제스포츠파크",
-      "org": "거제시, 거제시체육회",
-      "tel": "042-638-1080",
-      "homepage": "http://mara1080.com/event/b43655f0-60be-4c97-ad62-d377f6586ae0",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41567",
-      "view_no": "41567",
-      "reg_start": "2026-05-08",
-      "reg_end": "2026-09-10",
       "reg_verified": true,
       "runable_matched": false
     }
