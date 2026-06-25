@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-25T07:00:41.682134",
-  "total": 44,
+  "updated": "2026-06-26T07:00:42.772328",
+  "total": 43,
   "races": [
     {
       "date": "2026-06-28",
@@ -23,8 +23,8 @@
       "weather": {
         "icon": "☁️",
         "desc": "흐림",
-        "tmax": 32,
-        "tmin": 19
+        "tmax": 33,
+        "tmin": 20
       }
     },
     {
@@ -46,30 +46,11 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
-        "tmax": 32,
-        "tmin": 23
+        "icon": "🌧️",
+        "desc": "비",
+        "tmax": 31,
+        "tmin": 24
       }
-    },
-    {
-      "date": "2026-07-12",
-      "date_display": "7/12(일)",
-      "month": 7,
-      "day": 12,
-      "weekday": "일",
-      "name": "2026 광제산 트레일 런",
-      "course": "하프,10km,5km",
-      "place": "홍지소류지(진주 명석면 계원리",
-      "org": "진주시육상연맹",
-      "tel": "070-4443-4392",
-      "homepage": "http://www.trailrun.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41619",
-      "view_no": "41619",
-      "reg_start": "2026-06-12",
-      "reg_end": "2026-06-25",
-      "reg_verified": true,
-      "runable_matched": false
     },
     {
       "date": "2026-07-19",
@@ -685,6 +666,25 @@
       "month": 9,
       "day": 20,
       "weekday": "일",
+      "name": "2026 한돈런",
+      "course": "10km,5km",
+      "place": "미사 조정경기장",
+      "org": "한돈자조금위원회, 런코리아",
+      "tel": "070-1566-1936",
+      "homepage": "http://handonrun.com/",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41630",
+      "view_no": "41630",
+      "reg_start": "2026-06-26",
+      "reg_end": "2026-08-30",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-09-20",
+      "date_display": "9/20(일)",
+      "month": 9,
+      "day": 20,
+      "weekday": "일",
       "name": "2026 동대문마라톤",
       "course": "하프,10km,5km",
       "place": "중랑천 제1수변공원",
@@ -811,25 +811,6 @@
       "reg_end": "2026-07-31",
       "reg_verified": true,
       "runable_matched": false
-    },
-    {
-      "date": "2026-10-04",
-      "date_display": "10/4(일)",
-      "month": 10,
-      "day": 4,
-      "weekday": "일",
-      "name": "제20회 달서하프마라톤",
-      "course": "하프,10km,5km",
-      "place": "대구 달서구 호림강나루공원",
-      "org": "달서구체육회",
-      "tel": "053-635-8683",
-      "homepage": "http://www.달서하프마라톤.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41332",
-      "view_no": "41332",
-      "reg_start": "2026-05-20",
-      "reg_end": "2026-06-30",
-      "reg_verified": true,
-      "runable_matched": true
     },
     {
       "date": "2026-10-04",
