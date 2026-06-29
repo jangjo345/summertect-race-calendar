@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-29T07:00:35.406334",
-  "total": 43,
+  "updated": "2026-06-30T07:00:34.588520",
+  "total": 45,
   "races": [
     {
       "date": "2026-07-19",
@@ -245,6 +245,25 @@
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41590",
       "view_no": "41590",
       "reg_start": "2026-05-22",
+      "reg_end": "2026-07-31",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-09-05",
+      "date_display": "9/5(토)",
+      "month": 9,
+      "day": 5,
+      "weekday": "토",
+      "name": "제12회 I LOVE 방송대 마라톤",
+      "course": "10km,5km",
+      "place": "상암동 평화광장",
+      "org": "한국방송통신대학교 전국 총동문",
+      "tel": "02-707-2050",
+      "homepage": "http://runbs.co.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41639",
+      "view_no": "41639",
+      "reg_start": "2026-06-30",
       "reg_end": "2026-07-31",
       "reg_verified": true,
       "runable_matched": false
@@ -549,6 +568,25 @@
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41606",
       "view_no": "41606",
       "reg_start": "2026-06-08",
+      "reg_end": "2026-07-31",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-09-13",
+      "date_display": "9/13(일)",
+      "month": 9,
+      "day": 13,
+      "weekday": "일",
+      "name": "제 16회 스마일 런 페스티벌",
+      "course": "하프,10km,5km,걷기",
+      "place": "상암동 평화의공원 평화광장",
+      "org": "(사)대한치과의사협회",
+      "tel": "02-2632-0912",
+      "homepage": "http://www.smilerun.co.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41591",
+      "view_no": "41591",
+      "reg_start": "2026-06-29",
       "reg_end": "2026-07-31",
       "reg_verified": true,
       "runable_matched": false
