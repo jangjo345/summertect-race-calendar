@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-30T07:00:34.588520",
-  "total": 45,
+  "updated": "2026-07-01T07:00:34.372048",
+  "total": 44,
   "races": [
     {
       "date": "2026-07-19",
@@ -79,25 +79,6 @@
       "runable_matched": false
     },
     {
-      "date": "2026-08-08",
-      "date_display": "8/8(토)",
-      "month": 8,
-      "day": 8,
-      "weekday": "토",
-      "name": "제1회 테마임도  트레일런",
-      "course": "50km",
-      "place": "부산스포원",
-      "org": "코리안런조직위",
-      "tel": "010-3878-1159",
-      "homepage": "http://korearun01.imweb.me/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41584",
-      "view_no": "41584",
-      "reg_start": "2026-06-01",
-      "reg_end": "2026-06-30",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
       "date": "2026-08-15",
       "date_display": "8/15(토)",
       "month": 8,
@@ -170,6 +151,25 @@
       "view_no": "41223",
       "reg_start": "2025-12-05",
       "reg_end": "2026-07-31",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-08-16",
+      "date_display": "8/16(일)",
+      "month": 8,
+      "day": 16,
+      "weekday": "일",
+      "name": "2026Happy700평창대관령전국하프마라톤",
+      "course": "하프,10km",
+      "place": "2018 평창동계올림픽 기념관",
+      "org": "한국실업육상연맹",
+      "tel": "00-1600-3949",
+      "homepage": "http://www.ifunrunkorea.co.kr/sub0102",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41663",
+      "view_no": "41663",
+      "reg_start": "2026-06-10",
+      "reg_end": "2026-07-25",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -454,9 +454,9 @@
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41032",
       "view_no": "41032",
       "reg_start": "2026-04-13",
-      "reg_end": "2026-06-30",
+      "reg_end": "2026-07-22",
       "reg_verified": true,
-      "runable_matched": true
+      "runable_matched": false
     },
     {
       "date": "2026-09-12",
@@ -551,7 +551,7 @@
       "reg_start": "2026-06-29",
       "reg_end": "2026-07-29",
       "reg_verified": true,
-      "runable_matched": true
+      "runable_matched": false
     },
     {
       "date": "2026-09-13",
@@ -609,25 +609,6 @@
       "reg_end": "2026-08-31",
       "reg_verified": true,
       "runable_matched": false
-    },
-    {
-      "date": "2026-09-13",
-      "date_display": "9/13(일)",
-      "month": 9,
-      "day": 13,
-      "weekday": "일",
-      "name": "2026 울진금강송힐링마라톤",
-      "course": "하프,10km,5km,7인1팀단체전,가족4인단체전",
-      "place": "울진종합운동장",
-      "org": "울진군",
-      "tel": "010-9853-2686",
-      "homepage": "http://www.ujrun.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41137",
-      "view_no": "41137",
-      "reg_start": "2026-01-01",
-      "reg_end": "2026-06-30",
-      "reg_verified": true,
-      "runable_matched": true
     },
     {
       "date": "2026-09-19",
@@ -733,7 +714,7 @@
       "name": "2026 완주트레일런",
       "course": "36K,22K,7K",
       "place": "완주군 고산자연휴양림",
-      "org": "완주군",
+      "org": "완주군/삼삼이즈",
       "tel": "010-7469-1526",
       "homepage": "http://samsamis.com",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41649",
