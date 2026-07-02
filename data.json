@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-02T07:00:33.467601",
-  "total": 44,
+  "updated": "2026-07-03T07:00:33.678965",
+  "total": 43,
   "races": [
     {
       "date": "2026-07-19",
@@ -816,25 +816,6 @@
       "view_no": "41516",
       "reg_start": "2026-04-13",
       "reg_end": "2026-07-31",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-10-04",
-      "date_display": "10/4(일)",
-      "month": 10,
-      "day": 4,
-      "weekday": "일",
-      "name": "2026 홍천사랑마라톤",
-      "course": "하프,10km,5km",
-      "place": "홍천종합운동장",
-      "org": "홍천시체육회, 홍천육상연맹",
-      "tel": "00-1866-1718",
-      "homepage": "http://www.hongcheonrun.net/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41571",
-      "view_no": "41571",
-      "reg_start": "2026-05-19",
-      "reg_end": "2026-08-31",
       "reg_verified": true,
       "runable_matched": false
     }
