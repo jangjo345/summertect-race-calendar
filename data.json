@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T07:00:35.072192",
+  "updated": "2026-07-05T07:00:34.669009",
   "total": 43,
   "races": [
     {
@@ -19,7 +19,13 @@
       "reg_start": "2025-10-20",
       "reg_end": "2026-07-10",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 33,
+        "tmin": 23
+      }
     },
     {
       "date": "2026-07-31",
