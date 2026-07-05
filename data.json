@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-05T07:00:34.669009",
-  "total": 43,
+  "updated": "2026-07-06T07:00:34.975626",
+  "total": 45,
   "races": [
     {
       "date": "2026-07-19",
@@ -21,10 +21,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 33,
-        "tmin": 23
+        "icon": "☀️",
+        "desc": "맑음",
+        "tmax": 34,
+        "tmin": 24
       }
     },
     {
@@ -622,6 +622,25 @@
       "month": 9,
       "day": 19,
       "weekday": "토",
+      "name": "2026 JUST RUN10 김해 대동",
+      "course": "10km,5km",
+      "place": "김해 대동생태체육공원 축구장",
+      "org": "(주)러닝브레이커, 전국러닝협회",
+      "tel": "042-710-2058",
+      "homepage": "http://runten.co.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41668",
+      "view_no": "41668",
+      "reg_start": "2026-07-03",
+      "reg_end": "2026-07-31",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-09-19",
+      "date_display": "9/19(토)",
+      "month": 9,
+      "day": 19,
+      "weekday": "토",
       "name": "제18회 사이버 영토 수호 마라톤",
       "course": "하프,10km,5km,걷기3km",
       "place": "여의도 물빛무대 앞 광",
@@ -670,6 +689,25 @@
       "view_no": "41349",
       "reg_start": "2026-06-10",
       "reg_end": "2026-08-10",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-09-20",
+      "date_display": "9/20(일)",
+      "month": 9,
+      "day": 20,
+      "weekday": "일",
+      "name": "2026 안산마라톤",
+      "course": "하프,10km,5km",
+      "place": "대부향기테마파크",
+      "org": "안산시체육",
+      "tel": "00-1600-3962",
+      "homepage": "http://ansanrun.com",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41666",
+      "view_no": "41666",
+      "reg_start": "2026-07-06",
+      "reg_end": "2026-07-20",
       "reg_verified": true,
       "runable_matched": false
     },
