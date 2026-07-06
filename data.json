@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-06T07:00:34.975626",
-  "total": 45,
+  "updated": "2026-07-07T07:00:34.005811",
+  "total": 43,
   "races": [
     {
       "date": "2026-07-19",
@@ -21,10 +21,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "☀️",
-        "desc": "맑음",
-        "tmax": 34,
-        "tmin": 24
+        "icon": "⛈️",
+        "desc": "뇌우",
+        "tmax": 28,
+        "tmin": 23
       }
     },
     {
@@ -256,6 +256,25 @@
       "runable_matched": false
     },
     {
+      "date": "2026-08-31",
+      "date_display": "8/31(월)",
+      "month": 8,
+      "day": 31,
+      "weekday": "월",
+      "name": "사우나런 in 뚝섬한강공원",
+      "course": "10km,5km",
+      "place": "뚝섬한강공원 인근",
+      "org": "사우나런",
+      "tel": "070-4571-8805",
+      "homepage": "http://saunarun.com",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41672",
+      "view_no": "41672",
+      "reg_start": "2026-07-06",
+      "reg_end": "2026-08-31",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
       "date": "2026-09-05",
       "date_display": "9/5(토)",
       "month": 9,
@@ -366,25 +385,6 @@
       "view_no": "41582",
       "reg_start": "2026-05-13",
       "reg_end": "2026-08-30",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-09-06",
-      "date_display": "9/6(일)",
-      "month": 9,
-      "day": 6,
-      "weekday": "일",
-      "name": "2026 샌드런 IN 영덕",
-      "course": "4km, 8km",
-      "place": "영덕 대진해수욕장",
-      "org": "(주)메이드인피플",
-      "tel": "010-2584-0474",
-      "homepage": "http://sandrun.co.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41402",
-      "view_no": "41402",
-      "reg_start": "2026-03-16",
-      "reg_end": "2026-07-06",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -824,44 +824,6 @@
       "reg_end": "2026-09-03",
       "reg_verified": true,
       "runable_matched": true
-    },
-    {
-      "date": "2026-10-04",
-      "date_display": "10/4(일)",
-      "month": 10,
-      "day": 4,
-      "weekday": "일",
-      "name": "2026 파주북시티마라톤",
-      "course": "10km,5km,3Km(거북이마라톤)",
-      "place": "파주출판도시",
-      "org": "(사)파주출판도시입주기업체협의",
-      "tel": "031-955-0025",
-      "homepage": "http://runbookcity.com",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41560",
-      "view_no": "41560",
-      "reg_start": "2026-05-04",
-      "reg_end": "2026-08-10",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-10-04",
-      "date_display": "10/4(일)",
-      "month": 10,
-      "day": 4,
-      "weekday": "일",
-      "name": "2026 안동마라톤",
-      "course": "풀,하프,10km,5km",
-      "place": "안동시민운동장",
-      "org": "안동시, 매일신문사",
-      "tel": "031-575-7243",
-      "homepage": "http://www.admarathon.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41516",
-      "view_no": "41516",
-      "reg_start": "2026-04-13",
-      "reg_end": "2026-07-31",
-      "reg_verified": true,
-      "runable_matched": false
     }
   ]
 }
