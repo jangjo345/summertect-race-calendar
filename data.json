@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-07T07:00:34.005811",
-  "total": 43,
+  "updated": "2026-07-08T07:00:49.958555",
+  "total": 45,
   "races": [
     {
       "date": "2026-07-19",
@@ -21,9 +21,9 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "⛈️",
-        "desc": "뇌우",
-        "tmax": 28,
+        "icon": "🌦️",
+        "desc": "소나기",
+        "tmax": 25,
         "tmin": 23
       }
     },
@@ -81,6 +81,25 @@
       "view_no": "41623",
       "reg_start": "2026-06-08",
       "reg_end": "2026-07-23",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-08-15",
+      "date_display": "8/15(토)",
+      "month": 8,
+      "day": 15,
+      "weekday": "토",
+      "name": "2026 INCHEON NIGHT RACE",
+      "course": "8.15km",
+      "place": "인천 영정구 중산동 1946",
+      "org": "국민건강진흥원",
+      "tel": "070-4098-1114",
+      "homepage": "http://icnr.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41678",
+      "view_no": "41678",
+      "reg_start": "2026-07-07",
+      "reg_end": "2026-08-08",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -622,6 +641,25 @@
       "month": 9,
       "day": 19,
       "weekday": "토",
+      "name": "2026 안양천 하프 마라톤",
+      "course": "하프,10km,5km",
+      "place": "신정교 하부 영롱이 억새구장",
+      "org": "(사)행복한가게",
+      "tel": "02-888-8875",
+      "homepage": "http://aychalf.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41674",
+      "view_no": "41674",
+      "reg_start": "2026-07-06",
+      "reg_end": "2026-09-10",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-09-19",
+      "date_display": "9/19(토)",
+      "month": 9,
+      "day": 19,
+      "weekday": "토",
       "name": "2026 JUST RUN10 김해 대동",
       "course": "10km,5km",
       "place": "김해 대동생태체육공원 축구장",
@@ -689,6 +727,25 @@
       "view_no": "41349",
       "reg_start": "2026-06-10",
       "reg_end": "2026-08-10",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-09-20",
+      "date_display": "9/20(일)",
+      "month": 9,
+      "day": 20,
+      "weekday": "일",
+      "name": "2026 인천송도국제하프마라톤",
+      "course": "하프,10km,5km",
+      "place": "송도인천대캠퍼스 정문앞",
+      "org": "(주)경인일보",
+      "tel": "00-1866-1718",
+      "homepage": "http://songdorun.net",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41670",
+      "view_no": "41670",
+      "reg_start": "2026-07-08",
+      "reg_end": "2026-08-07",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -805,25 +862,6 @@
       "reg_end": "2026-09-20",
       "reg_verified": true,
       "runable_matched": false
-    },
-    {
-      "date": "2026-10-03",
-      "date_display": "10/3(토)",
-      "month": 10,
-      "day": 3,
-      "weekday": "토",
-      "name": "2026 서산 코스모스 황금들녘 마라톤 대회",
-      "course": "하프,10km,5km",
-      "place": "서산스포츠테마파크",
-      "org": "서산시체육회",
-      "tel": "042-638-1080",
-      "homepage": "http://mara1080.com/event/fcaa0bc8-1489-47c3-8fec-8e5a5c17284e",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41491",
-      "view_no": "41491",
-      "reg_start": "2026-03-20",
-      "reg_end": "2026-09-03",
-      "reg_verified": true,
-      "runable_matched": true
     }
   ]
 }
