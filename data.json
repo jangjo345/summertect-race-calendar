@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-12T07:00:33.606091",
-  "total": 44,
+  "updated": "2026-07-13T07:00:32.427156",
+  "total": 45,
   "races": [
     {
       "date": "2026-07-25",
@@ -21,10 +21,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "⛈️",
-        "desc": "뇌우",
-        "tmax": 26,
-        "tmin": 24
+        "icon": "🌦️",
+        "desc": "이슬비",
+        "tmax": 30,
+        "tmin": 26
       }
     },
     {
@@ -784,6 +784,25 @@
       "view_no": "41657",
       "reg_start": "2026-06-23",
       "reg_end": "2026-08-20",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-09-20",
+      "date_display": "9/20(일)",
+      "month": 9,
+      "day": 20,
+      "weekday": "일",
+      "name": "2026 한돈런",
+      "course": "10km,6km코스",
+      "place": "미사 조정경기장",
+      "org": "한돈자조금위원회, 런코리아",
+      "tel": "00-1566-1936",
+      "homepage": "http://handonrun.com/",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41630",
+      "view_no": "41630",
+      "reg_start": "2026-07-13",
+      "reg_end": "2026-08-30",
       "reg_verified": true,
       "runable_matched": false
     },
