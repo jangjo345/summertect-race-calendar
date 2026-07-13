@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T07:00:32.427156",
+  "updated": "2026-07-14T07:00:33.173110",
   "total": 45,
   "races": [
     {
@@ -21,10 +21,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
-        "tmax": 30,
-        "tmin": 26
+        "icon": "⛈️",
+        "desc": "뇌우",
+        "tmax": 28,
+        "tmin": 24
       }
     },
     {
