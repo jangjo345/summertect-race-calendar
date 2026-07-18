@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-18T07:00:30.358911",
-  "total": 41,
+  "updated": "2026-07-19T07:00:29.481251",
+  "total": 42,
   "races": [
     {
       "date": "2026-07-31",
@@ -778,6 +778,25 @@
       "view_no": "41349",
       "reg_start": "2026-06-10",
       "reg_end": "2026-08-10",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-09-20",
+      "date_display": "9/20(일)",
+      "month": 9,
+      "day": 20,
+      "weekday": "일",
+      "name": "2026 울산남구육상연맹 회장배 단축마라톤",
+      "course": "10km,5km",
+      "place": "태화강국가정원 내 왕버들 공연",
+      "org": "울산광역시 남구 육상연맹",
+      "tel": "010-9360-0113",
+      "homepage": "http://modern-infinity-9e6.notion.site/2026-395918810cc28075b602c0e076d8d3ea",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41684",
+      "view_no": "41684",
+      "reg_start": "2026-07-15",
+      "reg_end": "2026-07-30",
       "reg_verified": true,
       "runable_matched": false
     }
