@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-22T07:00:28.508351",
-  "total": 41,
+  "updated": "2026-07-23T07:00:28.289237",
+  "total": 40,
   "races": [
     {
       "date": "2026-07-31",
@@ -421,25 +421,6 @@
       "runable_matched": false
     },
     {
-      "date": "2026-09-06",
-      "date_display": "9/6(일)",
-      "month": 9,
-      "day": 6,
-      "weekday": "일",
-      "name": "희망드림 제23회 새벽강변 국제마라톤",
-      "course": "하프,10km,5km,3km가족런",
-      "place": "(양천구)목동운동장",
-      "org": "(사)한국마라톤협회",
-      "tel": "02-2647-4488",
-      "homepage": "http://amarunsb.com/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41032",
-      "view_no": "41032",
-      "reg_start": "2026-04-13",
-      "reg_end": "2026-07-22",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
       "date": "2026-09-12",
       "date_display": "9/12(토)",
       "month": 9,
@@ -582,7 +563,7 @@
       "course": "하프,10km,5km,걷기",
       "place": "상암동 평화의공원 평화광장",
       "org": "(사)대한치과의사협회",
-      "tel": "02-2632-0912",
+      "tel": "02-852-0911",
       "homepage": "http://www.smilerun.co.kr",
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41591",
       "view_no": "41591",
