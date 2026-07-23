@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-23T07:00:28.289237",
-  "total": 40,
+  "updated": "2026-07-24T07:00:28.201142",
+  "total": 39,
   "races": [
     {
       "date": "2026-07-31",
@@ -37,25 +37,6 @@
       "view_no": "41504",
       "reg_start": "2026-03-26",
       "reg_end": "2026-07-30",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-08-08",
-      "date_display": "8/8(토)",
-      "month": 8,
-      "day": 8,
-      "weekday": "토",
-      "name": "2026 양산 어필(up-hill) 레이스",
-      "course": "1.7Km,1.7Km+2Km",
-      "place": "양산 에덴밸리 리조트 루지장",
-      "org": "양산시, 부산MBC",
-      "tel": "00-1522-4897",
-      "homepage": "http://www.yangsanuphillrace.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41623",
-      "view_no": "41623",
-      "reg_start": "2026-06-08",
-      "reg_end": "2026-07-23",
       "reg_verified": true,
       "runable_matched": false
     },
