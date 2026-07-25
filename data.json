@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-25T07:00:28.534239",
-  "total": 39,
+  "updated": "2026-07-26T07:00:28.734043",
+  "total": 38,
   "races": [
     {
       "date": "2026-07-31",
@@ -112,26 +112,7 @@
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41223",
       "view_no": "41223",
       "reg_start": "2025-12-05",
-      "reg_end": "2026-07-31",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-08-16",
-      "date_display": "8/16(일)",
-      "month": 8,
-      "day": 16,
-      "weekday": "일",
-      "name": "2026Happy700평창대관령전국하프마라톤",
-      "course": "하프,10km",
-      "place": "2018 평창동계올림픽 기념관",
-      "org": "한국실업육상연맹",
-      "tel": "00-1600-3949",
-      "homepage": "http://www.ifunrunkorea.co.kr/sub0102",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41663",
-      "view_no": "41663",
-      "reg_start": "2026-06-10",
-      "reg_end": "2026-07-25",
+      "reg_end": "2026-08-02",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -151,6 +132,25 @@
       "view_no": "41642",
       "reg_start": "2026-06-15",
       "reg_end": "2026-08-20",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-08-29",
+      "date_display": "8/29(토)",
+      "month": 8,
+      "day": 29,
+      "weekday": "토",
+      "name": "백범김구선생 탄생150주년기념 손기정하천마라톤",
+      "course": "10km,5km",
+      "place": "의정부시 동막교 인라인광장",
+      "org": "플랜인",
+      "tel": "02-6341-1153",
+      "homepage": "http://funandrun.co.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41732",
+      "view_no": "41732",
+      "reg_start": "2026-07-25",
+      "reg_end": "2026-08-21",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -721,25 +721,6 @@
       "view_no": "41349",
       "reg_start": "2026-06-10",
       "reg_end": "2026-08-10",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-09-20",
-      "date_display": "9/20(일)",
-      "month": 9,
-      "day": 20,
-      "weekday": "일",
-      "name": "2026 울산남구육상연맹 회장배 단축마라톤",
-      "course": "10km,5km",
-      "place": "태화강국가정원 내 왕버들 공연",
-      "org": "울산광역시 남구 육상연맹",
-      "tel": "010-9360-0113",
-      "homepage": "http://modern-infinity-9e6.notion.site/2026-395918810cc28075b602c0e076d8d3ea",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41684",
-      "view_no": "41684",
-      "reg_start": "2026-07-15",
-      "reg_end": "2026-07-30",
       "reg_verified": true,
       "runable_matched": false
     }
