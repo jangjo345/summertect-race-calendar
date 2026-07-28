@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-28T07:00:29.222451",
-  "total": 37,
+  "updated": "2026-07-29T07:00:29.385310",
+  "total": 36,
   "races": [
     {
       "date": "2026-07-31",
@@ -397,7 +397,7 @@
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41735",
       "view_no": "41735",
       "reg_start": "2026-07-27",
-      "reg_end": "2026-08-21",
+      "reg_end": "2026-08-12",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -683,25 +683,6 @@
       "view_no": "41693",
       "reg_start": "2026-07-13",
       "reg_end": "2026-08-31",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-09-19",
-      "date_display": "9/19(토)",
-      "month": 9,
-      "day": 19,
-      "weekday": "토",
-      "name": "제18회 사이버 영토 수호 마라톤",
-      "course": "하프,10km,5km,걷기3km",
-      "place": "여의도 물빛무대 앞 광",
-      "org": "(사)21세기경제사회연구원",
-      "tel": "070-7706-1011",
-      "homepage": "http://www.cyber-run.com",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41629",
-      "view_no": "41629",
-      "reg_start": "2026-06-17",
-      "reg_end": "2026-08-12",
       "reg_verified": true,
       "runable_matched": false
     }
