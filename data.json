@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-30T07:00:29.747020",
-  "total": 36,
+  "updated": "2026-07-31T07:00:29.647909",
+  "total": 35,
   "races": [
     {
       "date": "2026-07-31",
@@ -18,25 +18,6 @@
       "view_no": "41625",
       "reg_start": "2026-06-12",
       "reg_end": "2026-07-31",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-08-01",
-      "date_display": "8/1(토)",
-      "month": 8,
-      "day": 1,
-      "weekday": "토",
-      "name": "2026 인사이더런 S",
-      "course": "10km",
-      "place": "일산 킨텍스 제2전시장 7,8",
-      "org": "러너블",
-      "tel": "02-2031-1935",
-      "homepage": "http://insiderun.me",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41504",
-      "view_no": "41504",
-      "reg_start": "2026-03-26",
-      "reg_end": "2026-07-30",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -568,7 +549,7 @@
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41591",
       "view_no": "41591",
       "reg_start": "2026-06-29",
-      "reg_end": "2026-07-31",
+      "reg_end": "2026-08-18",
       "reg_verified": true,
       "runable_matched": false
     },
