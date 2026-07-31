@@ -1,26 +1,7 @@
 {
-  "updated": "2026-07-31T07:00:29.647909",
-  "total": 35,
+  "updated": "2026-08-01T07:00:33.214059",
+  "total": 30,
   "races": [
-    {
-      "date": "2026-07-31",
-      "date_display": "7/31(금)",
-      "month": 7,
-      "day": 31,
-      "weekday": "금",
-      "name": "사우나런 in 올림픽공원",
-      "course": "10km,5km",
-      "place": "올림픽 공원 인근",
-      "org": "사우나런",
-      "tel": "070-4571-8805",
-      "homepage": "http://saunarun.com",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41625",
-      "view_no": "41625",
-      "reg_start": "2026-06-12",
-      "reg_end": "2026-07-31",
-      "reg_verified": true,
-      "runable_matched": false
-    },
     {
       "date": "2026-08-15",
       "date_display": "8/15(토)",
@@ -38,7 +19,13 @@
       "reg_start": "2026-07-07",
       "reg_end": "2026-08-08",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "⛈️",
+        "desc": "뇌우",
+        "tmax": 26,
+        "tmin": 24
+      }
     },
     {
       "date": "2026-08-15",
@@ -57,26 +44,13 @@
       "reg_start": "2026-06-05",
       "reg_end": "2026-08-06",
       "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-08-15",
-      "date_display": "8/15(토)",
-      "month": 8,
-      "day": 15,
-      "weekday": "토",
-      "name": "2026 장수 나이트 트레일",
-      "course": "38K-P,14K",
-      "place": "장수종합경기장",
-      "org": "(주)락앤런",
-      "tel": "063-353-2025",
-      "homepage": "http://rocknrun.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41576",
-      "view_no": "41576",
-      "reg_start": "2026-05-15",
-      "reg_end": "2026-07-31",
-      "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "⛈️",
+        "desc": "뇌우",
+        "tmax": 26,
+        "tmin": 24
+      }
     },
     {
       "date": "2026-08-15",
@@ -95,7 +69,13 @@
       "reg_start": "2025-12-05",
       "reg_end": "2026-08-02",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "🌧️",
+        "desc": "비",
+        "tmax": 28,
+        "tmin": 21
+      }
     },
     {
       "date": "2026-08-22",
@@ -174,25 +154,6 @@
       "runable_matched": false
     },
     {
-      "date": "2026-08-30",
-      "date_display": "8/30(일)",
-      "month": 8,
-      "day": 30,
-      "weekday": "일",
-      "name": "제3회 GO대관령 국제 트레일런",
-      "course": "10km,20.18km,44km",
-      "place": "평창동계올림픽기념공원",
-      "org": "국대레포츠, 대관령면체육회",
-      "tel": "010-2828-9226",
-      "homepage": "http://daegwallyeongrun.com",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41590",
-      "view_no": "41590",
-      "reg_start": "2026-05-22",
-      "reg_end": "2026-07-31",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
       "date": "2026-08-31",
       "date_display": "8/31(월)",
       "month": 8,
@@ -227,25 +188,6 @@
       "view_no": "41707",
       "reg_start": "2026-07-14",
       "reg_end": "2026-08-18",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-09-05",
-      "date_display": "9/5(토)",
-      "month": 9,
-      "day": 5,
-      "weekday": "토",
-      "name": "제12회 I LOVE 방송대 마라톤",
-      "course": "10km,5km",
-      "place": "상암동 평화광장",
-      "org": "한국방송통신대학교 전국 총동문",
-      "tel": "02-707-2050",
-      "homepage": "http://runbs.co.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41639",
-      "view_no": "41639",
-      "reg_start": "2026-06-30",
-      "reg_end": "2026-07-31",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -512,25 +454,6 @@
       "view_no": "41697",
       "reg_start": "2026-07-14",
       "reg_end": "2026-08-14",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-09-13",
-      "date_display": "9/13(일)",
-      "month": 9,
-      "day": 13,
-      "weekday": "일",
-      "name": "제26회 강화해변마라톤대회",
-      "course": "하프,10km,5km",
-      "place": "강화함상공원",
-      "org": "인천일보,(사)인천마라톤조직위",
-      "tel": "00-1866-1718",
-      "homepage": "http://www.ganghwamarathon.co.kr/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41606",
-      "view_no": "41606",
-      "reg_start": "2026-06-08",
-      "reg_end": "2026-07-31",
       "reg_verified": true,
       "runable_matched": false
     },
