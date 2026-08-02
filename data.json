@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T07:00:31.365552",
+  "updated": "2026-08-03T07:00:31.569724",
   "total": 30,
   "races": [
     {
@@ -21,10 +21,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌧️",
-        "desc": "비",
+        "icon": "⛈️",
+        "desc": "뇌우",
         "tmax": 30,
-        "tmin": 26
+        "tmin": 25
       }
     },
     {
@@ -48,33 +48,8 @@
       "weather": {
         "icon": "⛈️",
         "desc": "뇌우",
-        "tmax": 31,
-        "tmin": 25
-      }
-    },
-    {
-      "date": "2026-08-15",
-      "date_display": "8/15(토)",
-      "month": 8,
-      "day": 15,
-      "weekday": "토",
-      "name": "제38회 지리산화대종주 UTMB",
-      "course": "48km,40km,34km,21km",
-      "place": "화엄사주차장",
-      "org": "(사)한국산악마라톤연맹",
-      "tel": "02-424-2195",
-      "homepage": "http://www.koreatrail.net/home/main.php?link=event&einc=eapp&opp=20250820150217&csno=20191209143330#baseline",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41223",
-      "view_no": "41223",
-      "reg_start": "2025-12-05",
-      "reg_end": "2026-08-02",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "🌤️",
-        "desc": "대체로 맑음",
         "tmax": 30,
-        "tmin": 22
+        "tmin": 25
       }
     },
     {
@@ -416,6 +391,25 @@
       "view_no": "41354",
       "reg_start": "2026-03-31",
       "reg_end": "2026-09-12",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-09-13",
+      "date_display": "9/13(일)",
+      "month": 9,
+      "day": 13,
+      "weekday": "일",
+      "name": "제19회 구로구청장배 안양천 단풍마라톤",
+      "course": "10km,5km",
+      "place": "구일역 하부 인라인스케이트장",
+      "org": "구로구육상연맹",
+      "tel": "010-7734-3840",
+      "homepage": "http://cafe.daum.net/guro-run/LvM7/45",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41734",
+      "view_no": "41734",
+      "reg_start": "2026-08-03",
+      "reg_end": "2026-08-14",
       "reg_verified": true,
       "runable_matched": false
     },
