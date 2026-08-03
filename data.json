@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-03T07:00:31.569724",
-  "total": 30,
+  "updated": "2026-08-04T07:00:30.280742",
+  "total": 29,
   "races": [
     {
       "date": "2026-08-15",
@@ -23,8 +23,8 @@
       "weather": {
         "icon": "⛈️",
         "desc": "뇌우",
-        "tmax": 30,
-        "tmin": 25
+        "tmax": 29,
+        "tmin": 24
       }
     },
     {
@@ -48,8 +48,8 @@
       "weather": {
         "icon": "⛈️",
         "desc": "뇌우",
-        "tmax": 30,
-        "tmin": 25
+        "tmax": 28,
+        "tmin": 24
       }
     },
     {
@@ -543,25 +543,6 @@
       "view_no": "41704",
       "reg_start": "2026-07-16",
       "reg_end": "2026-08-30",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-09-19",
-      "date_display": "9/19(토)",
-      "month": 9,
-      "day": 19,
-      "weekday": "토",
-      "name": "제4회 문경 오미자런",
-      "course": "10km,5km",
-      "place": "문경종합온천",
-      "org": "문경시, 문경시 청년센터",
-      "tel": "010-2805-9016",
-      "homepage": "http://www.omijarun.com",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41694",
-      "view_no": "41694",
-      "reg_start": "2026-07-13",
-      "reg_end": "2026-08-03",
       "reg_verified": true,
       "runable_matched": false
     },
