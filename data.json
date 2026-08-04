@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-04T07:00:30.280742",
-  "total": 29,
+  "updated": "2026-08-05T07:00:31.126962",
+  "total": 30,
   "races": [
     {
       "date": "2026-08-15",
@@ -21,10 +21,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "⛈️",
-        "desc": "뇌우",
-        "tmax": 29,
-        "tmin": 24
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 30,
+        "tmin": 22
       }
     },
     {
@@ -46,10 +46,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "⛈️",
-        "desc": "뇌우",
-        "tmax": 28,
-        "tmin": 24
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 30,
+        "tmin": 22
       }
     },
     {
@@ -447,6 +447,25 @@
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41697",
       "view_no": "41697",
       "reg_start": "2026-07-14",
+      "reg_end": "2026-08-14",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-09-13",
+      "date_display": "9/13(일)",
+      "month": 9,
+      "day": 13,
+      "weekday": "일",
+      "name": "2026 런서울런",
+      "course": "하프,10km",
+      "place": "서울 광장",
+      "org": "일간스포츠",
+      "tel": "02-338-0344",
+      "homepage": "http://runseoulrun.com",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41643",
+      "view_no": "41643",
+      "reg_start": "2026-06-29",
       "reg_end": "2026-08-14",
       "reg_verified": true,
       "runable_matched": false
