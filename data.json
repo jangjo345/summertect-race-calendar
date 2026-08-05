@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T07:00:31.126962",
-  "total": 30,
+  "updated": "2026-08-06T07:00:31.618095",
+  "total": 31,
   "races": [
     {
       "date": "2026-08-15",
@@ -21,9 +21,9 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 30,
+        "icon": "🌧️",
+        "desc": "소나기",
+        "tmax": 27,
         "tmin": 22
       }
     },
@@ -46,10 +46,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 30,
-        "tmin": 22
+        "icon": "🌧️",
+        "desc": "소나기",
+        "tmax": 26,
+        "tmin": 21
       }
     },
     {
@@ -305,6 +305,25 @@
       "month": 9,
       "day": 12,
       "weekday": "토",
+      "name": "제 6회 계란 마라톤",
+      "course": "하프,10km,5km",
+      "place": "경인아라뱃길여객터미널 아라타워",
+      "org": "계란자조금관리위원회",
+      "tel": "00-1600-3962",
+      "homepage": "http://egg-run.com",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41772",
+      "view_no": "41772",
+      "reg_start": "2026-08-06",
+      "reg_end": "2026-08-26",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-09-12",
+      "date_display": "9/12(토)",
+      "month": 9,
+      "day": 12,
+      "weekday": "토",
       "name": "2026 굿네이버스 레이스",
       "course": "10km,5km",
       "place": "여의도 한강공원 물빛무대 앞",
@@ -457,6 +476,25 @@
       "month": 9,
       "day": 13,
       "weekday": "일",
+      "name": "2026포항이차전지전국마라톤",
+      "course": "하프,10km,5km",
+      "place": "포항운하관주차장",
+      "org": "매일신사",
+      "tel": "054-1600-4525",
+      "homepage": "http://energyrun.co.kr/",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41652",
+      "view_no": "41652",
+      "reg_start": "2026-06-29",
+      "reg_end": "2026-08-31",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-09-13",
+      "date_display": "9/13(일)",
+      "month": 9,
+      "day": 13,
+      "weekday": "일",
       "name": "2026 런서울런",
       "course": "하프,10km",
       "place": "서울 광장",
@@ -562,25 +600,6 @@
       "view_no": "41704",
       "reg_start": "2026-07-16",
       "reg_end": "2026-08-30",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-09-19",
-      "date_display": "9/19(토)",
-      "month": 9,
-      "day": 19,
-      "weekday": "토",
-      "name": "2026 안양천 하프 마라톤",
-      "course": "하프,10km,5km",
-      "place": "신정교 하부 영롱이 억새구장",
-      "org": "(사)행복한가게",
-      "tel": "02-888-8875",
-      "homepage": "http://aychalf.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41674",
-      "view_no": "41674",
-      "reg_start": "2026-07-06",
-      "reg_end": "2026-09-10",
       "reg_verified": true,
       "runable_matched": false
     }
