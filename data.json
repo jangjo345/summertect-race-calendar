@@ -1,32 +1,7 @@
 {
-  "updated": "2026-08-08T07:00:29.355872",
-  "total": 30,
+  "updated": "2026-08-09T07:00:26.596452",
+  "total": 29,
   "races": [
-    {
-      "date": "2026-08-15",
-      "date_display": "8/15(토)",
-      "month": 8,
-      "day": 15,
-      "weekday": "토",
-      "name": "2026 INCHEON NIGHT RACE",
-      "course": "8.15km",
-      "place": "인천 영정구 중산동 1946",
-      "org": "국민건강진흥원",
-      "tel": "070-4098-1114",
-      "homepage": "http://icnr.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41678",
-      "view_no": "41678",
-      "reg_start": "2026-07-07",
-      "reg_end": "2026-08-08",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "⛈️",
-        "desc": "뇌우",
-        "tmax": 29,
-        "tmin": 25
-      }
-    },
     {
       "date": "2026-08-22",
       "date_display": "8/22(토)",
