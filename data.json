@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-09T07:00:26.596452",
-  "total": 29,
+  "updated": "2026-08-10T07:00:26.216266",
+  "total": 28,
   "races": [
     {
       "date": "2026-08-22",
@@ -493,25 +493,6 @@
       "view_no": "41783",
       "reg_start": "2026-08-07",
       "reg_end": "2026-09-10",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-09-19",
-      "date_display": "9/19(토)",
-      "month": 9,
-      "day": 19,
-      "weekday": "토",
-      "name": "2026 무한도전 Run in 경주",
-      "course": "하프,10km",
-      "place": "경주시민운동장",
-      "org": "MBC",
-      "tel": "00-1899-7466",
-      "homepage": "http://www.coupangplay.com/promotion/2026-Mudorun-Gyeongju/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41743",
-      "view_no": "41743",
-      "reg_start": "2026-07-30",
-      "reg_end": "2026-08-09",
       "reg_verified": true,
       "runable_matched": false
     },
