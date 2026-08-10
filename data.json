@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T07:00:26.216266",
-  "total": 28,
+  "updated": "2026-08-11T07:00:26.586166",
+  "total": 27,
   "races": [
     {
       "date": "2026-08-22",
@@ -56,25 +56,6 @@
       "view_no": "41581",
       "reg_start": "2026-05-13",
       "reg_end": "2026-08-23",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-08-30",
-      "date_display": "8/30(일)",
-      "month": 8,
-      "day": 30,
-      "weekday": "일",
-      "name": "제16회 성북구청장배육상대회",
-      "course": "10km,5km",
-      "place": "성북구 중랑천 체육공원",
-      "org": "성북구육상연맹",
-      "tel": "010-8784-2199",
-      "homepage": "http://cafe.naver.com/sblovemarathon/?viewType=pc",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41705",
-      "view_no": "41705",
-      "reg_start": "2026-07-15",
-      "reg_end": "2026-08-10",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -208,6 +189,25 @@
       "view_no": "41254",
       "reg_start": "2025-12-18",
       "reg_end": "2026-08-30",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-09-12",
+      "date_display": "9/12(토)",
+      "month": 9,
+      "day": 12,
+      "weekday": "토",
+      "name": "비포 선라이즈 슬로우 마라톤",
+      "course": "10km,5km",
+      "place": "강릉 경포호수 일대",
+      "org": "강릉시, 강릉관광개발공사",
+      "tel": "033-640-9851",
+      "homepage": "http://healingtour.gtdc.or.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41791",
+      "view_no": "41791",
+      "reg_start": "2026-08-10",
+      "reg_end": "2026-08-23",
       "reg_verified": true,
       "runable_matched": false
     },
@@ -512,25 +512,6 @@
       "view_no": "41744",
       "reg_start": "2026-07-28",
       "reg_end": "2026-09-18",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-09-19",
-      "date_display": "9/19(토)",
-      "month": 9,
-      "day": 19,
-      "weekday": "토",
-      "name": "시포레 RUN & FIT with 디스커버리",
-      "course": "10km,+운동 프로그램",
-      "place": "고양시 일산호수공원",
-      "org": "HLL중앙 / 코틴스포츠",
-      "tel": "02-6285-7428",
-      "homepage": "http://cityforestival.kr/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41704",
-      "view_no": "41704",
-      "reg_start": "2026-07-16",
-      "reg_end": "2026-08-30",
       "reg_verified": true,
       "runable_matched": false
     }
