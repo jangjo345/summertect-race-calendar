@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-15T07:00:27.647432",
-  "total": 22,
+  "updated": "2026-08-16T07:00:27.462533",
+  "total": 23,
   "races": [
     {
       "date": "2026-08-22",
@@ -43,7 +43,7 @@
         "icon": "⛈️",
         "desc": "뇌우",
         "tmax": 25,
-        "tmin": 23
+        "tmin": 22
       }
     },
     {
@@ -82,7 +82,13 @@
       "reg_start": "2026-05-13",
       "reg_end": "2026-08-23",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "🌦️",
+        "desc": "소나기",
+        "tmax": 25,
+        "tmin": 20
+      }
     },
     {
       "date": "2026-08-31",
@@ -157,6 +163,25 @@
       "view_no": "41559",
       "reg_start": "2026-04-01",
       "reg_end": "2026-08-24",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-09-06",
+      "date_display": "9/6(일)",
+      "month": 9,
+      "day": 6,
+      "weekday": "일",
+      "name": "2026 문경새재 트레일런",
+      "course": "13km",
+      "place": "문경새재도립공원 제1주차장",
+      "org": "파브코리아",
+      "tel": "010-3526-9120",
+      "homepage": "http://www.mtrailrun.kr/",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41787",
+      "view_no": "41787",
+      "reg_start": "2026-08-10",
+      "reg_end": "2026-09-05",
       "reg_verified": true,
       "runable_matched": false
     },
