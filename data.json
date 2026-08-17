@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T07:00:35.867739",
-  "total": 23,
+  "updated": "2026-08-18T07:00:26.859582",
+  "total": 22,
   "races": [
     {
       "date": "2026-08-22",
@@ -20,31 +20,6 @@
       "reg_end": "2026-08-20",
       "reg_verified": true,
       "runable_matched": false
-    },
-    {
-      "date": "2026-08-23",
-      "date_display": "8/23(일)",
-      "month": 8,
-      "day": 23,
-      "weekday": "일",
-      "name": "2026 교룡산성 백야드",
-      "course": "1회전 7K,6회전 42K",
-      "place": "전북 남원시 산곡동 251-2",
-      "org": "삼삼이즈",
-      "tel": "010-7469-1526",
-      "homepage": "http://samsamis.com/66",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41786",
-      "view_no": "41786",
-      "reg_start": "2026-08-09",
-      "reg_end": "2026-08-17",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "⛈️",
-        "desc": "뇌우",
-        "tmax": 25,
-        "tmin": 21
-      }
     },
     {
       "date": "2026-08-29",
@@ -84,10 +59,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌦️",
-        "desc": "이슬비",
-        "tmax": 26,
-        "tmin": 21
+        "icon": "☀️",
+        "desc": "맑음",
+        "tmax": 28,
+        "tmin": 19
       }
     },
     {
@@ -109,10 +84,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌧️",
-        "desc": "비",
-        "tmax": 26,
-        "tmin": 19
+        "icon": "☀️",
+        "desc": "맑음",
+        "tmax": 30,
+        "tmin": 21
       }
     },
     {
