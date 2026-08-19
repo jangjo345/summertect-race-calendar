@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T07:00:26.459250",
-  "total": 19,
+  "updated": "2026-08-20T07:00:26.880811",
+  "total": 18,
   "races": [
     {
       "date": "2026-08-22",
@@ -59,10 +59,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 27,
-        "tmin": 21
+        "icon": "⛈️",
+        "desc": "뇌우",
+        "tmax": 26,
+        "tmin": 24
       }
     },
     {
@@ -84,10 +84,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 27,
-        "tmin": 20
+        "icon": "⛈️",
+        "desc": "뇌우",
+        "tmax": 28,
+        "tmin": 24
       }
     },
     {
@@ -277,25 +277,6 @@
       "view_no": "41354",
       "reg_start": "2026-03-31",
       "reg_end": "2026-09-12",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-09-13",
-      "date_display": "9/13(일)",
-      "month": 9,
-      "day": 13,
-      "weekday": "일",
-      "name": "제19회 구로구청장배 안양천 단풍마라톤",
-      "course": "10km,5km",
-      "place": "구일역 하부 인라인스케이트장",
-      "org": "구로구육상연맹",
-      "tel": "010-7734-3840",
-      "homepage": "http://cafe.daum.net/guro-run/LvM7/45",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41734",
-      "view_no": "41734",
-      "reg_start": "2026-08-03",
-      "reg_end": "2026-08-31",
       "reg_verified": true,
       "runable_matched": false
     },
