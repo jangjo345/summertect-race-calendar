@@ -1,26 +1,7 @@
 {
-  "updated": "2026-08-20T07:00:26.880811",
+  "updated": "2026-08-21T07:00:27.195010",
   "total": 18,
   "races": [
-    {
-      "date": "2026-08-22",
-      "date_display": "8/22(토)",
-      "month": 8,
-      "day": 22,
-      "weekday": "토",
-      "name": "제2회 한양도성길 트레일런",
-      "course": "20km",
-      "place": "낙산공원중앙광장(낙산길54)",
-      "org": "파브코리아",
-      "tel": "010-3526-9120",
-      "homepage": "http://www.mtrailrun.kr/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41642",
-      "view_no": "41642",
-      "reg_start": "2026-06-15",
-      "reg_end": "2026-08-20",
-      "reg_verified": true,
-      "runable_matched": false
-    },
     {
       "date": "2026-08-29",
       "date_display": "8/29(토)",
@@ -46,6 +27,31 @@
       "month": 8,
       "day": 30,
       "weekday": "일",
+      "name": "포항호미반도트레일런",
+      "course": "15km,10km",
+      "place": "도구해수욕장",
+      "org": "파브코리아",
+      "tel": "010-3526-9120",
+      "homepage": "http://www.mtrailrun.kr/",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41642",
+      "view_no": "41642",
+      "reg_start": "2026-08-15",
+      "reg_end": "2026-08-29",
+      "reg_verified": true,
+      "runable_matched": false,
+      "weather": {
+        "icon": "🌦️",
+        "desc": "이슬비",
+        "tmax": 33,
+        "tmin": 25
+      }
+    },
+    {
+      "date": "2026-08-30",
+      "date_display": "8/30(일)",
+      "month": 8,
+      "day": 30,
+      "weekday": "일",
       "name": "제3회 한강 서울 하프 마라톤",
       "course": "하프,10km,5km",
       "place": "여의도 한강공원 물빛광장",
@@ -61,8 +67,8 @@
       "weather": {
         "icon": "⛈️",
         "desc": "뇌우",
-        "tmax": 26,
-        "tmin": 24
+        "tmax": 29,
+        "tmin": 23
       }
     },
     {
@@ -84,10 +90,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "⛈️",
-        "desc": "뇌우",
+        "icon": "🌤️",
+        "desc": "대체로 맑음",
         "tmax": 28,
-        "tmin": 24
+        "tmin": 22
       }
     },
     {
