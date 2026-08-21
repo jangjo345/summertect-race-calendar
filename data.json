@@ -1,26 +1,7 @@
 {
-  "updated": "2026-08-21T07:00:27.195010",
-  "total": 18,
+  "updated": "2026-08-22T07:00:29.021060",
+  "total": 17,
   "races": [
-    {
-      "date": "2026-08-29",
-      "date_display": "8/29(토)",
-      "month": 8,
-      "day": 29,
-      "weekday": "토",
-      "name": "백범김구선생 탄생150주년기념 손기정하천마라톤",
-      "course": "10km,5km",
-      "place": "의정부시 동막교 인라인광장",
-      "org": "플랜인",
-      "tel": "02-6341-1153",
-      "homepage": "http://funandrun.co.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41732",
-      "view_no": "41732",
-      "reg_start": "2026-07-25",
-      "reg_end": "2026-08-21",
-      "reg_verified": true,
-      "runable_matched": false
-    },
     {
       "date": "2026-08-30",
       "date_display": "8/30(일)",
@@ -42,7 +23,7 @@
       "weather": {
         "icon": "🌦️",
         "desc": "이슬비",
-        "tmax": 33,
+        "tmax": 29,
         "tmin": 25
       }
     },
@@ -65,8 +46,8 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "⛈️",
-        "desc": "뇌우",
+        "icon": "🌦️",
+        "desc": "소나기",
         "tmax": 29,
         "tmin": 23
       }
@@ -90,10 +71,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌤️",
-        "desc": "대체로 맑음",
+        "icon": "⛅",
+        "desc": "구름 약간",
         "tmax": 28,
-        "tmin": 22
+        "tmin": 21
       }
     },
     {
@@ -113,7 +94,13 @@
       "reg_start": "2026-04-01",
       "reg_end": "2026-08-24",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "🌦️",
+        "desc": "소나기",
+        "tmax": 29,
+        "tmin": 21
+      }
     },
     {
       "date": "2026-09-06",
