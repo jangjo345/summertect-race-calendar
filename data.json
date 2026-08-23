@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T07:00:31.297861",
-  "total": 17,
+  "updated": "2026-08-24T07:00:29.018199",
+  "total": 14,
   "races": [
     {
       "date": "2026-08-30",
@@ -23,33 +23,8 @@
       "weather": {
         "icon": "⛈️",
         "desc": "뇌우",
-        "tmax": 28,
+        "tmax": 27,
         "tmin": 24
-      }
-    },
-    {
-      "date": "2026-08-30",
-      "date_display": "8/30(일)",
-      "month": 8,
-      "day": 30,
-      "weekday": "일",
-      "name": "제3회 한강 서울 하프 마라톤",
-      "course": "하프,10km,5km",
-      "place": "여의도 한강공원 물빛광장",
-      "org": "(사)국민성공시대",
-      "tel": "02-888-8805",
-      "homepage": "http://seoulhalfrun.kr/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41581",
-      "view_no": "41581",
-      "reg_start": "2026-05-13",
-      "reg_end": "2026-08-23",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "⛈️",
-        "desc": "뇌우",
-        "tmax": 28,
-        "tmin": 23
       }
     },
     {
@@ -73,8 +48,8 @@
       "weather": {
         "icon": "☁️",
         "desc": "흐림",
-        "tmax": 28,
-        "tmin": 21
+        "tmax": 29,
+        "tmin": 22
       }
     },
     {
@@ -96,10 +71,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "⛅",
-        "desc": "구름 약간",
-        "tmax": 31,
-        "tmin": 23
+        "icon": "⛈️",
+        "desc": "뇌우",
+        "tmax": 26,
+        "tmin": 24
       }
     },
     {
@@ -140,10 +115,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "⛅",
-        "desc": "구름 약간",
-        "tmax": 30,
-        "tmin": 20
+        "icon": "⛈️",
+        "desc": "뇌우",
+        "tmax": 28,
+        "tmin": 22
       }
     },
     {
@@ -165,49 +140,11 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "⛅",
-        "desc": "구름 약간",
-        "tmax": 30,
-        "tmin": 20
+        "icon": "⛈️",
+        "desc": "뇌우",
+        "tmax": 28,
+        "tmin": 22
       }
-    },
-    {
-      "date": "2026-09-12",
-      "date_display": "9/12(토)",
-      "month": 9,
-      "day": 12,
-      "weekday": "토",
-      "name": "비포 선라이즈 슬로우 마라톤",
-      "course": "10km,5km",
-      "place": "강릉 경포호수 일대",
-      "org": "강릉시, 강릉관광개발공사",
-      "tel": "033-640-9851",
-      "homepage": "http://healingtour.gtdc.or.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41791",
-      "view_no": "41791",
-      "reg_start": "2026-08-10",
-      "reg_end": "2026-08-23",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-09-12",
-      "date_display": "9/12(토)",
-      "month": 9,
-      "day": 12,
-      "weekday": "토",
-      "name": "2026 나이트런 플러스 청주",
-      "course": "10km,5km",
-      "place": "청주시 무심천체육공원",
-      "org": "청주청년회의소/주식회사 유고",
-      "tel": "00-1666-9975",
-      "homepage": "http://n-runplus.co.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41750",
-      "view_no": "41750",
-      "reg_start": "2026-07-29",
-      "reg_end": "2026-08-23",
-      "reg_verified": true,
-      "runable_matched": false
     },
     {
       "date": "2026-09-12",
