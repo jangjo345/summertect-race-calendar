@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T07:00:29.018199",
-  "total": 14,
+  "updated": "2026-08-25T07:00:28.008402",
+  "total": 13,
   "races": [
     {
       "date": "2026-08-30",
@@ -23,7 +23,7 @@
       "weather": {
         "icon": "⛈️",
         "desc": "뇌우",
-        "tmax": 27,
+        "tmax": 30,
         "tmin": 24
       }
     },
@@ -49,32 +49,7 @@
         "icon": "☁️",
         "desc": "흐림",
         "tmax": 29,
-        "tmin": 22
-      }
-    },
-    {
-      "date": "2026-09-05",
-      "date_display": "9/5(토)",
-      "month": 9,
-      "day": 5,
-      "weekday": "토",
-      "name": "제20회 순천만울트라마라톤대회",
-      "course": "100km",
-      "place": "순천동천천변공원",
-      "org": "순천만울트라조직위",
-      "tel": "010-9887-0071",
-      "homepage": "http://www.scultra100.net",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41559",
-      "view_no": "41559",
-      "reg_start": "2026-04-01",
-      "reg_end": "2026-08-24",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "⛈️",
-        "desc": "뇌우",
-        "tmax": 26,
-        "tmin": 24
+        "tmin": 23
       }
     },
     {
@@ -115,10 +90,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "⛈️",
-        "desc": "뇌우",
-        "tmax": 28,
-        "tmin": 22
+        "icon": "⛅",
+        "desc": "구름 약간",
+        "tmax": 27,
+        "tmin": 18
       }
     },
     {
@@ -140,10 +115,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "⛈️",
-        "desc": "뇌우",
-        "tmax": 28,
-        "tmin": 22
+        "icon": "⛅",
+        "desc": "구름 약간",
+        "tmax": 27,
+        "tmin": 18
       }
     },
     {
