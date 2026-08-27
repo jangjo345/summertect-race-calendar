@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T07:00:28.981295",
+  "updated": "2026-08-28T07:00:28.369455",
   "total": 14,
   "races": [
     {
@@ -23,8 +23,8 @@
       "weather": {
         "icon": "🌧️",
         "desc": "비",
-        "tmax": 28,
-        "tmin": 24
+        "tmax": 33,
+        "tmin": 25
       }
     },
     {
@@ -65,8 +65,8 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "⛅",
-        "desc": "구름 약간",
+        "icon": "🌤️",
+        "desc": "대체로 맑음",
         "tmax": 26,
         "tmin": 18
       }
@@ -90,8 +90,8 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "⛅",
-        "desc": "구름 약간",
+        "icon": "🌤️",
+        "desc": "대체로 맑음",
         "tmax": 26,
         "tmin": 18
       }
