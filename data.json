@@ -1,51 +1,7 @@
 {
-  "updated": "2026-08-29T07:00:30.848953",
+  "updated": "2026-08-30T07:00:33.110747",
   "total": 14,
   "races": [
-    {
-      "date": "2026-08-30",
-      "date_display": "8/30(일)",
-      "month": 8,
-      "day": 30,
-      "weekday": "일",
-      "name": "포항호미반도트레일런",
-      "course": "15km,10km",
-      "place": "도구해수욕장",
-      "org": "파브코리아",
-      "tel": "010-3526-9120",
-      "homepage": "http://www.mtrailrun.kr/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41642",
-      "view_no": "41642",
-      "reg_start": "2026-08-15",
-      "reg_end": "2026-08-29",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "🌧️",
-        "desc": "비",
-        "tmax": 29,
-        "tmin": 24
-      }
-    },
-    {
-      "date": "2026-09-06",
-      "date_display": "9/6(일)",
-      "month": 9,
-      "day": 6,
-      "weekday": "일",
-      "name": "2026 문경새재 트레일런",
-      "course": "13km",
-      "place": "문경새재도립공원 제1주차장",
-      "org": "파브코리아",
-      "tel": "010-3526-9120",
-      "homepage": "http://www.mtrailrun.kr/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41787",
-      "view_no": "41787",
-      "reg_start": "2026-08-10",
-      "reg_end": "2026-09-05",
-      "reg_verified": true,
-      "runable_matched": false
-    },
     {
       "date": "2026-09-06",
       "date_display": "9/6(일)",
@@ -67,7 +23,7 @@
       "weather": {
         "icon": "☀️",
         "desc": "맑음",
-        "tmax": 26,
+        "tmax": 27,
         "tmin": 19
       }
     },
@@ -92,7 +48,7 @@
       "weather": {
         "icon": "☀️",
         "desc": "맑음",
-        "tmax": 26,
+        "tmax": 27,
         "tmin": 19
       }
     },
@@ -115,10 +71,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌤️",
-        "desc": "대체로 맑음",
+        "icon": "⛅",
+        "desc": "구름 약간",
         "tmax": 30,
-        "tmin": 18
+        "tmin": 22
       }
     },
     {
@@ -159,10 +115,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "⛅",
-        "desc": "구름 약간",
-        "tmax": 24,
-        "tmin": 12
+        "icon": "🌤️",
+        "desc": "대체로 맑음",
+        "tmax": 25,
+        "tmin": 16
       }
     },
     {
@@ -182,7 +138,13 @@
       "reg_start": "2026-08-03",
       "reg_end": "2026-08-31",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "🌧️",
+        "desc": "비",
+        "tmax": 24,
+        "tmin": 19
+      }
     },
     {
       "date": "2026-09-13",
@@ -201,7 +163,13 @@
       "reg_start": "2026-07-15",
       "reg_end": "2026-08-31",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "⛈️",
+        "desc": "뇌우",
+        "tmax": 23,
+        "tmin": 19
+      }
     },
     {
       "date": "2026-09-13",
@@ -220,7 +188,13 @@
       "reg_start": "2026-06-29",
       "reg_end": "2026-08-31",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "🌧️",
+        "desc": "비",
+        "tmax": 24,
+        "tmin": 20
+      }
     },
     {
       "date": "2026-09-13",
@@ -239,7 +213,13 @@
       "reg_start": "2025-11-13",
       "reg_end": "2026-08-31",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "⛈️",
+        "desc": "뇌우",
+        "tmax": 25,
+        "tmin": 20
+      }
     },
     {
       "date": "2026-09-19",
@@ -295,6 +275,44 @@
       "view_no": "41793",
       "reg_start": "2026-07-28",
       "reg_end": "2026-09-01",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-09-19",
+      "date_display": "9/19(토)",
+      "month": 9,
+      "day": 19,
+      "weekday": "토",
+      "name": "시포레 RUN & FIT with 디스커버리",
+      "course": "10km,+운동 프로그램",
+      "place": "고양시 일산호수공원",
+      "org": "HLL중앙 / 코틴스포츠",
+      "tel": "02-6285-7428",
+      "homepage": "http://cityforestival.kr/",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41704",
+      "view_no": "41704",
+      "reg_start": "2026-07-16",
+      "reg_end": "2026-08-30",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-09-19",
+      "date_display": "9/19(토)",
+      "month": 9,
+      "day": 19,
+      "weekday": "토",
+      "name": "제4회 문경 오미자런",
+      "course": "10km,5km",
+      "place": "문경종합온천",
+      "org": "문경시, 문경시 청년센터",
+      "tel": "010-2805-9016",
+      "homepage": "http://www.omijarun.com",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41694",
+      "view_no": "41694",
+      "reg_start": "2026-07-13",
+      "reg_end": "2026-08-31",
       "reg_verified": true,
       "runable_matched": false
     }
