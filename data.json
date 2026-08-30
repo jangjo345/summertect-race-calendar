@@ -1,57 +1,7 @@
 {
-  "updated": "2026-08-30T07:00:33.110747",
-  "total": 14,
+  "updated": "2026-08-31T07:00:32.710571",
+  "total": 11,
   "races": [
-    {
-      "date": "2026-09-06",
-      "date_display": "9/6(일)",
-      "month": 9,
-      "day": 6,
-      "weekday": "일",
-      "name": "제11회 김대중 평화 마라톤 대회",
-      "course": "하프,10km,5km",
-      "place": "뚝섬 한강공원 수변무대",
-      "org": "김대중재단",
-      "tel": "02-569-5551",
-      "homepage": "http://kdjrun.kr/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41582",
-      "view_no": "41582",
-      "reg_start": "2026-05-13",
-      "reg_end": "2026-08-30",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "☀️",
-        "desc": "맑음",
-        "tmax": 27,
-        "tmin": 19
-      }
-    },
-    {
-      "date": "2026-09-06",
-      "date_display": "9/6(일)",
-      "month": 9,
-      "day": 6,
-      "weekday": "일",
-      "name": "제24회 청광종주TRAILRUNNING",
-      "course": "26km,14km",
-      "place": "양재동 화물",
-      "org": "(사)한국산악마라톤연맹",
-      "tel": "02-424-2195",
-      "homepage": "http://www.koreatrail.net/home/main.php?link=event&einc=eapp&opp=20250626120820&csno=20191016122754#baseline",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41254",
-      "view_no": "41254",
-      "reg_start": "2025-12-18",
-      "reg_end": "2026-08-30",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "☀️",
-        "desc": "맑음",
-        "tmax": 27,
-        "tmin": 19
-      }
-    },
     {
       "date": "2026-09-12",
       "date_display": "9/12(토)",
@@ -71,10 +21,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "⛅",
-        "desc": "구름 약간",
-        "tmax": 30,
-        "tmin": 22
+        "icon": "⛈️",
+        "desc": "뇌우",
+        "tmax": 27,
+        "tmin": 20
       }
     },
     {
@@ -115,10 +65,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌤️",
-        "desc": "대체로 맑음",
+        "icon": "🌧️",
+        "desc": "비",
         "tmax": 25,
-        "tmin": 16
+        "tmin": 19
       }
     },
     {
@@ -140,9 +90,9 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌧️",
-        "desc": "비",
-        "tmax": 24,
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 23,
         "tmin": 19
       }
     },
@@ -165,10 +115,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "⛈️",
-        "desc": "뇌우",
-        "tmax": 23,
-        "tmin": 19
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 27,
+        "tmin": 18
       }
     },
     {
@@ -190,10 +140,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌧️",
-        "desc": "비",
-        "tmax": 24,
-        "tmin": 20
+        "icon": "⛈️",
+        "desc": "뇌우",
+        "tmax": 27,
+        "tmin": 22
       }
     },
     {
@@ -215,10 +165,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "⛈️",
-        "desc": "뇌우",
+        "icon": "☁️",
+        "desc": "흐림",
         "tmax": 25,
-        "tmin": 20
+        "tmin": 18
       }
     },
     {
@@ -275,25 +225,6 @@
       "view_no": "41793",
       "reg_start": "2026-07-28",
       "reg_end": "2026-09-01",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-09-19",
-      "date_display": "9/19(토)",
-      "month": 9,
-      "day": 19,
-      "weekday": "토",
-      "name": "시포레 RUN & FIT with 디스커버리",
-      "course": "10km,+운동 프로그램",
-      "place": "고양시 일산호수공원",
-      "org": "HLL중앙 / 코틴스포츠",
-      "tel": "02-6285-7428",
-      "homepage": "http://cityforestival.kr/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41704",
-      "view_no": "41704",
-      "reg_start": "2026-07-16",
-      "reg_end": "2026-08-30",
       "reg_verified": true,
       "runable_matched": false
     },
