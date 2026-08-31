@@ -1,51 +1,7 @@
 {
-  "updated": "2026-08-31T07:00:32.710571",
-  "total": 11,
+  "updated": "2026-09-01T07:00:23.303461",
+  "total": 7,
   "races": [
-    {
-      "date": "2026-09-12",
-      "date_display": "9/12(토)",
-      "month": 9,
-      "day": 12,
-      "weekday": "토",
-      "name": "히어로 레이스 l 2026 에너지 히어로 레이",
-      "course": "10km,5km",
-      "place": "서울월드컵경기장 평화광장",
-      "org": "굿피플",
-      "tel": "02-6285-7428",
-      "homepage": "http://www.herorace.kr/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41708",
-      "view_no": "41708",
-      "reg_start": "2026-07-27",
-      "reg_end": "2026-08-31",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "⛈️",
-        "desc": "뇌우",
-        "tmax": 27,
-        "tmin": 20
-      }
-    },
-    {
-      "date": "2026-09-12",
-      "date_display": "9/12(토)",
-      "month": 9,
-      "day": 12,
-      "weekday": "토",
-      "name": "2026 장수 레드푸드레이스",
-      "course": "10km,5km,16Km",
-      "place": "장수말역사체험관",
-      "org": "주식회사 락앤런",
-      "tel": "010-5056-1523",
-      "homepage": "http://rocknrun.kr/REDFOODRACE",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41709",
-      "view_no": "41709",
-      "reg_start": "2026-07-16",
-      "reg_end": "2026-08-31",
-      "reg_verified": true,
-      "runable_matched": false
-    },
     {
       "date": "2026-09-12",
       "date_display": "9/12(토)",
@@ -65,35 +21,10 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌧️",
-        "desc": "비",
-        "tmax": 25,
-        "tmin": 19
-      }
-    },
-    {
-      "date": "2026-09-13",
-      "date_display": "9/13(일)",
-      "month": 9,
-      "day": 13,
-      "weekday": "일",
-      "name": "제19회 구로구청장배 안양천 단풍마라톤",
-      "course": "10km,5km",
-      "place": "구일역 하부 인라인스케이트장",
-      "org": "구로구육상연맹",
-      "tel": "010-7734-3840",
-      "homepage": "http://cafe.daum.net/guro-run/LvM7/45",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41734",
-      "view_no": "41734",
-      "reg_start": "2026-08-03",
-      "reg_end": "2026-08-31",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 23,
-        "tmin": 19
+        "icon": "🌦️",
+        "desc": "이슬비",
+        "tmax": 20,
+        "tmin": 18
       }
     },
     {
@@ -111,64 +42,14 @@
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41702",
       "view_no": "41702",
       "reg_start": "2026-07-15",
-      "reg_end": "2026-08-31",
+      "reg_end": "2026-09-01",
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
         "icon": "☁️",
         "desc": "흐림",
-        "tmax": 27,
-        "tmin": 18
-      }
-    },
-    {
-      "date": "2026-09-13",
-      "date_display": "9/13(일)",
-      "month": 9,
-      "day": 13,
-      "weekday": "일",
-      "name": "2026포항이차전지전국마라톤",
-      "course": "하프,10km,5km",
-      "place": "포항운하관주차장",
-      "org": "매일신사",
-      "tel": "054-1600-4525",
-      "homepage": "http://energyrun.co.kr/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41652",
-      "view_no": "41652",
-      "reg_start": "2026-06-29",
-      "reg_end": "2026-08-31",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "⛈️",
-        "desc": "뇌우",
-        "tmax": 27,
-        "tmin": 22
-      }
-    },
-    {
-      "date": "2026-09-13",
-      "date_display": "9/13(일)",
-      "month": 9,
-      "day": 13,
-      "weekday": "일",
-      "name": "제14회설악산공룡능선UTMB",
-      "course": "27km,22km",
-      "place": "설익산한계령휴계소",
-      "org": "(사)한국산악마라톤연맹",
-      "tel": "02-424-2195",
-      "homepage": "http://www.koreatrail.net/home/main.php?link=event&einc=eapp&opp=20250910133652&csno=20191227110239#baseline",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41192",
-      "view_no": "41192",
-      "reg_start": "2025-11-13",
-      "reg_end": "2026-08-31",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 25,
-        "tmin": 18
+        "tmax": 29,
+        "tmin": 21
       }
     },
     {
@@ -243,7 +124,26 @@
       "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41694",
       "view_no": "41694",
       "reg_start": "2026-07-13",
-      "reg_end": "2026-08-31",
+      "reg_end": "2026-09-11",
+      "reg_verified": true,
+      "runable_matched": false
+    },
+    {
+      "date": "2026-09-19",
+      "date_display": "9/19(토)",
+      "month": 9,
+      "day": 19,
+      "weekday": "토",
+      "name": "2026 안양천 하프 마라톤",
+      "course": "하프,10km,5km",
+      "place": "신정교 하부 영롱이 억새구장",
+      "org": "(사)행복한가게",
+      "tel": "02-888-8875",
+      "homepage": "http://aychalf.kr",
+      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41674",
+      "view_no": "41674",
+      "reg_start": "2026-07-06",
+      "reg_end": "2026-09-10",
       "reg_verified": true,
       "runable_matched": false
     }
