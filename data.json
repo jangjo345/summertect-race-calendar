@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T07:00:22.078543",
+  "updated": "2026-09-05T07:00:26.764108",
   "total": 5,
   "races": [
     {
@@ -23,7 +23,7 @@
       "weather": {
         "icon": "☁️",
         "desc": "흐림",
-        "tmax": 20,
+        "tmax": 25,
         "tmin": 15
       }
     },
@@ -63,7 +63,13 @@
       "reg_start": "2026-07-28",
       "reg_end": "2026-09-18",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 27,
+        "tmin": 20
+      }
     },
     {
       "date": "2026-09-19",
@@ -101,7 +107,13 @@
       "reg_start": "2026-07-06",
       "reg_end": "2026-09-10",
       "reg_verified": true,
-      "runable_matched": false
+      "runable_matched": false,
+      "weather": {
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 26,
+        "tmin": 20
+      }
     }
   ]
 }
