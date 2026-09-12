@@ -1,51 +1,7 @@
 {
-  "updated": "2026-09-10T07:00:24.660911",
-  "total": 5,
+  "updated": "2026-09-13T07:00:13.923516",
+  "total": 1,
   "races": [
-    {
-      "date": "2026-09-12",
-      "date_display": "9/12(토)",
-      "month": 9,
-      "day": 12,
-      "weekday": "토",
-      "name": "빵트레일런 2026",
-      "course": "10km,30K,20K",
-      "place": "정선 하이원 리조트",
-      "org": "1986프로덕션",
-      "tel": "02-364-1986",
-      "homepage": "http://bbangtrailrun.co.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41354",
-      "view_no": "41354",
-      "reg_start": "2026-03-31",
-      "reg_end": "2026-09-12",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 22,
-        "tmin": 15
-      }
-    },
-    {
-      "date": "2026-09-19",
-      "date_display": "9/19(토)",
-      "month": 9,
-      "day": 19,
-      "weekday": "토",
-      "name": "2026 사찰런",
-      "course": "6.3km",
-      "place": "경산 갓바위 소원길",
-      "org": "윌슨컴퍼니 주식회사",
-      "tel": "070-8670-0781",
-      "homepage": "http://sachalrun.com/",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41783",
-      "view_no": "41783",
-      "reg_start": "2026-08-07",
-      "reg_end": "2026-09-10",
-      "reg_verified": true,
-      "runable_matched": false
-    },
     {
       "date": "2026-09-19",
       "date_display": "9/19(토)",
@@ -67,52 +23,8 @@
       "weather": {
         "icon": "☁️",
         "desc": "흐림",
-        "tmax": 25,
-        "tmin": 20
-      }
-    },
-    {
-      "date": "2026-09-19",
-      "date_display": "9/19(토)",
-      "month": 9,
-      "day": 19,
-      "weekday": "토",
-      "name": "제4회 문경 오미자런",
-      "course": "10km,5km",
-      "place": "문경종합온천",
-      "org": "문경시, 문경시 청년센터",
-      "tel": "010-2805-9016",
-      "homepage": "http://www.omijarun.com",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41694",
-      "view_no": "41694",
-      "reg_start": "2026-07-13",
-      "reg_end": "2026-09-11",
-      "reg_verified": true,
-      "runable_matched": false
-    },
-    {
-      "date": "2026-09-19",
-      "date_display": "9/19(토)",
-      "month": 9,
-      "day": 19,
-      "weekday": "토",
-      "name": "2026 안양천 하프 마라톤",
-      "course": "하프,10km,5km",
-      "place": "신정교 하부 영롱이 억새구장",
-      "org": "(사)행복한가게",
-      "tel": "02-888-8875",
-      "homepage": "http://aychalf.kr",
-      "view_url": "http://www.roadrun.co.kr/schedule/view.php?no=41674",
-      "view_no": "41674",
-      "reg_start": "2026-07-06",
-      "reg_end": "2026-09-10",
-      "reg_verified": true,
-      "runable_matched": false,
-      "weather": {
-        "icon": "☁️",
-        "desc": "흐림",
-        "tmax": 25,
-        "tmin": 19
+        "tmax": 28,
+        "tmin": 21
       }
     }
   ]
