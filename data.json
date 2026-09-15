@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T07:00:10.649389",
+  "updated": "2026-09-16T07:00:09.548643",
   "total": 1,
   "races": [
     {
@@ -21,9 +21,9 @@
       "reg_verified": true,
       "runable_matched": false,
       "weather": {
-        "icon": "🌤️",
-        "desc": "대체로 맑음",
-        "tmax": 29,
+        "icon": "☁️",
+        "desc": "흐림",
+        "tmax": 31,
         "tmin": 21
       }
     }
